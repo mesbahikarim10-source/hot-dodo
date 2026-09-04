@@ -1,0 +1,38 @@
+
+name: IPTV Heavy Worker
+
+on:
+  workflow_dispatch:
+  repository_dispatch:
+    types: [run_bot_task]
+
+concurrency:
+  group: iptv-bot
+  cancel-in-progress: false
+
+jobs:
+  process:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout Code
+        uses: actions/checkout@v3
+
+      - name: Set up Python
+        uses: actions/setup-python@v4
+        with:
+          python-version: '3.11'
+
+      - name: Install Packages
+        run: pip install python-telegram-bot requests aiohttp pyrogram tgcrypto nest_asyncio Pillow
+
+      - name: Download Professional Font
+        run: wget -q -O font.ttf https://github.com/googlefonts/roboto/raw/main/src/hinted/Roboto-Black.ttf
+
+      - name: Run Heavy Script
+        env:
+          MY_TELEGRAM_TOKEN: ${{ secrets.MY_TELEGRAM_TOKEN }}
+          MY_GITHUB_TOKEN: ${{ secrets.MY_GITHUB_TOKEN }}
+          MY_SESSION_STRING: ${{ secrets.MY_SESSION_STRING }}
+          CF_API_KEY: ${{ secrets.CF_API_KEY }}
+          PAYLOAD: '${{ toJSON(github.event.client_payload) }}'
+        run: python worker.py
