@@ -29,7 +29,7 @@ if not s_str:
 # ================== بياناتك السرية ==================
 TOKEN = os.environ.get("MY_TELEGRAM_TOKEN")
 GITHUB_TOKEN = os.environ.get("MY_GITHUB_TOKEN")
-GITHUB_USER = "gtorafndoz/hot-dodo"
+GITHUB_USER = "mesbahikarim10-source/hot-dodo"
 REPO_NAME = "hot-dodo"
 SESSION_STRING = s_str
 
