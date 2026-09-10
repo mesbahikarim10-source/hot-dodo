@@ -1,9 +1,0 @@
-﻿#EXTM3U
-#EXTINF:-1 tvg-id="Free.IPTV" tvg-name="FREE IPTV WORLD PROMO" tvg-logo="https://files.catbox.moe/goe4nn.jpg" group-title="🌟 FREE IPTV WORLD 🌟",📺 Welcome to FREE IPTV WORLD
-https://files.catbox.moe/npglfu.mp4
-#EXTINF:-1 tvg-id="canal13.cl" tvg-name="CL | CANAL 13 HD" tvg-logo="http://redworld.pro:8880/images/a67edae422309f893a73707b38e9ca09.png" group-title="⭐️ CHILE  ",CL | CANAL 13 HD | 🌟 FREE IPTV WORLD 🌟
-https://redirector.dps.live/hls/13cl/playlist.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-id="biobio.cl" tvg-name="CL | LA RED SD" tvg-logo="http://redworld.pro:8880/images/bcfd743e350fccf33546292fffc48b26.png" group-title="⭐️ CHILE  ",CL | LA RED SD | 🌟 FREE IPTV WORLD 🌟
-https://clbpktstvhls-1.clarovideo.com/bpk-tv/LAREDHD/hls_fk/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="CL | 13 ENTRETENCIÓN" tvg-logo="http://redworld.pro:8880/images/0b5879426e89dec80c851083f6a6b7d8.png" group-title="⭐️ CHILE  ",CL | 13 ENTRETENCIÓN | 🌟 FREE IPTV WORLD 🌟
-https://origin.dpsgo.com/ssai/event/BBp0VeP6QtOOlH8nu3bWTg/master.m3u8
