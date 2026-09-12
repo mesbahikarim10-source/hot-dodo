@@ -138,16 +138,22 @@ IMAGE_SIMPLE_CAPTION = """🌍 <b>𝗙𝗥𝗘𝗘 𝗜𝗣𝗧𝗩 𝗪𝗢𝗥
 ━━━━━━━━━━━━━━━━━━
 👇 <i>الروابط في المنشور التالي</i> 👇"""
 
+from pyrogram.types import InlineKeyboardMarkup, InlineKeyboardButton
+
 def build_post_keyboard():
     return InlineKeyboardMarkup([
         [InlineKeyboardButton("📣 𝗢𝘂𝗿 𝗖𝗵𝗮𝗻𝗻𝗲𝗹", url="https://t.me/free_iptv_world"), InlineKeyboardButton("💬 𝗢𝘂𝗿 𝗚𝗿𝗼𝘂𝗽", url="https://t.me/FREE_IPTV_WORLD_CHAT")],
         [InlineKeyboardButton("How to use our links 🥰", url="https://t.me/free_iptv_world/2763")],
         [InlineKeyboardButton("🔁 𝗦𝗵𝗮𝗿𝗲 𝗣𝗼𝘀𝘁", url="https://t.me/share/url?url=https://t.me/free_iptv_world&text=🔥%20أقوى%20سيرفرات%20IPTV%20مجاناً%20🔥")],
-        [InlineKeyboardButton("Free Earning 🤑", url="https://t.me/ainovum_bot?start=ref_1144699168&startapp=ref_1144699168")]
+        [InlineKeyboardButton("💎 𝗩𝗜𝗣 𝗙𝗿𝗲𝗲 𝗘𝗮𝗿𝗻𝗶𝗻𝗴 💸", url="https://t.me/ainovum_bot?start=ref_1144699168&startapp=ref_1144699168")],
+        [InlineKeyboardButton("🚀 𝗕𝗼𝗼𝘀𝘁 𝗢𝘂𝗿 𝗖𝗵𝗮𝗻𝗻𝗲𝗹 🌟", url="https://t.me/boost/free_iptv_world")]
     ])
 
 def stop_button():
-    return InlineKeyboardMarkup([[InlineKeyboardButton("🛑 إيقاف العملية", callback_data="cancel_process")]])
+    return InlineKeyboardMarkup([
+        [InlineKeyboardButton("🛑 إيقاف العملية", callback_data="cancel_process")]
+    ])
+
 
 def safe_delete(filepath):
     try:
