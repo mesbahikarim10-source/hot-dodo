@@ -138,8 +138,6 @@ IMAGE_SIMPLE_CAPTION = """🌍 <b>𝗙𝗥𝗘𝗘 𝗜𝗣𝗧𝗩 𝗪𝗢𝗥
 ━━━━━━━━━━━━━━━━━━
 👇 <i>الروابط في المنشور التالي</i> 👇"""
 
-from pyrogram.types import InlineKeyboardMarkup, InlineKeyboardButton
-
 def build_post_keyboard():
     return InlineKeyboardMarkup([
         [InlineKeyboardButton("📣 𝗢𝘂𝗿 𝗖𝗵𝗮𝗻𝗻𝗲𝗹", url="https://t.me/free_iptv_world"), InlineKeyboardButton("💬 𝗢𝘂𝗿 𝗚𝗿𝗼𝘂𝗽", url="https://t.me/FREE_IPTV_WORLD_CHAT")],
