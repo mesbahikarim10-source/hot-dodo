@@ -144,6 +144,7 @@ def build_post_keyboard():
         [InlineKeyboardButton("How to use our links 🥰", url="https://t.me/free_iptv_world/2763")],
         [InlineKeyboardButton("🔁 𝗦𝗵𝗮𝗿𝗲 𝗣𝗼𝘀𝘁", url="https://t.me/share/url?url=https://t.me/free_iptv_world&text=🔥%20أقوى%20سيرفرات%20IPTV%20مجاناً%20🔥")],
         [InlineKeyboardButton("💎 𝗩𝗜𝗣 𝗙𝗿𝗲𝗲 𝗘𝗮𝗿𝗻𝗶𝗻𝗴 💸", url="https://t.me/ainovum_bot?start=ref_1144699168&startapp=ref_1144699168")],
+        [InlineKeyboardButton("🎁 𝗔𝗥𝗧 𝗔𝗜𝗥𝗗𝗥𝗢𝗣 𝗕𝗢𝗧 🎁", url="https://t.me/ART_AIRDROP_BOT?start=1144699168")],
         [InlineKeyboardButton("🚀 𝗕𝗼𝗼𝘀𝘁 𝗢𝘂𝗿 𝗖𝗵𝗮𝗻𝗻𝗲𝗹 🌟", url="https://t.me/boost/free_iptv_world")]
     ])
 
@@ -151,7 +152,6 @@ def stop_button():
     return InlineKeyboardMarkup([
         [InlineKeyboardButton("🛑 إيقاف العملية", callback_data="cancel_process")]
     ])
-
 
 def safe_delete(filepath):
     try:
@@ -286,6 +286,30 @@ def cleanup_old_github_files():
                             requests.delete(file.get("url"), json={"message": f"Auto-delete: {name}", "sha": file.get("sha")}, headers=headers)
                     except: continue
     except: pass
+
+# ================== التفريغ اليدوي الشامل من GitHub ==================
+async def force_cleanup_github(bot, chat_id, message_id):
+    edit_state = {"time": 0}
+    await safe_edit(bot, chat_id, message_id, "🧹 **جاري مسح الملفات من مساحة GitHub لتفريغها...** ⏳", edit_state, force=True)
+    api_url = f"https://api.github.com/repos/{GITHUB_USER}/{REPO_NAME}/contents/"
+    headers = {"Authorization": f"token {GITHUB_TOKEN}", "Accept": "application/vnd.github.v3+json"}
+    deleted_count = 0
+    try:
+        resp = requests.get(api_url, headers=headers)
+        if resp.status_code == 200:
+            for file in resp.json():
+                name = file.get("name", "")
+                # يمسح أي ملفات M3U أو مضغوطة تم رفعها مسبقاً
+                if name.startswith("FIW_") or name.startswith("Hunter_") or name.endswith(".m3u") or name.endswith(".zip"):
+                    try:
+                        requests.delete(file.get("url"), json={"message": f"Manual Delete: {name}", "sha": file.get("sha")}, headers=headers)
+                        deleted_count += 1
+                    except: pass
+            await safe_edit(bot, chat_id, message_id, f"✅ **تم تفريغ مساحة GitHub بنجاح!**\n🗑️ تم حذف {deleted_count} ملفات قديمة.", edit_state, force=True)
+        else:
+            await safe_edit(bot, chat_id, message_id, f"❌ **فشل الاتصال بـ GitHub.** الكود: {resp.status_code}", edit_state, force=True)
+    except Exception as e:
+        await safe_edit(bot, chat_id, message_id, f"❌ **خطأ أثناء التفريغ:** {e}", edit_state, force=True)
 
 async def upload_to_cloud(filename, selected_api="all"):
     if not os.path.exists(filename) or os.path.getsize(filename) == 0: return None
@@ -595,7 +619,7 @@ async def run_hunter_action(bot, chat_id, message_id, args):
                 ai_title = f"EXCLUSIVE {keyword.upper()} SERVER"
             else:
                 cap_title = "🔗 𝗗𝗜𝗥𝗘𝗖𝗧 𝗜𝗣𝗧𝗩 𝗟𝗜𝗡𝗞𝗦 🔗"
-                ai_title = "DIRECT IPTV LINKS"
+                ai_title = "DIRECT LINKS"
 
             caption = WARNING_TEXT + LINK_POST_CAPTION.replace("🔗 𝗗𝗜𝗥𝗘𝗖𝗧 𝗜𝗣𝗧𝗩 𝗟𝗜𝗡𝗞𝗦 🔗", cap_title).replace("{links}", "\n\n".join(collected_links))
 
@@ -789,6 +813,8 @@ async def main():
             await run_hunttxt_action(bot, chat_id, message_id, payload.get("args", []))
         elif action == "scrape":
             await run_scrape_action(bot, chat_id, message_id, payload.get("args", []))
+        elif action == "clean_github":
+            await force_cleanup_github(bot, chat_id, message_id)
         elif action == "process_file":
             await safe_edit(bot, chat_id, message_id, "⚙️ **المصنع يقوم بتنظيف وتفريغ الملف بالفورمات الأصلي الشرعي...** ⏳", {"time": 0}, stop_button(), force=True)
             tg_file = await bot.get_file(payload.get("file_id"))
