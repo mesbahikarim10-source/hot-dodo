@@ -1,0 +1,1467 @@
+﻿#EXTM3U
+#EXTINF:-1 tvg-id="Free.IPTV" tvg-name="FREE IPTV WORLD PROMO" tvg-logo="https://files.catbox.moe/goe4nn.jpg" group-title="🌟 FREE IPTV WORLD 🌟",📺 Welcome to FREE IPTV WORLD
+https://files.catbox.moe/npglfu.mp4
+#EXTINF:-1 xui-id="1" tvg-id="156624" tvg-name="NRK1" tvg-logo="http://fomo.re:80/images/Nrk1_square.png" group-title="Norway",NRK1 | 🌟 FREE IPTV WORLD 🌟
+http://fomo.re:80/play/INqRI1BSwwQ4bRlJzMZLST09P8rMGdJ2bXKH_pZ4lwI/ts
+#EXTINF:-1 timeshift="3" xui-id="2" tvg-id="156624" tvg-name="NRK1 HD" tvg-logo="http://fomo.re:80/images/Nrk1_square.png" group-title="Norway",NRK1 HD | 🌟 FREE IPTV WORLD 🌟
+http://fomo.re:80/play/INqRI1BSwwQ4bRlJzMZLSRJzB0kCOMj4fkNvOtzYXIU/ts
+#EXTINF:-1 xui-id="3" tvg-id="156624" tvg-name="NRK1 Lav Internett hastighet" tvg-logo="http://fomo.re:80/images/Nrk1_square.png" group-title="Norway",NRK1 Lav Internett hastighet | 🌟 FREE IPTV WORLD 🌟
+http://fomo.re:80/play/INqRI1BSwwQ4bRlJzMZLSZQZ5FejW5-F0hWdImACTyo/ts
+#EXTINF:-1 xui-id="4" tvg-id="156625" tvg-name="NRK2" tvg-logo="http://fomo.re:80/images/Nrk2_square.png" group-title="Norway",NRK2 | 🌟 FREE IPTV WORLD 🌟
+http://fomo.re:80/play/INqRI1BSwwQ4bRlJzMZLSbj0z_dX3nOAmReHypYkU6A/ts
+#EXTINF:-1 timeshift="5" xui-id="5" tvg-id="156625" tvg-name="NRK2 HD" tvg-logo="http://fomo.re:80/images/Nrk2_square.png" group-title="Norway",NRK2 HD | 🌟 FREE IPTV WORLD 🌟
+http://fomo.re:80/play/INqRI1BSwwQ4bRlJzMZLSQx6b_cKmrEuy9gOnKr3Tfw/ts
+#EXTINF:-1 xui-id="6" tvg-id="156626" tvg-name="NRK3" tvg-logo="http://fomo.re:80/images/Nrk3_square.png" group-title="Norway",NRK3 | 🌟 FREE IPTV WORLD 🌟
+http://fomo.re:80/play/INqRI1BSwwQ4bRlJzMZLSTh904iNXRUP-8UcnJ3y5WQ/ts
+#EXTINF:-1 xui-id="7" tvg-id="156515" tvg-name="TV 2" tvg-logo="http://fomo.re:80/images/Tv2Ny_square.svg.png" group-title="Norway",TV 2 | 🌟 FREE IPTV WORLD 🌟
+http://fomo.re:80/play/INqRI1BSwwQ4bRlJzMZLSQZgVAKhDVXY9Wl5hUlUIdw/ts
+#EXTINF:-1 timeshift="3" xui-id="8" tvg-id="155951" tvg-name="TV 2 HD" tvg-logo="http://fomo.re:80/images/Tv2Ny_square.svg.png" group-title="Norway",TV 2 HD | 🌟 FREE IPTV WORLD 🌟
+http://fomo.re:80/play/INqRI1BSwwQ4bRlJzMZLSVmbHKh0OubzuxKJj4SNpAw/ts
+#EXTINF:-1 xui-id="9" tvg-id="156544" tvg-name="TVNorge" tvg-logo="http://fomo.re:80/images/TvNorge_square.svg.png" group-title="Norway",TVNorge | 🌟 FREE IPTV WORLD 🌟
+http://fomo.re:80/play/INqRI1BSwwQ4bRlJzMZLSTmPWymdIrLynKpIPRwz6yk/ts
+#EXTINF:-1 timeshift="2" xui-id="10" tvg-id="156544" tvg-name="TVNorge HD" tvg-logo="http://fomo.re:80/images/TvNorge_square.svg.png" group-title="Norway",TVNorge HD | 🌟 FREE IPTV WORLD 🌟
+http://fomo.re:80/play/INqRI1BSwwQ4bRlJzMZLSTP5JvIVFTmE5dq_Zia3xU4/ts
+#EXTINF:-1 xui-id="11" tvg-id="156513" tvg-name="TV 3" tvg-logo="http://fomo.re:80/images/Tv3_square.svg.png" group-title="Norway",TV 3 | 🌟 FREE IPTV WORLD 🌟
+http://fomo.re:80/play/INqRI1BSwwQ4bRlJzMZLSW4rZNRf4oyhOHG7mTd-Nwo/ts
+#EXTINF:-1 timeshift="2" xui-id="12" tvg-id="156513" tvg-name="TV 3 HD" tvg-logo="http://fomo.re:80/images/Tv3_square.svg.png" group-title="Norway",TV 3 HD | 🌟 FREE IPTV WORLD 🌟
+http://fomo.re:80/play/INqRI1BSwwQ4bRlJzMZLSfWO47mjuBz9_GKUUYDngxo/ts
+#EXTINF:-1 xui-id="13" tvg-id="156542" tvg-name="REX" tvg-logo="http://fomo.re:80/images/Max_square.svg.png" group-title="Norway",REX | 🌟 FREE IPTV WORLD 🌟
+http://fomo.re:80/play/INqRI1BSwwQ4bRlJzMZLSSxvqIhqdD68b7LnjzpnA00/ts
+#EXTINF:-1 timeshift="2" xui-id="14" tvg-id="156479" tvg-name="MAX HD" tvg-logo="http://fomo.re:80/images/Max_square.svg.png" group-title="Norway",MAX HD | 🌟 FREE IPTV WORLD 🌟
+http://fomo.re:80/play/INqRI1BSwwQ4bRlJzMZLSaYqGt3l4MNa2JSFfEB9Mbc/ts
+#EXTINF:-1 xui-id="15" tvg-id="156560" tvg-name="TV3+" tvg-logo="http://fomo.re:80/images/TV3Pluss_square.svg.png" group-title="Norway",TV3+ | 🌟 FREE IPTV WORLD 🌟
+http://fomo.re:80/play/INqRI1BSwwQ4bRlJzMZLSbkAlVpQDd0XeXqvRupNAOI/ts
+#EXTINF:-1 xui-id="16" tvg-id="156560" tvg-name="TV3+ HD" tvg-logo="http://fomo.re:80/images/TV3Pluss_square.svg.png" group-title="Norway",TV3+ HD | 🌟 FREE IPTV WORLD 🌟
+http://fomo.re:80/play/INqRI1BSwwQ4bRlJzMZLSWhrlOmgin-ginuBGh9fYEY/ts
+#EXTINF:-1 xui-id="17" tvg-id="156551" tvg-name="TV 2 Zebra" tvg-logo="http://fomo.re:80/images/Tv2ZebraNyV2_square.svg.png" group-title="Norway",TV 2 Zebra | 🌟 FREE IPTV WORLD 🌟
+http://fomo.re:80/play/INqRI1BSwwQ4bRlJzMZLSYt6bVt_gEhHkN8dP-t6jms/ts
+#EXTINF:-1 xui-id="18" tvg-id="156552" tvg-name="TV 2 Livsstil" tvg-logo="http://fomo.re:80/images/Tv2LivsstilNyV2_square.svg.png" group-title="Norway",TV 2 Livsstil | 🌟 FREE IPTV WORLD 🌟
+http://fomo.re:80/play/INqRI1BSwwQ4bRlJzMZLSRt1SkNmfTgroi3lK2AuHNk/ts
+#EXTINF:-1 xui-id="19" tvg-id="156187" tvg-name="FEM" tvg-logo="http://fomo.re:80/images/Fem_square.svg.png" group-title="Norway",FEM | 🌟 FREE IPTV WORLD 🌟
+http://fomo.re:80/play/INqRI1BSwwQ4bRlJzMZLSSm6qsdSISZLcGcO32hSs0Q/ts
+#EXTINF:-1 timeshift="2" xui-id="20" tvg-id="156187" tvg-name="FEM HD" tvg-logo="http://fomo.re:80/images/Fem_square.svg.png" group-title="Norway",FEM HD | 🌟 FREE IPTV WORLD 🌟
+http://fomo.re:80/play/INqRI1BSwwQ4bRlJzMZLScpxLkara-iQ2DXT1wUp5rk/ts
+#EXTINF:-1 timeshift="2" xui-id="21" tvg-id="156475" tvg-name="TV 6" tvg-logo="http://fomo.re:80/images/Tv6_square.svg.png" group-title="Norway",TV 6 | 🌟 FREE IPTV WORLD 🌟
+http://fomo.re:80/play/INqRI1BSwwQ4bRlJzMZLSeAvb28a8YhI1gNwe4Enwn0/ts
+#EXTINF:-1 xui-id="22" tvg-id="156554" tvg-name="TV 2 Nyhetskanalen" tvg-logo="http://fomo.re:80/images/Tv2NyhetskanalenNyV2_square.svg.png" group-title="Norway",TV 2 Nyhetskanalen | 🌟 FREE IPTV WORLD 🌟
+http://fomo.re:80/play/INqRI1BSwwQ4bRlJzMZLSdnY6hijWBfefTVL6inPPDk/ts
+#EXTINF:-1 xui-id="23" tvg-id="155968" tvg-name="VGTV" tvg-logo="http://fomo.re:80/images/1b015066d9a341ad3542768ec311c120.png" group-title="Norway",VGTV | 🌟 FREE IPTV WORLD 🌟
+http://fomo.re:80/play/INqRI1BSwwQ4bRlJzMZLSQ_hAoj_4JLiumRXufXPUfc/ts
+#EXTINF:-1 xui-id="24" tvg-id="156424" tvg-name="CNN" tvg-logo="http://fomo.re:80/images/CNN_square.svg.png" group-title="Norway",CNN | 🌟 FREE IPTV WORLD 🌟
+http://fomo.re:80/play/INqRI1BSwwQ4bRlJzMZLSVoSqWVb5kLOCdw9gI8lUfs/ts
+#EXTINF:-1 xui-id="31" tvg-id="156462" tvg-name="TLC" tvg-logo="http://fomo.re:80/images/TLC_square.svg.png" group-title="Norway",TLC | 🌟 FREE IPTV WORLD 🌟
+http://fomo.re:80/play/INqRI1BSwwQ4bRlJzMZLSSXS2XvrKLlFKrw4nzTXjBQ/ts
+#EXTINF:-1 xui-id="32" tvg-id="156194" tvg-name="Nat Geo" tvg-logo="http://fomo.re:80/images/NationalGeographic_square.svg.png" group-title="Norway",Nat Geo | 🌟 FREE IPTV WORLD 🌟
+http://fomo.re:80/play/INqRI1BSwwQ4bRlJzMZLSbAorjSIzat-OCdoZxTi5z8/ts
+#EXTINF:-1 timeshift="2" xui-id="33" tvg-id="156194" tvg-name="Nat Geo HD" tvg-logo="http://fomo.re:80/images/NationalGeographic_square.svg.png" group-title="Norway",Nat Geo HD | 🌟 FREE IPTV WORLD 🌟
+http://fomo.re:80/play/INqRI1BSwwQ4bRlJzMZLSWkyImJp1XUtdViyJ0xIgL8/ts
+#EXTINF:-1 xui-id="34" tvg-id="156188" tvg-name="VOX" tvg-logo="http://fomo.re:80/images/GER_vox.png" group-title="Norway",VOX | 🌟 FREE IPTV WORLD 🌟
+http://fomo.re:80/play/INqRI1BSwwQ4bRlJzMZLSS75LlrccGu5x3Cxw8PgmUY/ts
+#EXTINF:-1 timeshift="2" xui-id="35" tvg-id="156188" tvg-name="VOX HD" tvg-logo="http://fomo.re:80/images/GER_vox.png" group-title="Norway",VOX HD | 🌟 FREE IPTV WORLD 🌟
+http://fomo.re:80/play/INqRI1BSwwQ4bRlJzMZLSf5_H8N63OEARcsDtFax-SE/ts
+#EXTINF:-1 xui-id="36" tvg-id="156579" tvg-name="BBC Nordic" tvg-logo="http://fomo.re:80/images/all_bbc_nodik.png" group-title="Norway",BBC Nordic | 🌟 FREE IPTV WORLD 🌟
+http://fomo.re:80/play/INqRI1BSwwQ4bRlJzMZLSfndKUJjl_M2BBMiap3X1hE/ts
+#EXTINF:-1 xui-id="37" tvg-id="156582" tvg-name="Viasat Explore HD" tvg-logo="http://fomo.re:80/images/SWE_viasat_explore_hd.png" group-title="Norway",Viasat Explore HD | 🌟 FREE IPTV WORLD 🌟
+http://fomo.re:80/play/INqRI1BSwwQ4bRlJzMZLSShzHi-38pjQKH40FtSlV1E/ts
+#EXTINF:-1 xui-id="38" tvg-id="156586" tvg-name="Viasat History HD" tvg-logo="http://fomo.re:80/images/SWE_viasat_history_hd.png" group-title="Norway",Viasat History HD | 🌟 FREE IPTV WORLD 🌟
+http://fomo.re:80/play/INqRI1BSwwQ4bRlJzMZLSSSdSPCbNoQfC29I_8QYMK0/ts
+#EXTINF:-1 xui-id="39" tvg-id="156590" tvg-name="Viasat Nature HD" tvg-logo="http://fomo.re:80/images/SWE_viasat_nature_hd.png" group-title="Norway",Viasat Nature HD | 🌟 FREE IPTV WORLD 🌟
+http://fomo.re:80/play/INqRI1BSwwQ4bRlJzMZLSYhkk3ml7qf7LyDsVrixVQY/ts
+#EXTINF:-1 xui-id="40" tvg-id="156537" tvg-name="H&C" tvg-logo="http://fomo.re:80/images/SWE_h_and_c.png" group-title="Norway",H&C | 🌟 FREE IPTV WORLD 🌟
+http://fomo.re:80/play/INqRI1BSwwQ4bRlJzMZLSYHaQugsxnk184SUVDcVsKg/ts
+#EXTINF:-1 xui-id="50" tvg-id="156465" tvg-name="ID" tvg-logo="http://fomo.re:80/images/SWE_id.png" group-title="Norway",ID | 🌟 FREE IPTV WORLD 🌟
+http://fomo.re:80/play/INqRI1BSwwQ4bRlJzMZLSdIuAki8wsWMQ0TepV_40g0/ts
+#EXTINF:-1 xui-id="121" tvg-id="156398" tvg-name="MTV Aitio" tvg-logo="http://fomo.re:80/images/swe_mtv_aitio.png" group-title="Norway",MTV Aitio | 🌟 FREE IPTV WORLD 🌟
+http://fomo.re:80/play/INqRI1BSwwQ4bRlJzMZLSZTT-DwJR0NehViL-f8m2-s/ts
+#EXTINF:-1 xui-id="122" tvg-id="156253" tvg-name="MTV Viidhe" tvg-logo="http://fomo.re:80/images/CMoreSeries_square.svg.png" group-title="Norway",MTV Viidhe | 🌟 FREE IPTV WORLD 🌟
+http://fomo.re:80/play/INqRI1BSwwQ4bRlJzMZLSWsAUPWnB2UKZ2npB8Epjis/ts
+#EXTINF:-1 xui-id="123" tvg-id="156399" tvg-name="TV4 Hits" tvg-logo="http://fomo.re:80/images/CMoreHits_square.svg.png" group-title="Norway",TV4 Hits | 🌟 FREE IPTV WORLD 🌟
+http://fomo.re:80/play/INqRI1BSwwQ4bRlJzMZLSdx_WPbklQi59THvfnwMDGA/ts
+#EXTINF:-1 xui-id="124" tvg-id="156400" tvg-name="TV4 Stars" tvg-logo="http://fomo.re:80/images/CMoreStars_square.svg.png" group-title="Norway",TV4 Stars | 🌟 FREE IPTV WORLD 🌟
+http://fomo.re:80/play/INqRI1BSwwQ4bRlJzMZLSbtKopR0-9QvZxzBDYhYRto/ts
+#EXTINF:-1 xui-id="129" tvg-id="156481" tvg-name="V Film Action HD" tvg-logo="http://fomo.re:80/images/ALL_vsport_film_action_hd.png" group-title="Norway",V Film Action HD | 🌟 FREE IPTV WORLD 🌟
+http://fomo.re:80/play/INqRI1BSwwQ4bRlJzMZLSTNM2v4QsU5JXjfcyxLxKdc/ts
+#EXTINF:-1 xui-id="131" tvg-id="156488" tvg-name="V Film Hits HD" tvg-logo="http://fomo.re:80/images/ALL_vsport_film_hits_hd.png" group-title="Norway",V Film Hits HD | 🌟 FREE IPTV WORLD 🌟
+http://fomo.re:80/play/INqRI1BSwwQ4bRlJzMZLScw0Z9nMDSueCZrEjm27N-A/ts
+#EXTINF:-1 xui-id="132" tvg-id="156494" tvg-name="V Film Family" tvg-logo="http://fomo.re:80/images/ALL_vsport_35.png" group-title="Norway",V Film Family | 🌟 FREE IPTV WORLD 🌟
+http://fomo.re:80/play/INqRI1BSwwQ4bRlJzMZLSZ3niYvQZc45a0bapHp1_os/ts
+#EXTINF:-1 xui-id="133" tvg-id="156486" tvg-name="V series HD" tvg-logo="http://fomo.re:80/images/ALL_vsport_series_hd.png" group-title="Norway",V series HD | 🌟 FREE IPTV WORLD 🌟
+http://fomo.re:80/play/INqRI1BSwwQ4bRlJzMZLSUiHiyJKCJ1TZniK8qHGw48/ts
+#EXTINF:-1 xui-id="127" tvg-id="155839" tvg-name="V film premiere HD" tvg-logo="http://fomo.re:80/images/ALL_vsport_film_premiere_hd.png" group-title="Norway",V film premiere HD | 🌟 FREE IPTV WORLD 🌟
+http://fomo.re:80/play/INqRI1BSwwQ4bRlJzMZLSXNhB9XrR7v5AeMd93g5D8A/ts
+#EXTINF:-1 xui-id="94" tvg-id="156548" tvg-name="TV 2 Sport Premium HD" tvg-logo="http://fomo.re:80/images/NO_tv2_sport_premium_hd.png" group-title="Norway",TV 2 Sport Premium HD | 🌟 FREE IPTV WORLD 🌟
+http://fomo.re:80/play/INqRI1BSwwQ4bRlJzMZLSVp_JDi23PXwZM1bi1tv3xs/ts
+#EXTINF:-1 xui-id="65" tvg-id="156553" tvg-name="TV 2 Sport 2 HD" tvg-logo="http://fomo.re:80/images/NO_tv2_sport_2_hd.png" group-title="Norway",TV 2 Sport 2 HD | 🌟 FREE IPTV WORLD 🌟
+http://fomo.re:80/play/INqRI1BSwwQ4bRlJzMZLSdvnf7ctUbkvwxp0g9jP-Lg/ts
+#EXTINF:-1 xui-id="64" tvg-id="156550" tvg-name="TV 2 Sport 1 HD" tvg-logo="http://fomo.re:80/images/NO_tv2_sport_1_hd.png" group-title="Norway",TV 2 Sport 1 HD | 🌟 FREE IPTV WORLD 🌟
+http://fomo.re:80/play/INqRI1BSwwQ4bRlJzMZLSUL4A9n3YoCKdXy43sUIuho/ts
+#EXTINF:-1 xui-id="312" tvg-id="" tvg-name="CNBC Europe" tvg-logo="http://fomo.re:80/images/Cnbc_square.svg.png" group-title="Norway",CNBC Europe | 🌟 FREE IPTV WORLD 🌟
+http://fomo.re:80/play/INqRI1BSwwQ4bRlJzMZLSZ55rSy9usXAmL7nKyE1kLk/ts
+#EXTINF:-1 timeshift="2" xui-id="9912" tvg-id="156554" tvg-name="TV 2 Nyhetskanalen HD" tvg-logo="http://fomo.re:80/images/Tv2NyhetskanalenNyV2_square.svg.png" group-title="Norway",TV 2 Nyhetskanalen HD | 🌟 FREE IPTV WORLD 🌟
+http://fomo.re:80/play/INqRI1BSwwQ4bRlJzMZLSR2hvaIcbZ_tAcAE4_LtBHk/ts
+#EXTINF:-1 timeshift="2" xui-id="9914" tvg-id="156579" tvg-name="BBC Nordic HD" tvg-logo="http://fomo.re:80/images/all_bbc_nodik.png" group-title="Norway",BBC Nordic HD | 🌟 FREE IPTV WORLD 🌟
+http://fomo.re:80/play/INqRI1BSwwQ4bRlJzMZLSS5HI7COs9TvXa77rh3Vcc8/ts
+#EXTINF:-1 xui-id="9915" tvg-id="156398" tvg-name="MTV Aitio HD" tvg-logo="http://fomo.re:80/images/swe_mtv_aitio.png" group-title="Norway",MTV Aitio HD | 🌟 FREE IPTV WORLD 🌟
+http://fomo.re:80/play/INqRI1BSwwQ4bRlJzMZLSUqPne4OLn_WYz4nJj4b6dw/ts
+#EXTINF:-1 xui-id="9916" tvg-id="" tvg-name="MTV Viidhe HD" tvg-logo="http://fomo.re:80/images/CMoreSeries_square.svg.png" group-title="Norway",MTV Viidhe HD | 🌟 FREE IPTV WORLD 🌟
+http://fomo.re:80/play/INqRI1BSwwQ4bRlJzMZLSa3ClQzlG31dllxdKn3BXmE/ts
+#EXTINF:-1 xui-id="9917" tvg-id="" tvg-name="TV4 Hits HD" tvg-logo="http://fomo.re:80/images/CMoreHits_square.svg.png" group-title="Norway",TV4 Hits HD | 🌟 FREE IPTV WORLD 🌟
+http://fomo.re:80/play/INqRI1BSwwQ4bRlJzMZLSSMOVVWP05ikF15f235FaAM/ts
+#EXTINF:-1 xui-id="9918" tvg-id="" tvg-name="TV4 Stars HD" tvg-logo="http://fomo.re:80/images/CMoreStars_square.svg.png" group-title="Norway",TV4 Stars HD | 🌟 FREE IPTV WORLD 🌟
+http://fomo.re:80/play/INqRI1BSwwQ4bRlJzMZLSXhU7PHXKHj6lf3yG2FEasw/ts
+#EXTINF:-1 xui-id="9919" tvg-id="156501" tvg-name="Eurosport 1 HD [raw]" tvg-logo="http://fomo.re:80/images/NO_eurosport_1_hd.png" group-title="Norway",Eurosport 1 HD [raw] | 🌟 FREE IPTV WORLD 🌟
+http://fomo.re:80/play/INqRI1BSwwQ4bRlJzMZLSVtEGVnbKbYtaiGkBZwtmcA/ts
+#EXTINF:-1 timeshift="2" xui-id="11955" tvg-id="156626" tvg-name="NRK3 HD" tvg-logo="http://fomo.re:80/images/Nrk3_square.png" group-title="Norway",NRK3 HD | 🌟 FREE IPTV WORLD 🌟
+http://fomo.re:80/play/INqRI1BSwwQ4bRlJzMZLSQ2W0YZdo5Io61COcaqU0XE/ts
+#EXTINF:-1 xui-id="12069" tvg-id="155968" tvg-name="VGTV HD" tvg-logo="http://fomo.re:80/images/1b015066d9a341ad3542768ec311c120.png" group-title="Norway",VGTV HD | 🌟 FREE IPTV WORLD 🌟
+http://fomo.re:80/play/INqRI1BSwwQ4bRlJzMZLSWLv2LFwQFrC2u8uHXUkFW4/ts
+#EXTINF:-1 xui-id="12201" tvg-id="156553" tvg-name="TV 2 Sport 2 HD [raw]" tvg-logo="http://fomo.re:80/images/NO_tv2_sport_2_hd.png" group-title="Norway",TV 2 Sport 2 HD [raw] | 🌟 FREE IPTV WORLD 🌟
+http://fomo.re:80/play/INqRI1BSwwQ4bRlJzMZLSYd35yTb2KLsWsFcTNbB8tI/ts
+#EXTINF:-1 xui-id="12312" tvg-id="156549" tvg-name="TV 2 Sport Premium 2 HD [raw]" tvg-logo="http://fomo.re:80/images/NO_tv2_sport_premium_hd.png" group-title="Norway",TV 2 Sport Premium 2 HD [raw] | 🌟 FREE IPTV WORLD 🌟
+http://fomo.re:80/play/INqRI1BSwwQ4bRlJzMZLSVH89z3xST-C-kCMnmGSPS8/ts
+#EXTINF:-1 xui-id="12317" tvg-id="156458" tvg-name="Discovery" tvg-logo="http://fomo.re:80/images/UK_discovery.png" group-title="Norway",Discovery | 🌟 FREE IPTV WORLD 🌟
+http://fomo.re:80/play/INqRI1BSwwQ4bRlJzMZLSen6gIe8KiOrekeTT4-n5c8/ts
+#EXTINF:-1 timeshift="2" xui-id="30210" tvg-id="156551" tvg-name="TV 2 Zebra HD" tvg-logo="http://fomo.re:80/images/Tv2ZebraNyV2_square.svg.png" group-title="Norway",TV 2 Zebra HD | 🌟 FREE IPTV WORLD 🌟
+http://fomo.re:80/play/INqRI1BSwwQ4bRlJzMZLSZljHyp4-bLY7Mz5B-A-iJQ/ts
+#EXTINF:-1 timeshift="2" xui-id="30228" tvg-id="156552" tvg-name="TV 2 Livsstil HD" tvg-logo="http://fomo.re:80/images/Tv2LivsstilNyV2_square.svg.png" group-title="Norway",TV 2 Livsstil HD | 🌟 FREE IPTV WORLD 🌟
+http://fomo.re:80/play/INqRI1BSwwQ4bRlJzMZLSeIuX3dtoklMp0kAZN9blXg/ts
+#EXTINF:-1 timeshift="2" xui-id="31676" tvg-id="156462" tvg-name="TLC HD" tvg-logo="http://fomo.re:80/images/SWE_tlc.png" group-title="Norway",TLC HD | 🌟 FREE IPTV WORLD 🌟
+http://fomo.re:80/play/INqRI1BSwwQ4bRlJzMZLSafj0odEnoWycd0k8uddsho/ts
+#EXTINF:-1 timeshift="2" xui-id="31726" tvg-id="156458" tvg-name="Discovery HD" tvg-logo="http://fomo.re:80/images/UK_discovery_hd.png" group-title="Norway",Discovery HD | 🌟 FREE IPTV WORLD 🌟
+http://fomo.re:80/play/INqRI1BSwwQ4bRlJzMZLSfG4oEJ-Ko32ZN8CtzBqeAM/ts
+#EXTINF:-1 xui-id="423" tvg-id="" tvg-name="BBC News HD" tvg-logo="http://fomo.re:80/images/UK_bbc_news_hd.png" group-title="Norway",BBC News HD | 🌟 FREE IPTV WORLD 🌟
+http://fomo.re:80/play/INqRI1BSwwQ4bRlJzMZLSZNSowWW30AG33KG_feBZwY/ts
+#EXTINF:-1 xui-id="311" tvg-id="SKYNWMC" tvg-name="Sky News" tvg-logo="http://fomo.re:80/images/UK_sky_news.png" group-title="Norway",Sky News | 🌟 FREE IPTV WORLD 🌟
+http://fomo.re:80/play/INqRI1BSwwQ4bRlJzMZLSQlCOPBUmt7OJlvcBgYupG8/ts
+#EXTINF:-1 xui-id="206" tvg-id="156472" tvg-name="Rikstoto Direkte HD" tvg-logo="http://fomo.re:80/images/RikstotoDirekte_square.svg.png" group-title="Norway",Rikstoto Direkte HD | 🌟 FREE IPTV WORLD 🌟
+http://fomo.re:80/play/INqRI1BSwwQ4bRlJzMZLSfc1on6jqQkbTKjuomauQQ0/ts
+#EXTINF:-1 xui-id="32831" tvg-id="" tvg-name="Rikstoto 2 HD" tvg-logo="http://fomo.re:80/images/RikstotoDirekte_square.svg.png" group-title="Norway",Rikstoto 2 HD | 🌟 FREE IPTV WORLD 🌟
+http://fomo.re:80/play/INqRI1BSwwQ4bRlJzMZLSUm9ATzPGEnqHVAo5z0Wef8/ts
+#EXTINF:-1 xui-id="32832" tvg-id="" tvg-name="Rikstoto 3 HD" tvg-logo="http://fomo.re:80/images/RikstotoDirekte_square.svg.png" group-title="Norway",Rikstoto 3 HD | 🌟 FREE IPTV WORLD 🌟
+http://fomo.re:80/play/INqRI1BSwwQ4bRlJzMZLSe2WMJcZabbcUwX1o4sDcms/ts
+#EXTINF:-1 xui-id="38705" tvg-id="NRWLIVE" tvg-name="Norway Live OTT" tvg-logo="http://fomo.re:80/images/NorwayLive_square.svg.png" group-title="Norway",Norway Live OTT | 🌟 FREE IPTV WORLD 🌟
+http://fomo.re:80/play/INqRI1BSwwQ4bRlJzMZLSaoHDbm1rUQcYbKv3Gt67rc/ts
+#EXTINF:-1 xui-id="38712" tvg-id="" tvg-name="Disney JR OTT" tvg-logo="http://fomo.re:80/images/DisneyJunior_square.svg.png" group-title="Norway",Disney JR OTT | 🌟 FREE IPTV WORLD 🌟
+http://fomo.re:80/play/INqRI1BSwwQ4bRlJzMZLSaNevHhEFANHqV6TCzJnYh0/ts
+#EXTINF:-1 xui-id="38713" tvg-id="" tvg-name="Nickelodeon OTT" tvg-logo="http://fomo.re:80/images/UK_nickelodeon.png" group-title="Norway",Nickelodeon OTT | 🌟 FREE IPTV WORLD 🌟
+http://fomo.re:80/play/INqRI1BSwwQ4bRlJzMZLSehmkiex4mbxLHl_ilock9k/ts
+#EXTINF:-1 xui-id="41895" tvg-id="156636" tvg-name="NRK Tegnspråk" tvg-logo="http://fomo.re:80/images/NrkTegnsprak_square.svg.png" group-title="Norway",NRK Tegnspråk | 🌟 FREE IPTV WORLD 🌟
+http://fomo.re:80/play/INqRI1BSwwQ4bRlJzMZLSf6vWnQMH61YacMQk-u-5Nc/ts
+#EXTINF:-1 xui-id="41896" tvg-id="156635" tvg-name="NRK1 Innlandet HD" tvg-logo="http://fomo.re:80/images/Nrk1Innlandet_v2_square.svg.png" group-title="Norway",NRK1 Innlandet HD | 🌟 FREE IPTV WORLD 🌟
+http://fomo.re:80/play/INqRI1BSwwQ4bRlJzMZLSZWU9e55OxvWkxzbEkmINE0/ts
+#EXTINF:-1 xui-id="41897" tvg-id="156629" tvg-name="NRK1 Midtnytt HD" tvg-logo="http://fomo.re:80/images/Nrk1Midtnytt_v2_square.svg.png" group-title="Norway",NRK1 Midtnytt HD | 🌟 FREE IPTV WORLD 🌟
+http://fomo.re:80/play/INqRI1BSwwQ4bRlJzMZLSY8jZc3Vfi7u7LWBg2oOfy0/ts
+#EXTINF:-1 xui-id="41898" tvg-id="156630" tvg-name="NRK1 Møre og Romsdal HD" tvg-logo="http://fomo.re:80/images/Nrk1MoereogRomsdal_v2_square.svg.png" group-title="Norway",NRK1 Møre og Romsdal HD | 🌟 FREE IPTV WORLD 🌟
+http://fomo.re:80/play/INqRI1BSwwQ4bRlJzMZLSWEVl18hhP-gEGS1AQGIy1A/ts
+#EXTINF:-1 xui-id="41899" tvg-id="156628" tvg-name="NRK1 Nordland HD" tvg-logo="http://fomo.re:80/images/Nrk1Nordland_v2_square.svg.png" group-title="Norway",NRK1 Nordland HD | 🌟 FREE IPTV WORLD 🌟
+http://fomo.re:80/play/INqRI1BSwwQ4bRlJzMZLSf1CZ4BYOqCtIGVKRUNVt24/ts
+#EXTINF:-1 xui-id="41900" tvg-id="156627" tvg-name="NRK1 Nordnytt HD" tvg-logo="http://fomo.re:80/images/Nrk1Nordnytt_v2_square.svg.png" group-title="Norway",NRK1 Nordnytt HD | 🌟 FREE IPTV WORLD 🌟
+http://fomo.re:80/play/INqRI1BSwwQ4bRlJzMZLScGskz8DkbDS80JKHY16j7I/ts
+#EXTINF:-1 xui-id="41901" tvg-id="156632" tvg-name="NRK1 Rogaland HD" tvg-logo="http://fomo.re:80/images/Nrk1Rogaland_v2_square.svg.png" group-title="Norway",NRK1 Rogaland HD | 🌟 FREE IPTV WORLD 🌟
+http://fomo.re:80/play/INqRI1BSwwQ4bRlJzMZLSVtKWpCn2ZkaLwmghXb_dyc/ts
+#EXTINF:-1 xui-id="41902" tvg-id="156633" tvg-name="NRK1 Sørlandet HD" tvg-logo="http://fomo.re:80/images/Nrk1Sorlandet_v2_square.svg.png" group-title="Norway",NRK1 Sørlandet HD | 🌟 FREE IPTV WORLD 🌟
+http://fomo.re:80/play/INqRI1BSwwQ4bRlJzMZLSd-z65YmjC8PgORG6Gjcxek/ts
+#EXTINF:-1 xui-id="41903" tvg-id="156634" tvg-name="NRK1 Vestfold og Telemark HD" tvg-logo="http://fomo.re:80/images/Nrk1VestfoldogTelemark_v2_square.svg.png" group-title="Norway",NRK1 Vestfold og Telemark HD | 🌟 FREE IPTV WORLD 🌟
+http://fomo.re:80/play/INqRI1BSwwQ4bRlJzMZLSU2vXrjE1DyzMVobLx3Oo5c/ts
+#EXTINF:-1 xui-id="41904" tvg-id="156631" tvg-name="NRK1 Vestlandsrevyen HD" tvg-logo="http://fomo.re:80/images/Nrk1Vestlandsrevyen_v2_square.svg.png" group-title="Norway",NRK1 Vestlandsrevyen HD | 🌟 FREE IPTV WORLD 🌟
+http://fomo.re:80/play/INqRI1BSwwQ4bRlJzMZLSeMaojJPbmEoq7E59n-t25c/ts
+#EXTINF:-1 xui-id="41907" tvg-id="156492" tvg-name="V sport ultra HD (N)" tvg-logo="http://fomo.re:80/images/ALL_vsport_ultrahd.png" group-title="Norway",V sport ultra HD (N) | 🌟 FREE IPTV WORLD 🌟
+http://fomo.re:80/play/INqRI1BSwwQ4bRlJzMZLSZLXrj-5QUk9n-NBoQUQS2U/ts
+#EXTINF:-1 xui-id="39439" tvg-id="" tvg-name="DirekteSport 12 HD" tvg-logo="http://fomo.re:80/images/NO_Direkte_Sport_12.png" group-title="Norway",DirekteSport 12 HD | 🌟 FREE IPTV WORLD 🌟
+http://fomo.re:80/play/INqRI1BSwwQ4bRlJzMZLSd-iUzxPhPitVVfkGpJNHqA/ts
+#EXTINF:-1 xui-id="60725" tvg-id="SFE4KUS" tvg-name="Stingray Festival 4K" tvg-logo="http://fomo.re:80/images/UK_stingray_festival_4k_v2.png" group-title="Norway",Stingray Festival 4K | 🌟 FREE IPTV WORLD 🌟
+http://fomo.re:80/play/INqRI1BSwwQ4bRlJzMZLSc2Qozlx4Unqs2K7EQS3fZI/ts
+#EXTINF:-1 xui-id="63426" tvg-id="" tvg-name="V sport golf HD" tvg-logo="http://fomo.re:80/images/golf.png" group-title="Norway",V sport golf HD | 🌟 FREE IPTV WORLD 🌟
+http://fomo.re:80/play/INqRI1BSwwQ4bRlJzMZLScim2w4lDNTDoSQbibSTye0/ts
+#EXTINF:-1 xui-id="63427" tvg-id="" tvg-name="V sport golf" tvg-logo="http://fomo.re:80/images/golfhd.png" group-title="Norway",V sport golf | 🌟 FREE IPTV WORLD 🌟
+http://fomo.re:80/play/INqRI1BSwwQ4bRlJzMZLSdMzqTMqM1Sr9LTZ8SkvL2g/ts
+#EXTINF:-1 xui-id="87751" tvg-id="" tvg-name="Heim HD" tvg-logo="http://fomo.re:80/images/GER_heim.png" group-title="Norway",Heim HD | 🌟 FREE IPTV WORLD 🌟
+http://fomo.re:80/play/INqRI1BSwwQ4bRlJzMZLSaKSC_r2PUzf4Al97Qrloxg/ts
+#EXTINF:-1 xui-id="38707" tvg-id="" tvg-name="V sport 1 HD OTT | 50FPS" tvg-logo="http://fomo.re:80/images/ALL_vsport_1_hd.png" group-title="Norway",V sport 1 HD OTT | 50FPS | 🌟 FREE IPTV WORLD 🌟
+http://fomo.re:80/play/INqRI1BSwwQ4bRlJzMZLSZKIMrT_flapnAqnp0yizrg/ts
+#EXTINF:-1 xui-id="88" tvg-id="156532" tvg-name="V sport 1" tvg-logo="http://fomo.re:80/images/ALL_vsport_1.png" group-title="Norway",V sport 1 | 🌟 FREE IPTV WORLD 🌟
+http://fomo.re:80/play/INqRI1BSwwQ4bRlJzMZLST3g6K0kGknzlvQ3N6r8l_M/ts
+#EXTINF:-1 xui-id="89" tvg-id="156532" tvg-name="V sport 1 HD" tvg-logo="http://fomo.re:80/images/ALL_vsport_1_hd.png" group-title="Norway",V sport 1 HD | 🌟 FREE IPTV WORLD 🌟
+http://fomo.re:80/play/INqRI1BSwwQ4bRlJzMZLSfjm7SuaksmhBegzajBz0xA/ts
+#EXTINF:-1 xui-id="90" tvg-id="156509" tvg-name="V sport 2" tvg-logo="http://fomo.re:80/images/ALL_vsport_2.png" group-title="Norway",V sport 2 | 🌟 FREE IPTV WORLD 🌟
+http://fomo.re:80/play/INqRI1BSwwQ4bRlJzMZLSS9_9hjJWKyyZb4G-yBIjnA/ts
+#EXTINF:-1 xui-id="91" tvg-id="156509" tvg-name="V sport 2 HD" tvg-logo="http://fomo.re:80/images/ALL_vsport_2_hd.png" group-title="Norway",V sport 2 HD | 🌟 FREE IPTV WORLD 🌟
+http://fomo.re:80/play/INqRI1BSwwQ4bRlJzMZLSVTJXLY0sDeLYzFBfRqDXuc/ts
+#EXTINF:-1 timeshift="1" xui-id="9923" tvg-id="156509" tvg-name="V sport 2 HD | raw" tvg-logo="http://fomo.re:80/images/ALL_vsport_2_hd.png" group-title="Norway",V sport 2 HD | raw | 🌟 FREE IPTV WORLD 🌟
+http://fomo.re:80/play/INqRI1BSwwQ4bRlJzMZLSd87dWy93VF1iEdqXtaFwPU/ts
+#EXTINF:-1 xui-id="38708" tvg-id="" tvg-name="V sport 2 HD OTT | 50FPS" tvg-logo="http://fomo.re:80/images/ALL_vsport_2_hd.png" group-title="Norway",V sport 2 HD OTT | 50FPS | 🌟 FREE IPTV WORLD 🌟
+http://fomo.re:80/play/INqRI1BSwwQ4bRlJzMZLSWiyDaeqvlfff0xMMXr-oT8/ts
+#EXTINF:-1 xui-id="92" tvg-id="156510" tvg-name="V sport 3" tvg-logo="http://fomo.re:80/images/ALL_vsport_3.png" group-title="Norway",V sport 3 | 🌟 FREE IPTV WORLD 🌟
+http://fomo.re:80/play/INqRI1BSwwQ4bRlJzMZLSWieX9QBcapctnUGaV59i3U/ts
+#EXTINF:-1 xui-id="93" tvg-id="156510" tvg-name="V sport 3 HD" tvg-logo="http://fomo.re:80/images/ALL_vsport_3_hd.png" group-title="Norway",V sport 3 HD | 🌟 FREE IPTV WORLD 🌟
+http://fomo.re:80/play/INqRI1BSwwQ4bRlJzMZLSci2mXmdB8u7xxVAoIT61Cg/ts
+#EXTINF:-1 xui-id="9924" tvg-id="156510" tvg-name="V sport 3 HD | raw" tvg-logo="http://fomo.re:80/images/ALL_vsport_3_hd.png" group-title="Norway",V sport 3 HD | raw | 🌟 FREE IPTV WORLD 🌟
+http://fomo.re:80/play/INqRI1BSwwQ4bRlJzMZLSQffD6WwaCnvkK58H7GSXOg/ts
+#EXTINF:-1 xui-id="38709" tvg-id="" tvg-name="V sport 3 HD OTT | 50FPS" tvg-logo="http://fomo.re:80/images/ALL_vsport_3_hd.png" group-title="Norway",V sport 3 HD OTT | 50FPS | 🌟 FREE IPTV WORLD 🌟
+http://fomo.re:80/play/INqRI1BSwwQ4bRlJzMZLSb6orM50XaQjU1ga704IDl8/ts
+#EXTINF:-1 xui-id="86" tvg-id="156508" tvg-name="V Sport+" tvg-logo="http://fomo.re:80/images/ALL_vsport_plus.png" group-title="Norway",V Sport+ | 🌟 FREE IPTV WORLD 🌟
+http://fomo.re:80/play/INqRI1BSwwQ4bRlJzMZLSbFOzkssPDMXDOgIMP2Oea8/ts
+#EXTINF:-1 xui-id="87" tvg-id="156508" tvg-name="V sport+ HD" tvg-logo="http://fomo.re:80/images/ALL_vsport_plus_hd.png" group-title="Norway",V sport+ HD | 🌟 FREE IPTV WORLD 🌟
+http://fomo.re:80/play/INqRI1BSwwQ4bRlJzMZLSToZ5OSvED8FjNxg2uJCSGk/ts
+#EXTINF:-1 xui-id="9921" tvg-id="156508" tvg-name="V sport+ HD | raw" tvg-logo="http://fomo.re:80/images/ALL_vsport_plus_hd.png" group-title="Norway",V sport+ HD | raw | 🌟 FREE IPTV WORLD 🌟
+http://fomo.re:80/play/INqRI1BSwwQ4bRlJzMZLSaiWwqkXIP1SPpTXd2XHQvE/ts
+#EXTINF:-1 xui-id="38706" tvg-id="" tvg-name="V sport+ HD OTT | 50FPS" tvg-logo="http://fomo.re:80/images/ALL_vsport_plus_hd.png" group-title="Norway",V sport+ HD OTT | 50FPS | 🌟 FREE IPTV WORLD 🌟
+http://fomo.re:80/play/INqRI1BSwwQ4bRlJzMZLScyf4orC7SNWq8pNIZ1KNv4/ts
+#EXTINF:-1 xui-id="536" tvg-id="" tvg-name="TV 2 Sport 1" tvg-logo="http://fomo.re:80/images/NO_tv2_sport_1.png" group-title="Norway",TV 2 Sport 1 | 🌟 FREE IPTV WORLD 🌟
+http://fomo.re:80/play/INqRI1BSwwQ4bRlJzMZLSdrNVcvbKythrgWaquHc3Mc/ts
+#EXTINF:-1 xui-id="4370" tvg-id="156550" tvg-name="TV 2 Sport 1 HD [raw]" tvg-logo="http://fomo.re:80/images/NO_tv2_sport_1_hd.png" group-title="Norway",TV 2 Sport 1 HD [raw] | 🌟 FREE IPTV WORLD 🌟
+http://fomo.re:80/play/INqRI1BSwwQ4bRlJzMZLSR6sLUcckzOPRyU1zfvmLlc/ts
+#EXTINF:-1 xui-id="38710" tvg-id="" tvg-name="TV 2 Sport 1 HD OTT  (50FPS)" tvg-logo="http://fomo.re:80/images/NO_tv2_sport_1_hd.png" group-title="Norway",TV 2 Sport 1 HD OTT  (50FPS) | 🌟 FREE IPTV WORLD 🌟
+http://fomo.re:80/play/INqRI1BSwwQ4bRlJzMZLSa_8711OnqrLD35_mD2fafE/ts
+#EXTINF:-1 xui-id="38711" tvg-id="" tvg-name="TV 2 Sport 2 HD OTT (50FPS)" tvg-logo="http://fomo.re:80/images/NO_tv2_sport_2_hd.png" group-title="Norway",TV 2 Sport 2 HD OTT (50FPS) | 🌟 FREE IPTV WORLD 🌟
+http://fomo.re:80/play/INqRI1BSwwQ4bRlJzMZLSRAOGzu31nMMGaXnknQlFVY/ts
+#EXTINF:-1 xui-id="95" tvg-id="156549" tvg-name="TV 2 Sport Premium 2 HD" tvg-logo="http://fomo.re:80/images/NO_tv2_sport_premium_hd.png" group-title="Norway",TV 2 Sport Premium 2 HD | 🌟 FREE IPTV WORLD 🌟
+http://fomo.re:80/play/INqRI1BSwwQ4bRlJzMZLSZDUQT9kYiogShk67L4prdo/ts
+#EXTINF:-1 xui-id="4371" tvg-id="156548" tvg-name="TV 2 Sport Premium HD [raw]" tvg-logo="http://fomo.re:80/images/NO_tv2_sport_premium_hd.png" group-title="Norway",TV 2 Sport Premium HD [raw] | 🌟 FREE IPTV WORLD 🌟
+http://fomo.re:80/play/INqRI1BSwwQ4bRlJzMZLSb5-rF_3thkFCg9x6KZv8Vs/ts
+#EXTINF:-1 xui-id="66" tvg-id="156503" tvg-name="Eurosport Norge" tvg-logo="http://fomo.re:80/images/NO_eurosport_norway.png" group-title="Norway",Eurosport Norge | 🌟 FREE IPTV WORLD 🌟
+http://fomo.re:80/play/INqRI1BSwwQ4bRlJzMZLSWJ7_FzFF8AzuSIPHfJR2Kc/ts
+#EXTINF:-1 xui-id="244" tvg-id="156503" tvg-name="Eurosport Norge HD" tvg-logo="http://fomo.re:80/images/NO_eurosport_norway_hd.png" group-title="Norway",Eurosport Norge HD | 🌟 FREE IPTV WORLD 🌟
+http://fomo.re:80/play/INqRI1BSwwQ4bRlJzMZLSTYmTCvmrMbuaQ5HsU3izPA/ts
+#EXTINF:-1 xui-id="9920" tvg-id="156503" tvg-name="Eurosport Norge HD [raw]" tvg-logo="http://fomo.re:80/images/NO_eurosport_norway_hd.png" group-title="Norway",Eurosport Norge HD [raw] | 🌟 FREE IPTV WORLD 🌟
+http://fomo.re:80/play/INqRI1BSwwQ4bRlJzMZLSePmQhmxRpa9P4EiTGEwr04/ts
+#EXTINF:-1 xui-id="67" tvg-id="156501" tvg-name="Eurosport 1 HD" tvg-logo="http://fomo.re:80/images/NO_eurosport_1_hd.png" group-title="Norway",Eurosport 1 HD | 🌟 FREE IPTV WORLD 🌟
+http://fomo.re:80/play/INqRI1BSwwQ4bRlJzMZLSf4d-oAWeCgEo382rDhN8a4/ts
+#EXTINF:-1 xui-id="82" tvg-id="156534" tvg-name="MOTORVISION TV HD" tvg-logo="http://fomo.re:80/images/NO_motor_vision_hd.png" group-title="Norway",MOTORVISION TV HD | 🌟 FREE IPTV WORLD 🌟
+http://fomo.re:80/play/INqRI1BSwwQ4bRlJzMZLSRdtIu41Le9vVtDGZjIz_nM/ts
+#EXTINF:-1 xui-id="9909" tvg-id="" tvg-name="Bilkanalen HD" tvg-logo="http://fomo.re:80/images/AutoMotorSportTv_square.svg.png" group-title="Norway",Bilkanalen HD | 🌟 FREE IPTV WORLD 🌟
+http://fomo.re:80/play/INqRI1BSwwQ4bRlJzMZLSdI5FqXujsHMSlOQsXiljdo/ts
+#EXTINF:-1 xui-id="85263" tvg-id="" tvg-name="Viaplay Goalshow" tvg-logo="http://fomo.re:80/images/62f6319a43c7d.png" group-title="Norway",Viaplay Goalshow | 🌟 FREE IPTV WORLD 🌟
+http://fomo.re:80/play/INqRI1BSwwQ4bRlJzMZLSS5w5L_c9dvaUrqNiO6iNk8/ts
+#EXTINF:-1 xui-id="85262" tvg-id="" tvg-name="ViaPlay Extra 19 HD" tvg-logo="http://fomo.re:80/images/NO_viaplay_19.png" group-title="Norway",ViaPlay Extra 19 HD | 🌟 FREE IPTV WORLD 🌟
+http://fomo.re:80/play/INqRI1BSwwQ4bRlJzMZLSbjEQX31fTb-pzFVTjHSRsk/ts
+#EXTINF:-1 xui-id="85261" tvg-id="" tvg-name="ViaPlay Extra 18 HD" tvg-logo="http://fomo.re:80/images/NO_viaplay_18.png" group-title="Norway",ViaPlay Extra 18 HD | 🌟 FREE IPTV WORLD 🌟
+http://fomo.re:80/play/INqRI1BSwwQ4bRlJzMZLSWGSUU06HJef1_cayDSQyMw/ts
+#EXTINF:-1 xui-id="85260" tvg-id="" tvg-name="ViaPlay Extra 17 HD" tvg-logo="http://fomo.re:80/images/NO_viaplay_17.png" group-title="Norway",ViaPlay Extra 17 HD | 🌟 FREE IPTV WORLD 🌟
+http://fomo.re:80/play/INqRI1BSwwQ4bRlJzMZLScx5RXVCw_-Nn_BH0VrkLL0/ts
+#EXTINF:-1 xui-id="85259" tvg-id="" tvg-name="ViaPlay Extra 16 HD" tvg-logo="http://fomo.re:80/images/NO_viaplay_16.png" group-title="Norway",ViaPlay Extra 16 HD | 🌟 FREE IPTV WORLD 🌟
+http://fomo.re:80/play/INqRI1BSwwQ4bRlJzMZLSfE5eLcL7KeknbdscXiCe8Q/ts
+#EXTINF:-1 xui-id="85258" tvg-id="" tvg-name="ViaPlay Extra 15 HD" tvg-logo="http://fomo.re:80/images/NO_viaplay_15.png" group-title="Norway",ViaPlay Extra 15 HD | 🌟 FREE IPTV WORLD 🌟
+http://fomo.re:80/play/INqRI1BSwwQ4bRlJzMZLSce1-EdufjCnzYaAdxdUNXA/ts
+#EXTINF:-1 xui-id="38819" tvg-id="" tvg-name="ViaPlay Extra 14 HD" tvg-logo="http://fomo.re:80/images/NO_viaplay_14.png" group-title="Norway",ViaPlay Extra 14 HD | 🌟 FREE IPTV WORLD 🌟
+http://fomo.re:80/play/INqRI1BSwwQ4bRlJzMZLSeMV9tlJKI07zhMSsD3uK38/ts
+#EXTINF:-1 xui-id="38816" tvg-id="" tvg-name="ViaPlay Extra 12 HD" tvg-logo="http://fomo.re:80/images/NO_viaplay_12.png" group-title="Norway",ViaPlay Extra 12 HD | 🌟 FREE IPTV WORLD 🌟
+http://fomo.re:80/play/INqRI1BSwwQ4bRlJzMZLSZlK9t99hKKZT7vA0ArvdT0/ts
+#EXTINF:-1 xui-id="38815" tvg-id="" tvg-name="ViaPlay Extra 11 HD" tvg-logo="http://fomo.re:80/images/NO_viaplay_11.png" group-title="Norway",ViaPlay Extra 11 HD | 🌟 FREE IPTV WORLD 🌟
+http://fomo.re:80/play/INqRI1BSwwQ4bRlJzMZLSZtBiWGPKSaueFujgXNuWOA/ts
+#EXTINF:-1 xui-id="35362" tvg-id="" tvg-name="Viaplay Extra 10 HD" tvg-logo="http://fomo.re:80/images/NO_viaplay_10.png" group-title="Norway",Viaplay Extra 10 HD | 🌟 FREE IPTV WORLD 🌟
+http://fomo.re:80/play/INqRI1BSwwQ4bRlJzMZLSQfg6-Vyhpr486442p2HhA4/ts
+#EXTINF:-1 xui-id="35361" tvg-id="" tvg-name="Viaplay Extra 9 HD" tvg-logo="http://fomo.re:80/images/NO_viaplay_9.png" group-title="Norway",Viaplay Extra 9 HD | 🌟 FREE IPTV WORLD 🌟
+http://fomo.re:80/play/INqRI1BSwwQ4bRlJzMZLSf32WS4jF-lfUAlg9EWkYl4/ts
+#EXTINF:-1 xui-id="35360" tvg-id="" tvg-name="Viaplay Extra 8 HD" tvg-logo="http://fomo.re:80/images/NO_viaplay_8.png" group-title="Norway",Viaplay Extra 8 HD | 🌟 FREE IPTV WORLD 🌟
+http://fomo.re:80/play/INqRI1BSwwQ4bRlJzMZLSdlJPMQeGXH_PLz39OmzFHw/ts
+#EXTINF:-1 xui-id="35359" tvg-id="" tvg-name="Viaplay Extra 7 HD" tvg-logo="http://fomo.re:80/images/NO_viaplay_7.png" group-title="Norway",Viaplay Extra 7 HD | 🌟 FREE IPTV WORLD 🌟
+http://fomo.re:80/play/INqRI1BSwwQ4bRlJzMZLSSKJV3N7aH9clBJ3dtLhJy0/ts
+#EXTINF:-1 xui-id="35358" tvg-id="" tvg-name="Viaplay Extra 6 HD" tvg-logo="http://fomo.re:80/images/NO_viaplay_6.png" group-title="Norway",Viaplay Extra 6 HD | 🌟 FREE IPTV WORLD 🌟
+http://fomo.re:80/play/INqRI1BSwwQ4bRlJzMZLScYLpFDqz_FZTO_GOw3nfC8/ts
+#EXTINF:-1 xui-id="35357" tvg-id="" tvg-name="Viaplay Extra 5 HD" tvg-logo="http://fomo.re:80/images/NO_viaplay_5.png" group-title="Norway",Viaplay Extra 5 HD | 🌟 FREE IPTV WORLD 🌟
+http://fomo.re:80/play/INqRI1BSwwQ4bRlJzMZLSV9Ff1EoxbDepfWRhkSAf5U/ts
+#EXTINF:-1 xui-id="35356" tvg-id="" tvg-name="Viaplay Extra 4 HD" tvg-logo="http://fomo.re:80/images/NO_viaplay_4.png" group-title="Norway",Viaplay Extra 4 HD | 🌟 FREE IPTV WORLD 🌟
+http://fomo.re:80/play/INqRI1BSwwQ4bRlJzMZLSWPf8ayxq1gFwcFQaXxadH4/ts
+#EXTINF:-1 xui-id="35355" tvg-id="" tvg-name="Viaplay Extra 3 HD" tvg-logo="http://fomo.re:80/images/NO_viaplay_3.png" group-title="Norway",Viaplay Extra 3 HD | 🌟 FREE IPTV WORLD 🌟
+http://fomo.re:80/play/INqRI1BSwwQ4bRlJzMZLSZZQ-9qlVF0mNgm8qjk3bqE/ts
+#EXTINF:-1 xui-id="35354" tvg-id="" tvg-name="Viaplay Extra 2 HD" tvg-logo="http://fomo.re:80/images/NO_viaplay_2.png" group-title="Norway",Viaplay Extra 2 HD | 🌟 FREE IPTV WORLD 🌟
+http://fomo.re:80/play/INqRI1BSwwQ4bRlJzMZLSSD-7qZ9kFr6Tw5UzjYmkFQ/ts
+#EXTINF:-1 xui-id="35253" tvg-id="" tvg-name="Viaplay Extra 1 HD" tvg-logo="http://fomo.re:80/images/NO_viaplay_1.png" group-title="Norway",Viaplay Extra 1 HD | 🌟 FREE IPTV WORLD 🌟
+http://fomo.re:80/play/INqRI1BSwwQ4bRlJzMZLSeuURt0xATrVM77VBqAJ2UU/ts
+#EXTINF:-1 xui-id="39458" tvg-id="" tvg-name="DirekteSport 30 HD" tvg-logo="http://fomo.re:80/images/NO_Direkte_Sport_30.png" group-title="Norway",DirekteSport 30 HD | 🌟 FREE IPTV WORLD 🌟
+http://fomo.re:80/play/INqRI1BSwwQ4bRlJzMZLSQVf1wH3Pcqrt4wyEGC3EIo/ts
+#EXTINF:-1 xui-id="39457" tvg-id="" tvg-name="DirekteSport 29 HD" tvg-logo="http://fomo.re:80/images/NO_Direkte_Sport_29.png" group-title="Norway",DirekteSport 29 HD | 🌟 FREE IPTV WORLD 🌟
+http://fomo.re:80/play/INqRI1BSwwQ4bRlJzMZLSTMivt2-J0_w3_UhbW4_5g0/ts
+#EXTINF:-1 xui-id="39456" tvg-id="" tvg-name="DirekteSport 28 HD" tvg-logo="http://fomo.re:80/images/NO_Direkte_Sport_28.png" group-title="Norway",DirekteSport 28 HD | 🌟 FREE IPTV WORLD 🌟
+http://fomo.re:80/play/INqRI1BSwwQ4bRlJzMZLSVqZhuHjUDNBFfSELwltXyw/ts
+#EXTINF:-1 xui-id="39455" tvg-id="" tvg-name="DirekteSport 27 HD" tvg-logo="http://fomo.re:80/images/NO_Direkte_Sport_27.png" group-title="Norway",DirekteSport 27 HD | 🌟 FREE IPTV WORLD 🌟
+http://fomo.re:80/play/INqRI1BSwwQ4bRlJzMZLSRBk5cvxSM9PYpzqz2kEDJg/ts
+#EXTINF:-1 xui-id="39454" tvg-id="" tvg-name="DirekteSport 26 HD" tvg-logo="http://fomo.re:80/images/NO_Direkte_Sport_26.png" group-title="Norway",DirekteSport 26 HD | 🌟 FREE IPTV WORLD 🌟
+http://fomo.re:80/play/INqRI1BSwwQ4bRlJzMZLSUfZ2XafM0ingKqsjMPBnUc/ts
+#EXTINF:-1 xui-id="39453" tvg-id="" tvg-name="DirekteSport 25 HD" tvg-logo="http://fomo.re:80/images/NO_Direkte_Sport_25.png" group-title="Norway",DirekteSport 25 HD | 🌟 FREE IPTV WORLD 🌟
+http://fomo.re:80/play/INqRI1BSwwQ4bRlJzMZLSZEgjme_s5nrSdD1_uPo9UI/ts
+#EXTINF:-1 xui-id="39452" tvg-id="" tvg-name="DirekteSport 24 HD" tvg-logo="http://fomo.re:80/images/NO_Direkte_Sport_24.png" group-title="Norway",DirekteSport 24 HD | 🌟 FREE IPTV WORLD 🌟
+http://fomo.re:80/play/INqRI1BSwwQ4bRlJzMZLSRx-vm5WTzqDOWiXBUpYepI/ts
+#EXTINF:-1 xui-id="39450" tvg-id="" tvg-name="DirekteSport 23 HD" tvg-logo="http://fomo.re:80/images/NO_Direkte_Sport_23.png" group-title="Norway",DirekteSport 23 HD | 🌟 FREE IPTV WORLD 🌟
+http://fomo.re:80/play/INqRI1BSwwQ4bRlJzMZLSdtCm6a4FO5wC-z1LoOGwTM/ts
+#EXTINF:-1 xui-id="39449" tvg-id="" tvg-name="DirekteSport 22 HD" tvg-logo="http://fomo.re:80/images/NO_Direkte_Sport_22.png" group-title="Norway",DirekteSport 22 HD | 🌟 FREE IPTV WORLD 🌟
+http://fomo.re:80/play/INqRI1BSwwQ4bRlJzMZLSXTGh2MubN8-IhRYXbNbEVA/ts
+#EXTINF:-1 xui-id="39448" tvg-id="" tvg-name="DirekteSport 21 HD" tvg-logo="http://fomo.re:80/images/NO_Direkte_Sport_21.png" group-title="Norway",DirekteSport 21 HD | 🌟 FREE IPTV WORLD 🌟
+http://fomo.re:80/play/INqRI1BSwwQ4bRlJzMZLSdBs6KTGwhXc_FQYN4lVyPs/ts
+#EXTINF:-1 xui-id="39447" tvg-id="" tvg-name="DirekteSport 20 HD" tvg-logo="http://fomo.re:80/images/NO_Direkte_Sport_20.png" group-title="Norway",DirekteSport 20 HD | 🌟 FREE IPTV WORLD 🌟
+http://fomo.re:80/play/INqRI1BSwwQ4bRlJzMZLSQd5pAYFSbAr-RWD3tPOEjI/ts
+#EXTINF:-1 xui-id="39446" tvg-id="" tvg-name="DirekteSport 19 HD" tvg-logo="http://fomo.re:80/images/NO_Direkte_Sport_19.png" group-title="Norway",DirekteSport 19 HD | 🌟 FREE IPTV WORLD 🌟
+http://fomo.re:80/play/INqRI1BSwwQ4bRlJzMZLSRPNr8ZpNA1kcLc3LKgImP8/ts
+#EXTINF:-1 xui-id="39445" tvg-id="" tvg-name="DirekteSport 18 HD" tvg-logo="http://fomo.re:80/images/NO_Direkte_Sport_18.png" group-title="Norway",DirekteSport 18 HD | 🌟 FREE IPTV WORLD 🌟
+http://fomo.re:80/play/INqRI1BSwwQ4bRlJzMZLSWkcmrFeG7A8NcYaKt44Mjc/ts
+#EXTINF:-1 xui-id="39444" tvg-id="" tvg-name="DirekteSport 17 HD" tvg-logo="http://fomo.re:80/images/NO_Direkte_Sport_17.png" group-title="Norway",DirekteSport 17 HD | 🌟 FREE IPTV WORLD 🌟
+http://fomo.re:80/play/INqRI1BSwwQ4bRlJzMZLScSFoONDKbBfAgksAaGomBI/ts
+#EXTINF:-1 xui-id="39443" tvg-id="" tvg-name="DirekteSport 16 HD" tvg-logo="http://fomo.re:80/images/NO_Direkte_Sport_16.png" group-title="Norway",DirekteSport 16 HD | 🌟 FREE IPTV WORLD 🌟
+http://fomo.re:80/play/INqRI1BSwwQ4bRlJzMZLSWkI82xDsPQLzBRPSHYxllI/ts
+#EXTINF:-1 xui-id="39442" tvg-id="" tvg-name="DirekteSport 15 HD" tvg-logo="http://fomo.re:80/images/NO_Direkte_Sport_15.png" group-title="Norway",DirekteSport 15 HD | 🌟 FREE IPTV WORLD 🌟
+http://fomo.re:80/play/INqRI1BSwwQ4bRlJzMZLSaR8URyGsgn3U7v9dd-s19k/ts
+#EXTINF:-1 xui-id="39441" tvg-id="" tvg-name="DirekteSport 14 HD" tvg-logo="http://fomo.re:80/images/NO_Direkte_Sport_14.png" group-title="Norway",DirekteSport 14 HD | 🌟 FREE IPTV WORLD 🌟
+http://fomo.re:80/play/INqRI1BSwwQ4bRlJzMZLSTkyIR1HQbqOsGmaWqtksJQ/ts
+#EXTINF:-1 xui-id="39440" tvg-id="" tvg-name="DirekteSport 13 HD" tvg-logo="http://fomo.re:80/images/NO_Direkte_Sport_13.png" group-title="Norway",DirekteSport 13 HD | 🌟 FREE IPTV WORLD 🌟
+http://fomo.re:80/play/INqRI1BSwwQ4bRlJzMZLScfdactCPQ7VR0Q5YyZahLw/ts
+#EXTINF:-1 xui-id="39438" tvg-id="" tvg-name="DirekteSport 11 HD" tvg-logo="http://fomo.re:80/images/NO_Direkte_Sport_11.png" group-title="Norway",DirekteSport 11 HD | 🌟 FREE IPTV WORLD 🌟
+http://fomo.re:80/play/INqRI1BSwwQ4bRlJzMZLSWLWTCuhEMxAjqvKkcpnlJw/ts
+#EXTINF:-1 xui-id="39437" tvg-id="" tvg-name="DirekteSport 10 HD" tvg-logo="http://fomo.re:80/images/NO_Direkte_Sport_10.png" group-title="Norway",DirekteSport 10 HD | 🌟 FREE IPTV WORLD 🌟
+http://fomo.re:80/play/INqRI1BSwwQ4bRlJzMZLScEfO9GcHRy6ou8v4kMzxzU/ts
+#EXTINF:-1 xui-id="39436" tvg-id="" tvg-name="DirekteSport 9 HD" tvg-logo="http://fomo.re:80/images/NO_Direkte_Sport_9.png" group-title="Norway",DirekteSport 9 HD | 🌟 FREE IPTV WORLD 🌟
+http://fomo.re:80/play/INqRI1BSwwQ4bRlJzMZLSRXAHK0ZggbM6e_XUvxlBnY/ts
+#EXTINF:-1 xui-id="39435" tvg-id="" tvg-name="DirekteSport 8 HD" tvg-logo="http://fomo.re:80/images/NO_Direkte_Sport_8.png" group-title="Norway",DirekteSport 8 HD | 🌟 FREE IPTV WORLD 🌟
+http://fomo.re:80/play/INqRI1BSwwQ4bRlJzMZLST9A1CdZe8m5tgk8xKpRP8k/ts
+#EXTINF:-1 xui-id="39434" tvg-id="" tvg-name="DirekteSport 7 HD" tvg-logo="http://fomo.re:80/images/NO_Direkte_Sport_7.png" group-title="Norway",DirekteSport 7 HD | 🌟 FREE IPTV WORLD 🌟
+http://fomo.re:80/play/INqRI1BSwwQ4bRlJzMZLSWrnMGAcDheHhmyAlrIpJhc/ts
+#EXTINF:-1 xui-id="39433" tvg-id="" tvg-name="DirekteSport 6 HD" tvg-logo="http://fomo.re:80/images/NO_Direkte_Sport_6.png" group-title="Norway",DirekteSport 6 HD | 🌟 FREE IPTV WORLD 🌟
+http://fomo.re:80/play/INqRI1BSwwQ4bRlJzMZLSWyDcbdat_Mhr6q0qWJEHcQ/ts
+#EXTINF:-1 xui-id="39432" tvg-id="" tvg-name="DirekteSport 5 HD" tvg-logo="http://fomo.re:80/images/NO_Direkte_Sport_5.png" group-title="Norway",DirekteSport 5 HD | 🌟 FREE IPTV WORLD 🌟
+http://fomo.re:80/play/INqRI1BSwwQ4bRlJzMZLSTquq5UIxVW-zEfQB2YI9hg/ts
+#EXTINF:-1 xui-id="39431" tvg-id="" tvg-name="DirekteSport 4 HD" tvg-logo="http://fomo.re:80/images/NO_Direkte_Sport_4.png" group-title="Norway",DirekteSport 4 HD | 🌟 FREE IPTV WORLD 🌟
+http://fomo.re:80/play/INqRI1BSwwQ4bRlJzMZLST-Gus4OtXbPxlozVHfFTbE/ts
+#EXTINF:-1 xui-id="39430" tvg-id="" tvg-name="DirekteSport 3 HD" tvg-logo="http://fomo.re:80/images/NO_Direkte_Sport_3.png" group-title="Norway",DirekteSport 3 HD | 🌟 FREE IPTV WORLD 🌟
+http://fomo.re:80/play/INqRI1BSwwQ4bRlJzMZLSTVjXmk3DCM7U4GDnWIo9_k/ts
+#EXTINF:-1 xui-id="39429" tvg-id="" tvg-name="Direkte Sport 2 HD" tvg-logo="http://fomo.re:80/images/NO_Direkte_Sport_2.png" group-title="Norway",Direkte Sport 2 HD | 🌟 FREE IPTV WORLD 🌟
+http://fomo.re:80/play/INqRI1BSwwQ4bRlJzMZLSfrC8T1gRQrSVgnvgCIN49w/ts
+#EXTINF:-1 xui-id="39428" tvg-id="" tvg-name="Direkte Sport 1 HD" tvg-logo="http://fomo.re:80/images/NO_Direkte_Sport_1.png" group-title="Norway",Direkte Sport 1 HD | 🌟 FREE IPTV WORLD 🌟
+http://fomo.re:80/play/INqRI1BSwwQ4bRlJzMZLSfaDfDssnBmGxmZENe5PhVY/ts
+#EXTINF:-1 xui-id="66919" tvg-id="" tvg-name="Discovery+ Extra 20 FHD (N)" tvg-logo="http://fomo.re:80/images/UK_discovery_extra_20.png" group-title="Norway",Discovery+ Extra 20 FHD (N) | 🌟 FREE IPTV WORLD 🌟
+http://fomo.re:80/play/INqRI1BSwwQ4bRlJzMZLSczKpJEdjuaZ_NYEV1s8Lbw/ts
+#EXTINF:-1 xui-id="66918" tvg-id="" tvg-name="Discovery+ Extra 19 FHD (N)" tvg-logo="http://fomo.re:80/images/UK_discovery_extra_19.png" group-title="Norway",Discovery+ Extra 19 FHD (N) | 🌟 FREE IPTV WORLD 🌟
+http://fomo.re:80/play/INqRI1BSwwQ4bRlJzMZLSbCEq0m6FwJz8XqAicxN4jw/ts
+#EXTINF:-1 xui-id="66917" tvg-id="" tvg-name="Discovery+ Extra 18 FHD (N)" tvg-logo="http://fomo.re:80/images/UK_discovery_extra_18.png" group-title="Norway",Discovery+ Extra 18 FHD (N) | 🌟 FREE IPTV WORLD 🌟
+http://fomo.re:80/play/INqRI1BSwwQ4bRlJzMZLSUglONh7rMN7wl6QICOHJfI/ts
+#EXTINF:-1 xui-id="66916" tvg-id="" tvg-name="Discovery+ Extra 17 FHD (N)" tvg-logo="http://fomo.re:80/images/UK_discovery_extra_17.png" group-title="Norway",Discovery+ Extra 17 FHD (N) | 🌟 FREE IPTV WORLD 🌟
+http://fomo.re:80/play/INqRI1BSwwQ4bRlJzMZLSeB2qM2nwPzdBgcBGCg23pI/ts
+#EXTINF:-1 xui-id="66915" tvg-id="" tvg-name="Discovery+ Extra 16 FHD (N)" tvg-logo="http://fomo.re:80/images/UK_discovery_extra_16.png" group-title="Norway",Discovery+ Extra 16 FHD (N) | 🌟 FREE IPTV WORLD 🌟
+http://fomo.re:80/play/INqRI1BSwwQ4bRlJzMZLSVZ6cfspn2ZalvW8-SJjkkk/ts
+#EXTINF:-1 xui-id="66914" tvg-id="" tvg-name="Discovery+ Extra 15 FHD (N)" tvg-logo="http://fomo.re:80/images/UK_discovery_extra_15.png" group-title="Norway",Discovery+ Extra 15 FHD (N) | 🌟 FREE IPTV WORLD 🌟
+http://fomo.re:80/play/INqRI1BSwwQ4bRlJzMZLSaYB0FCx5_Cg3i_7T3TqYsI/ts
+#EXTINF:-1 xui-id="66913" tvg-id="" tvg-name="Discovery+ Extra 14 FHD (N)" tvg-logo="http://fomo.re:80/images/UK_discovery_extra_14.png" group-title="Norway",Discovery+ Extra 14 FHD (N) | 🌟 FREE IPTV WORLD 🌟
+http://fomo.re:80/play/INqRI1BSwwQ4bRlJzMZLSWKe1hfWSgfK88d8tLulkvU/ts
+#EXTINF:-1 xui-id="66912" tvg-id="" tvg-name="Discovery+ Extra 13 FHD (N)" tvg-logo="http://fomo.re:80/images/UK_discovery_extra_13.png" group-title="Norway",Discovery+ Extra 13 FHD (N) | 🌟 FREE IPTV WORLD 🌟
+http://fomo.re:80/play/INqRI1BSwwQ4bRlJzMZLSfVuDJudNCzXNsHT0rArJPI/ts
+#EXTINF:-1 xui-id="66911" tvg-id="" tvg-name="Discovery+ Extra 12 FHD (N)" tvg-logo="http://fomo.re:80/images/UK_discovery_extra_12.png" group-title="Norway",Discovery+ Extra 12 FHD (N) | 🌟 FREE IPTV WORLD 🌟
+http://fomo.re:80/play/INqRI1BSwwQ4bRlJzMZLSTvBsZDhxY7Z7SlcAhMHsO0/ts
+#EXTINF:-1 xui-id="66910" tvg-id="" tvg-name="Discovery+ Extra 11 FHD (N)" tvg-logo="http://fomo.re:80/images/UK_discovery_extra_11.png" group-title="Norway",Discovery+ Extra 11 FHD (N) | 🌟 FREE IPTV WORLD 🌟
+http://fomo.re:80/play/INqRI1BSwwQ4bRlJzMZLSZ8t0s_Ei1d1SlFQpbGMhGw/ts
+#EXTINF:-1 xui-id="66909" tvg-id="" tvg-name="Discovery+ Extra 10 FHD (N)" tvg-logo="http://fomo.re:80/images/UK_discovery_extra_10.png" group-title="Norway",Discovery+ Extra 10 FHD (N) | 🌟 FREE IPTV WORLD 🌟
+http://fomo.re:80/play/INqRI1BSwwQ4bRlJzMZLSaqpbiqRRg7iI1sg752nXZI/ts
+#EXTINF:-1 xui-id="66908" tvg-id="" tvg-name="Discovery+ Extra 9 FHD (N)" tvg-logo="http://fomo.re:80/images/UK_discovery_extra_9.png" group-title="Norway",Discovery+ Extra 9 FHD (N) | 🌟 FREE IPTV WORLD 🌟
+http://fomo.re:80/play/INqRI1BSwwQ4bRlJzMZLSQ-qrlg35V3nbf88LCjEM-g/ts
+#EXTINF:-1 xui-id="66907" tvg-id="" tvg-name="Discovery+ Extra 8 FHD (N)" tvg-logo="http://fomo.re:80/images/UK_discovery_extra_8.png" group-title="Norway",Discovery+ Extra 8 FHD (N) | 🌟 FREE IPTV WORLD 🌟
+http://fomo.re:80/play/INqRI1BSwwQ4bRlJzMZLSb0R-3jOVpBbnyoJq6lb4uw/ts
+#EXTINF:-1 xui-id="66906" tvg-id="" tvg-name="Discovery+ Extra 7 FHD (N)" tvg-logo="http://fomo.re:80/images/UK_discovery_extra_7.png" group-title="Norway",Discovery+ Extra 7 FHD (N) | 🌟 FREE IPTV WORLD 🌟
+http://fomo.re:80/play/INqRI1BSwwQ4bRlJzMZLSSU19K4y9LdprFp7TdLJN80/ts
+#EXTINF:-1 xui-id="66905" tvg-id="" tvg-name="Discovery+ Extra 6 FHD (N)" tvg-logo="http://fomo.re:80/images/UK_discovery_extra_6.png" group-title="Norway",Discovery+ Extra 6 FHD (N) | 🌟 FREE IPTV WORLD 🌟
+http://fomo.re:80/play/INqRI1BSwwQ4bRlJzMZLSWbh8xhoIwl5r3vn1zyT9CA/ts
+#EXTINF:-1 xui-id="66904" tvg-id="" tvg-name="Discovery+ Extra 5 FHD (N)" tvg-logo="http://fomo.re:80/images/UK_discovery_extra_5.png" group-title="Norway",Discovery+ Extra 5 FHD (N) | 🌟 FREE IPTV WORLD 🌟
+http://fomo.re:80/play/INqRI1BSwwQ4bRlJzMZLSR65fgzuSEUs-67YIFoULVs/ts
+#EXTINF:-1 xui-id="66810" tvg-id="" tvg-name="Discovery+ Extra 4 FHD (N)" tvg-logo="http://fomo.re:80/images/UK_discovery_extra_4.png" group-title="Norway",Discovery+ Extra 4 FHD (N) | 🌟 FREE IPTV WORLD 🌟
+http://fomo.re:80/play/INqRI1BSwwQ4bRlJzMZLSRsQA_Z-GdMa34Yh848sMzw/ts
+#EXTINF:-1 xui-id="66809" tvg-id="" tvg-name="Discovery+ Extra 3 FHD (N)" tvg-logo="http://fomo.re:80/images/UK_discovery_extra_3.png" group-title="Norway",Discovery+ Extra 3 FHD (N) | 🌟 FREE IPTV WORLD 🌟
+http://fomo.re:80/play/INqRI1BSwwQ4bRlJzMZLSXyH90XKP9Cflzs3nnBxUGE/ts
+#EXTINF:-1 xui-id="66808" tvg-id="" tvg-name="Discovery+ Extra 2 FHD (N)" tvg-logo="http://fomo.re:80/images/UK_discovery_extra_2.png" group-title="Norway",Discovery+ Extra 2 FHD (N) | 🌟 FREE IPTV WORLD 🌟
+http://fomo.re:80/play/INqRI1BSwwQ4bRlJzMZLSck88PLvKUJBBbFp8bSy9lU/ts
+#EXTINF:-1 xui-id="66807" tvg-id="" tvg-name="Discovery+ Extra 1 FHD (N)" tvg-logo="http://fomo.re:80/images/UK_discovery_extra_1.png" group-title="Norway",Discovery+ Extra 1 FHD (N) | 🌟 FREE IPTV WORLD 🌟
+http://fomo.re:80/play/INqRI1BSwwQ4bRlJzMZLSYglLWcu2HQ0aBydlZefKNs/ts
+#EXTINF:-1 xui-id="36669" tvg-id="" tvg-name="VG+ 5" tvg-logo="http://fomo.re:80/images/NO_vg_5.png" group-title="Norway",VG+ 5 | 🌟 FREE IPTV WORLD 🌟
+http://fomo.re:80/play/INqRI1BSwwQ4bRlJzMZLSY4XvjpSbr0uNpbb41AhYOU/ts
+#EXTINF:-1 xui-id="36668" tvg-id="" tvg-name="VG+ 4" tvg-logo="http://fomo.re:80/images/NO_vg_4.png" group-title="Norway",VG+ 4 | 🌟 FREE IPTV WORLD 🌟
+http://fomo.re:80/play/INqRI1BSwwQ4bRlJzMZLSftEbqHREjfKe31NidXdNpw/ts
+#EXTINF:-1 xui-id="36667" tvg-id="" tvg-name="VG+ 3" tvg-logo="http://fomo.re:80/images/NO_vg_3.png" group-title="Norway",VG+ 3 | 🌟 FREE IPTV WORLD 🌟
+http://fomo.re:80/play/INqRI1BSwwQ4bRlJzMZLSbmPO39akh8Kg_0fUnMGqkI/ts
+#EXTINF:-1 xui-id="36666" tvg-id="" tvg-name="VG+ 2" tvg-logo="http://fomo.re:80/images/NO_vg_2.png" group-title="Norway",VG+ 2 | 🌟 FREE IPTV WORLD 🌟
+http://fomo.re:80/play/INqRI1BSwwQ4bRlJzMZLSSCEHlr2bHBEkwqmcYpYUX4/ts
+#EXTINF:-1 xui-id="36665" tvg-id="" tvg-name="VG+ 1" tvg-logo="http://fomo.re:80/images/NO_vg_1.png" group-title="Norway",VG+ 1 | 🌟 FREE IPTV WORLD 🌟
+http://fomo.re:80/play/INqRI1BSwwQ4bRlJzMZLSRVCc_ZDx1T2g1DymRYBdjk/ts
+#EXTINF:-1 xui-id="66806" tvg-id="" tvg-name="TV2 Play 20" tvg-logo="http://fomo.re:80/images/NO_tv2_play20.png" group-title="Norway",TV2 Play 20 | 🌟 FREE IPTV WORLD 🌟
+http://fomo.re:80/play/INqRI1BSwwQ4bRlJzMZLSRn7Q0i67LeFhx2xKX26cpY/ts
+#EXTINF:-1 xui-id="66804" tvg-id="" tvg-name="TV2 Play 18" tvg-logo="http://fomo.re:80/images/NO_tv2_play18.png" group-title="Norway",TV2 Play 18 | 🌟 FREE IPTV WORLD 🌟
+http://fomo.re:80/play/INqRI1BSwwQ4bRlJzMZLSRYabse5eLIE5371YNkdxeA/ts
+#EXTINF:-1 xui-id="66803" tvg-id="" tvg-name="TV2 Play 17" tvg-logo="http://fomo.re:80/images/NO_tv2_play17.png" group-title="Norway",TV2 Play 17 | 🌟 FREE IPTV WORLD 🌟
+http://fomo.re:80/play/INqRI1BSwwQ4bRlJzMZLST3F_mGbVcqVdJ2wnkrmNig/ts
+#EXTINF:-1 xui-id="66802" tvg-id="" tvg-name="TV2 Play 16" tvg-logo="http://fomo.re:80/images/NO_tv2_play16.png" group-title="Norway",TV2 Play 16 | 🌟 FREE IPTV WORLD 🌟
+http://fomo.re:80/play/INqRI1BSwwQ4bRlJzMZLSQVER7gubU1qbRJ7chk-zwM/ts
+#EXTINF:-1 xui-id="66801" tvg-id="" tvg-name="TV2 Play 15" tvg-logo="http://fomo.re:80/images/NO_tv2_play15.png" group-title="Norway",TV2 Play 15 | 🌟 FREE IPTV WORLD 🌟
+http://fomo.re:80/play/INqRI1BSwwQ4bRlJzMZLSXV-9yJ5AlSTIRrr8l4N5aE/ts
+#EXTINF:-1 xui-id="66800" tvg-id="" tvg-name="TV2 Play 14" tvg-logo="http://fomo.re:80/images/NO_tv2_play14.png" group-title="Norway",TV2 Play 14 | 🌟 FREE IPTV WORLD 🌟
+http://fomo.re:80/play/INqRI1BSwwQ4bRlJzMZLSayxK00T1DivNHf7tPzJ7Zw/ts
+#EXTINF:-1 xui-id="66799" tvg-id="" tvg-name="TV2 Play 13" tvg-logo="http://fomo.re:80/images/NO_tv2_play13.png" group-title="Norway",TV2 Play 13 | 🌟 FREE IPTV WORLD 🌟
+http://fomo.re:80/play/INqRI1BSwwQ4bRlJzMZLSVkML2_C57PDzbYBwiGrq-c/ts
+#EXTINF:-1 xui-id="66798" tvg-id="" tvg-name="TV2 Play 12" tvg-logo="http://fomo.re:80/images/NO_tv2_play12.png" group-title="Norway",TV2 Play 12 | 🌟 FREE IPTV WORLD 🌟
+http://fomo.re:80/play/INqRI1BSwwQ4bRlJzMZLSZXyYD22_YkIc9-bayDMACg/ts
+#EXTINF:-1 xui-id="66797" tvg-id="" tvg-name="TV2 Play 11" tvg-logo="http://fomo.re:80/images/NO_tv2_play11.png" group-title="Norway",TV2 Play 11 | 🌟 FREE IPTV WORLD 🌟
+http://fomo.re:80/play/INqRI1BSwwQ4bRlJzMZLSX-ww9D4hzA8aXtu_lR39NI/ts
+#EXTINF:-1 xui-id="66796" tvg-id="" tvg-name="TV2 Play 10" tvg-logo="http://fomo.re:80/images/NO_tv2_play10.png" group-title="Norway",TV2 Play 10 | 🌟 FREE IPTV WORLD 🌟
+http://fomo.re:80/play/INqRI1BSwwQ4bRlJzMZLSX4fHyCFMJhhm_z7FqF0Wqk/ts
+#EXTINF:-1 xui-id="66795" tvg-id="" tvg-name="TV2 play 9" tvg-logo="http://fomo.re:80/images/NO_tv2_play9.png" group-title="Norway",TV2 play 9 | 🌟 FREE IPTV WORLD 🌟
+http://fomo.re:80/play/INqRI1BSwwQ4bRlJzMZLSdFeX9FC2qQ8aX40joBG1o4/ts
+#EXTINF:-1 xui-id="66794" tvg-id="" tvg-name="TV2 Play 8" tvg-logo="http://fomo.re:80/images/NO_tv2_play8.png" group-title="Norway",TV2 Play 8 | 🌟 FREE IPTV WORLD 🌟
+http://fomo.re:80/play/INqRI1BSwwQ4bRlJzMZLScjOZUzwsCu3hWZ_yHBeSPE/ts
+#EXTINF:-1 xui-id="66569" tvg-id="" tvg-name="TV2 Play 7" tvg-logo="http://fomo.re:80/images/NO_tv2_play7.png" group-title="Norway",TV2 Play 7 | 🌟 FREE IPTV WORLD 🌟
+http://fomo.re:80/play/INqRI1BSwwQ4bRlJzMZLSUlbABCh73bae918MkpmaFg/ts
+#EXTINF:-1 xui-id="66568" tvg-id="" tvg-name="TV2 Play 6" tvg-logo="http://fomo.re:80/images/NO_tv2_play6.png" group-title="Norway",TV2 Play 6 | 🌟 FREE IPTV WORLD 🌟
+http://fomo.re:80/play/INqRI1BSwwQ4bRlJzMZLSbsYO2QraHkCz_II2I6qBdY/ts
+#EXTINF:-1 xui-id="66567" tvg-id="" tvg-name="TV2 Play 5" tvg-logo="http://fomo.re:80/images/NO_tv2_play5.png" group-title="Norway",TV2 Play 5 | 🌟 FREE IPTV WORLD 🌟
+http://fomo.re:80/play/INqRI1BSwwQ4bRlJzMZLSX3Qi51VeDMA_pm7rVL8ESo/ts
+#EXTINF:-1 xui-id="66566" tvg-id="" tvg-name="TV2 Play 4" tvg-logo="http://fomo.re:80/images/NO_tv2_play4.png" group-title="Norway",TV2 Play 4 | 🌟 FREE IPTV WORLD 🌟
+http://fomo.re:80/play/INqRI1BSwwQ4bRlJzMZLScElktbm_UKTK2Aux2wudIQ/ts
+#EXTINF:-1 xui-id="66565" tvg-id="" tvg-name="TV2 Play 3" tvg-logo="http://fomo.re:80/images/NO_tv2_play3.png" group-title="Norway",TV2 Play 3 | 🌟 FREE IPTV WORLD 🌟
+http://fomo.re:80/play/INqRI1BSwwQ4bRlJzMZLSTQ1GC4kmXrv8Z8lK9KNNY8/ts
+#EXTINF:-1 xui-id="66564" tvg-id="" tvg-name="TV2 Play 2" tvg-logo="http://fomo.re:80/images/NO_tv2_play2.png" group-title="Norway",TV2 Play 2 | 🌟 FREE IPTV WORLD 🌟
+http://fomo.re:80/play/INqRI1BSwwQ4bRlJzMZLSTTvb7gc5Pn33E3MAZxFQVM/ts
+#EXTINF:-1 xui-id="66563" tvg-id="" tvg-name="TV2 Play 1" tvg-logo="http://fomo.re:80/images/NO_tv2_play_1.png" group-title="Norway",TV2 Play 1 | 🌟 FREE IPTV WORLD 🌟
+http://fomo.re:80/play/INqRI1BSwwQ4bRlJzMZLSZyLnsyoZRB_fW2scbtWa3E/ts
+#EXTINF:-1 xui-id="109595" tvg-id="" tvg-name="V sport Premier League HD | 50FPS" tvg-logo="http://fomo.re:80/images/v1.png" group-title="Norway",V sport Premier League HD | 50FPS | 🌟 FREE IPTV WORLD 🌟
+http://fomo.re:80/play/INqRI1BSwwQ4bRlJzMZLSZfmy9SmowOMzAykbysrXic/ts
+#EXTINF:-1 xui-id="109629" tvg-id="" tvg-name="WrexHam (only Events)" tvg-logo="http://fomo.re:80/images/UK_west_ham_tv.png" group-title="Norway",WrexHam (only Events) | 🌟 FREE IPTV WORLD 🌟
+http://fomo.re:80/play/INqRI1BSwwQ4bRlJzMZLSVYUvpAyAOFnE_HYotwnqBA/ts
+#EXTINF:-1 xui-id="111670" tvg-id="" tvg-name="TV Vest Rogaland" tvg-logo="http://fomo.re:80/images/GER_tv_vest_rogaland.png" group-title="Norway",TV Vest Rogaland | 🌟 FREE IPTV WORLD 🌟
+http://fomo.re:80/play/INqRI1BSwwQ4bRlJzMZLSfiN9h6BBqPjdGhJvAWIRpI/ts
+#EXTINF:-1 xui-id="111671" tvg-id="" tvg-name="TV Vest Vestland" tvg-logo="http://fomo.re:80/images/GER_tv_vest_vestland.png" group-title="Norway",TV Vest Vestland | 🌟 FREE IPTV WORLD 🌟
+http://fomo.re:80/play/INqRI1BSwwQ4bRlJzMZLSa3PGno8q1ThPIoFnLKS9GY/ts
+#EXTINF:-1 xui-id="112144" tvg-id="" tvg-name="EveryPlay" tvg-logo="http://fomo.re:80/images/1yO_mSzyxTFKGN1YRTDjZEhGGwPjfW-MvTynoIqT8Ck.png" group-title="Norway",EveryPlay | 🌟 FREE IPTV WORLD 🌟
+http://fomo.re:80/play/INqRI1BSwwQ4bRlJzMZLSb7x9pHIB-cQ3uc0QDHcwi0/ts
+#EXTINF:-1 xui-id="112145" tvg-id="" tvg-name="EveryPlay 2" tvg-logo="http://fomo.re:80/images/1yO_mSzyxTFKGN1YRTDjZEhGGwPjfW-MvTynoIqT8Ck.png" group-title="Norway",EveryPlay 2 | 🌟 FREE IPTV WORLD 🌟
+http://fomo.re:80/play/INqRI1BSwwQ4bRlJzMZLSY6fVGkxLPMhLAvfawKelTU/ts
+#EXTINF:-1 xui-id="112146" tvg-id="" tvg-name="EveryPlay 3" tvg-logo="http://fomo.re:80/images/1yO_mSzyxTFKGN1YRTDjZEhGGwPjfW-MvTynoIqT8Ck.png" group-title="Norway",EveryPlay 3 | 🌟 FREE IPTV WORLD 🌟
+http://fomo.re:80/play/INqRI1BSwwQ4bRlJzMZLSdTo_hqt3LQiAmyEi26_kGk/ts
+#EXTINF:-1 xui-id="112320" tvg-id="" tvg-name="EveryPlay 4" tvg-logo="http://fomo.re:80/images/1yO_mSzyxTFKGN1YRTDjZEhGGwPjfW-MvTynoIqT8Ck.png" group-title="Norway",EveryPlay 4 | 🌟 FREE IPTV WORLD 🌟
+http://fomo.re:80/play/INqRI1BSwwQ4bRlJzMZLSRDw99jrhgiIdu-nsr2elWo/ts
+#EXTINF:-1 xui-id="112321" tvg-id="" tvg-name="EveryPlay 5" tvg-logo="http://fomo.re:80/images/1yO_mSzyxTFKGN1YRTDjZEhGGwPjfW-MvTynoIqT8Ck.png" group-title="Norway",EveryPlay 5 | 🌟 FREE IPTV WORLD 🌟
+http://fomo.re:80/play/INqRI1BSwwQ4bRlJzMZLSfT5sjF5TGbhWyXESbBpcxw/ts
+#EXTINF:-1 xui-id="112445" tvg-id="" tvg-name="Fashion TV Paris L'Original" tvg-logo="http://fomo.re:80/images/all_fashion_tv.png" group-title="Norway",Fashion TV Paris L'Original | 🌟 FREE IPTV WORLD 🌟
+http://fomo.re:80/play/INqRI1BSwwQ4bRlJzMZLSeLiNO3P-2388gSuVeBTGXA/ts
+#EXTINF:-1 xui-id="112446" tvg-id="" tvg-name="Fashion TV HD" tvg-logo="http://fomo.re:80/images/all_fashion_tv.png" group-title="Norway",Fashion TV HD | 🌟 FREE IPTV WORLD 🌟
+http://fomo.re:80/play/INqRI1BSwwQ4bRlJzMZLSUtaDyc5g9ecqnRJP6ACEA0/ts
+#EXTINF:-1 xui-id="112447" tvg-id="FASO4K" tvg-name="Fashion TV 4K" tvg-logo="http://fomo.re:80/images/all_fashion_tv.png" group-title="Norway",Fashion TV 4K | 🌟 FREE IPTV WORLD 🌟
+http://fomo.re:80/play/INqRI1BSwwQ4bRlJzMZLSbPWK-taaa-g_UxSVBBcczA/ts
+#EXTINF:-1 xui-id="112508" tvg-id="" tvg-name="Siberia! 4K" tvg-logo="http://fomo.re:80/images/all_siberia.png" group-title="Norway",Siberia! 4K | 🌟 FREE IPTV WORLD 🌟
+http://fomo.re:80/play/INqRI1BSwwQ4bRlJzMZLSS3J3Sq14PDz10l1cdxRq1A/ts
+#EXTINF:-1 xui-id="112509" tvg-id="" tvg-name="Home 4K" tvg-logo="http://fomo.re:80/images/all_home.png" group-title="Norway",Home 4K | 🌟 FREE IPTV WORLD 🌟
+http://fomo.re:80/play/INqRI1BSwwQ4bRlJzMZLSTh6HR2_23nN_wBCPV1E4yg/ts
+#EXTINF:-1 xui-id="112510" tvg-id="" tvg-name="Fashion & Style 4K" tvg-logo="http://fomo.re:80/images/all_fashion_and_style.png" group-title="Norway",Fashion & Style 4K | 🌟 FREE IPTV WORLD 🌟
+http://fomo.re:80/play/INqRI1BSwwQ4bRlJzMZLSTRRL4XJ9dAA6ycm2aKTa10/ts
+#EXTINF:-1 xui-id="112511" tvg-id="" tvg-name="Love Nature 4K" tvg-logo="http://fomo.re:80/images/all_love_nature.png" group-title="Norway",Love Nature 4K | 🌟 FREE IPTV WORLD 🌟
+http://fomo.re:80/play/INqRI1BSwwQ4bRlJzMZLSaXULhqaGI0X-E2IfZGScWs/ts
+#EXTINF:-1 xui-id="112512" tvg-id="" tvg-name="travelxp 4K | HDR" tvg-logo="http://fomo.re:80/images/all_travelxp.png" group-title="Norway",travelxp 4K | HDR | 🌟 FREE IPTV WORLD 🌟
+http://fomo.re:80/play/INqRI1BSwwQ4bRlJzMZLSUZckHor2wpT5M7ddTDpyXE/ts
+#EXTINF:-1 xui-id="112513" tvg-id="" tvg-name="Museum TV 4K" tvg-logo="http://fomo.re:80/images/all_museum.png" group-title="Norway",Museum TV 4K | 🌟 FREE IPTV WORLD 🌟
+http://fomo.re:80/play/INqRI1BSwwQ4bRlJzMZLScjqFf5tU1jiwfJTfwswhc8/ts
+#EXTINF:-1 xui-id="112514" tvg-id="" tvg-name="Insight TV UHD | HDR" tvg-logo="http://fomo.re:80/images/all_insight_tv.png" group-title="Norway",Insight TV UHD | HDR | 🌟 FREE IPTV WORLD 🌟
+http://fomo.re:80/play/INqRI1BSwwQ4bRlJzMZLSYTfvuyLQk5jGf30weRtW3A/ts
+#EXTINF:-1 xui-id="112520" tvg-id="" tvg-name="Quadro 4K" tvg-logo="http://fomo.re:80/images/all_quadro.png" group-title="Norway",Quadro 4K | 🌟 FREE IPTV WORLD 🌟
+http://fomo.re:80/play/INqRI1BSwwQ4bRlJzMZLSc9_vKeMzFyoMiwqkOdZfPk/ts
+#EXTINF:-1 xui-id="112593" tvg-id="" tvg-name="V sport live 1 | raw" tvg-logo="http://fomo.re:80/images/all_vsport_live13.png" group-title="Norway",V sport live 1 | raw | 🌟 FREE IPTV WORLD 🌟
+http://fomo.re:80/play/INqRI1BSwwQ4bRlJzMZLScP55gd3LVczHpRu8LGTKPk/ts
+#EXTINF:-1 xui-id="112594" tvg-id="" tvg-name="V sport live 2 | raw" tvg-logo="http://fomo.re:80/images/all_vsport_live2.png" group-title="Norway",V sport live 2 | raw | 🌟 FREE IPTV WORLD 🌟
+http://fomo.re:80/play/INqRI1BSwwQ4bRlJzMZLSVYRArdr30Lu_oK05Q2AHqE/ts
+#EXTINF:-1 xui-id="112595" tvg-id="" tvg-name="V sport live 3 | raw" tvg-logo="http://fomo.re:80/images/all_vsport_live3.png" group-title="Norway",V sport live 3 | raw | 🌟 FREE IPTV WORLD 🌟
+http://fomo.re:80/play/INqRI1BSwwQ4bRlJzMZLSWmUagXzM2mMARTLwtEPsNM/ts
+#EXTINF:-1 xui-id="112596" tvg-id="" tvg-name="V sport live 4 | raw" tvg-logo="http://fomo.re:80/images/all_vsport_live4.png" group-title="Norway",V sport live 4 | raw | 🌟 FREE IPTV WORLD 🌟
+http://fomo.re:80/play/INqRI1BSwwQ4bRlJzMZLSUvwxvG2B8cAFyXLH04_inQ/ts
+#EXTINF:-1 xui-id="112597" tvg-id="" tvg-name="V sport live 5 | raw" tvg-logo="http://fomo.re:80/images/all_vsport_live5.png" group-title="Norway",V sport live 5 | raw | 🌟 FREE IPTV WORLD 🌟
+http://fomo.re:80/play/INqRI1BSwwQ4bRlJzMZLSVE8v0-wNmUVb7YtNJb4O14/ts
+#EXTINF:-1 xui-id="112900" tvg-id="" tvg-name="V sport Premier League 1 HD | 50FPS" tvg-logo="http://fomo.re:80/images/v2.png" group-title="Norway",V sport Premier League 1 HD | 50FPS | 🌟 FREE IPTV WORLD 🌟
+http://fomo.re:80/play/INqRI1BSwwQ4bRlJzMZLSS-0n70L9PJxAQKP2dRgqyY/ts
+#EXTINF:-1 xui-id="112901" tvg-id="" tvg-name="V sport Premier League 2 HD | 50FPS" tvg-logo="http://fomo.re:80/images/v2-2.png" group-title="Norway",V sport Premier League 2 HD | 50FPS | 🌟 FREE IPTV WORLD 🌟
+http://fomo.re:80/play/INqRI1BSwwQ4bRlJzMZLSSRIuHkMg_rIOlextSpm45o/ts
+#EXTINF:-1 xui-id="112902" tvg-id="" tvg-name="V sport Premier League 3 HD | 50FPS" tvg-logo="http://fomo.re:80/images/v3.png" group-title="Norway",V sport Premier League 3 HD | 50FPS | 🌟 FREE IPTV WORLD 🌟
+http://fomo.re:80/play/INqRI1BSwwQ4bRlJzMZLSV0lb7woZcN2yINIMTb_kMk/ts
+#EXTINF:-1 xui-id="112903" tvg-id="" tvg-name="V sport Premier League 4 HD | 50FPS" tvg-logo="http://fomo.re:80/images/v4.png" group-title="Norway",V sport Premier League 4 HD | 50FPS | 🌟 FREE IPTV WORLD 🌟
+http://fomo.re:80/play/INqRI1BSwwQ4bRlJzMZLSeA-gatah5hO1-AtK_IdQP4/ts
+#EXTINF:-1 xui-id="113332" tvg-id="" tvg-name="V Sport Golf HD Norwegian" tvg-logo="http://fomo.re:80/images/ALL_vsport_golf.png" group-title="Norway",V Sport Golf HD Norwegian | 🌟 FREE IPTV WORLD 🌟
+http://fomo.re:80/play/INqRI1BSwwQ4bRlJzMZLSZy55pI_IIzJqrqqUFIXk24/ts
+#EXTINF:-1 xui-id="113347" tvg-id="" tvg-name="nick Jr" tvg-logo="http://fomo.re:80/images/SWE_nick_jr.png" group-title="Norway",nick Jr | 🌟 FREE IPTV WORLD 🌟
+http://fomo.re:80/play/INqRI1BSwwQ4bRlJzMZLSY7I6EEMkq_2gimawVR7m98/ts
+#EXTINF:-1 timeshift="1" xui-id="9922" tvg-id="156532" tvg-name="V sport 1 HD | raw" tvg-logo="http://fomo.re:80/images/ALL_vsport_1_hd.png" group-title="Norway",V sport 1 HD | raw | 🌟 FREE IPTV WORLD 🌟
+http://fomo.re:80/play/INqRI1BSwwQ4bRlJzMZLSQpiM1opzpID6g7d4KswOWM/ts
+#EXTINF:-1 xui-id="116829" tvg-id="" tvg-name="Handball Kanalen 6" tvg-logo="http://fomo.re:80/images/1yO_mSzyxTFKGN1YRTDjZEhGGwPjfW-MvTynoIqT8Ck.png" group-title="Norway",Handball Kanalen 6 | 🌟 FREE IPTV WORLD 🌟
+http://fomo.re:80/play/INqRI1BSwwQ4bRlJzMZLSf7jHiUX094EC2UnDx2j7B4/ts
+#EXTINF:-1 xui-id="116830" tvg-id="" tvg-name="Handball Kanalen 7" tvg-logo="http://fomo.re:80/images/1yO_mSzyxTFKGN1YRTDjZEhGGwPjfW-MvTynoIqT8Ck.png" group-title="Norway",Handball Kanalen 7 | 🌟 FREE IPTV WORLD 🌟
+http://fomo.re:80/play/INqRI1BSwwQ4bRlJzMZLSVivymrcJ-feBe0e6kgWp4g/ts
+#EXTINF:-1 xui-id="116831" tvg-id="" tvg-name="Handball Kanalen 8" tvg-logo="http://fomo.re:80/images/1yO_mSzyxTFKGN1YRTDjZEhGGwPjfW-MvTynoIqT8Ck.png" group-title="Norway",Handball Kanalen 8 | 🌟 FREE IPTV WORLD 🌟
+http://fomo.re:80/play/INqRI1BSwwQ4bRlJzMZLSQAKv3c3ciG2oG7Vq09pUdQ/ts
+#EXTINF:-1 xui-id="116832" tvg-id="" tvg-name="Handball Kanalen 9" tvg-logo="http://fomo.re:80/images/1yO_mSzyxTFKGN1YRTDjZEhGGwPjfW-MvTynoIqT8Ck.png" group-title="Norway",Handball Kanalen 9 | 🌟 FREE IPTV WORLD 🌟
+http://fomo.re:80/play/INqRI1BSwwQ4bRlJzMZLSTrkwsI36VKfqR0r11TDQu0/ts
+#EXTINF:-1 xui-id="116845" tvg-id="" tvg-name="Handball Kanalen 10" tvg-logo="http://fomo.re:80/images/1yO_mSzyxTFKGN1YRTDjZEhGGwPjfW-MvTynoIqT8Ck.png" group-title="Norway",Handball Kanalen 10 | 🌟 FREE IPTV WORLD 🌟
+http://fomo.re:80/play/INqRI1BSwwQ4bRlJzMZLSX4hB0N8taF4_dDDL1ip0gI/ts
+#EXTINF:-1 xui-id="135741" tvg-id="" tvg-name="MAX 1" tvg-logo="" group-title="Norway",MAX 1 | 🌟 FREE IPTV WORLD 🌟
+http://fomo.re:80/play/INqRI1BSwwQ4bRlJzMZLSXTCuM_9bRnZczeQCpE2W_M/ts
+#EXTINF:-1 xui-id="135742" tvg-id="" tvg-name="MAX 2" tvg-logo="" group-title="Norway",MAX 2 | 🌟 FREE IPTV WORLD 🌟
+http://fomo.re:80/play/INqRI1BSwwQ4bRlJzMZLSS_8HLHB2ONxj7tF_LSVqdo/ts
+#EXTINF:-1 xui-id="135743" tvg-id="" tvg-name="MAX 3" tvg-logo="" group-title="Norway",MAX 3 | 🌟 FREE IPTV WORLD 🌟
+http://fomo.re:80/play/INqRI1BSwwQ4bRlJzMZLSThvp04J7mDROUxgzIflBYM/ts
+#EXTINF:-1 xui-id="135744" tvg-id="" tvg-name="MAX 4" tvg-logo="" group-title="Norway",MAX 4 | 🌟 FREE IPTV WORLD 🌟
+http://fomo.re:80/play/INqRI1BSwwQ4bRlJzMZLSYkeqUaz_ZrVCkZ22DByHcE/ts
+#EXTINF:-1 xui-id="135745" tvg-id="" tvg-name="MAX 5" tvg-logo="" group-title="Norway",MAX 5 | 🌟 FREE IPTV WORLD 🌟
+http://fomo.re:80/play/INqRI1BSwwQ4bRlJzMZLSesvs9dkurqka3cr6-xVRyU/ts
+#EXTINF:-1 xui-id="135746" tvg-id="" tvg-name="MAX 6" tvg-logo="" group-title="Norway",MAX 6 | 🌟 FREE IPTV WORLD 🌟
+http://fomo.re:80/play/INqRI1BSwwQ4bRlJzMZLSSo489gAKpfzqngwtlFlAhM/ts
+#EXTINF:-1 xui-id="135747" tvg-id="" tvg-name="MAX 7" tvg-logo="" group-title="Norway",MAX 7 | 🌟 FREE IPTV WORLD 🌟
+http://fomo.re:80/play/INqRI1BSwwQ4bRlJzMZLSS7My5iO3u3d-Kt0qh90b3M/ts
+#EXTINF:-1 xui-id="135960" tvg-id="" tvg-name="VG+ 6" tvg-logo="" group-title="Norway",VG+ 6 | 🌟 FREE IPTV WORLD 🌟
+http://fomo.re:80/play/INqRI1BSwwQ4bRlJzMZLSU3gQH1o71uJ_y4HEDp6IqI/ts
+#EXTINF:-1 xui-id="135961" tvg-id="" tvg-name="VG+ 7" tvg-logo="" group-title="Norway",VG+ 7 | 🌟 FREE IPTV WORLD 🌟
+http://fomo.re:80/play/INqRI1BSwwQ4bRlJzMZLSdsKlMki9yPnqmz8SAo1SWc/ts
+#EXTINF:-1 xui-id="135962" tvg-id="" tvg-name="VG+ 8" tvg-logo="" group-title="Norway",VG+ 8 | 🌟 FREE IPTV WORLD 🌟
+http://fomo.re:80/play/INqRI1BSwwQ4bRlJzMZLSU8IzB8MLGW8wc0zKSO-DLU/ts
+#EXTINF:-1 xui-id="135963" tvg-id="" tvg-name="VG+ 9" tvg-logo="" group-title="Norway",VG+ 9 | 🌟 FREE IPTV WORLD 🌟
+http://fomo.re:80/play/INqRI1BSwwQ4bRlJzMZLSUbmFkFWvSNQ1Gs96-tO6Uo/ts
+#EXTINF:-1 xui-id="135964" tvg-id="" tvg-name="VG+ 10" tvg-logo="" group-title="Norway",VG+ 10 | 🌟 FREE IPTV WORLD 🌟
+http://fomo.re:80/play/INqRI1BSwwQ4bRlJzMZLSbkBsDm642ay2jjzF92aqqQ/ts
+#EXTINF:-1 xui-id="155816" tvg-id="" tvg-name="EHF 6 NO" tvg-logo="" group-title="Norway",EHF 6 NO | 🌟 FREE IPTV WORLD 🌟
+http://fomo.re:80/play/INqRI1BSwwQ4bRlJzMZLSY-jGm9EwzEeB-uEzbJ9wcw/ts
+#EXTINF:-1 xui-id="155817" tvg-id="" tvg-name="EHF 7 NO" tvg-logo="" group-title="Norway",EHF 7 NO | 🌟 FREE IPTV WORLD 🌟
+http://fomo.re:80/play/INqRI1BSwwQ4bRlJzMZLSaImBNIrAbA_vqTAeBd1L8A/ts
+#EXTINF:-1 xui-id="155818" tvg-id="" tvg-name="EHF 8 NO" tvg-logo="" group-title="Norway",EHF 8 NO | 🌟 FREE IPTV WORLD 🌟
+http://fomo.re:80/play/INqRI1BSwwQ4bRlJzMZLSUoHcm6mbZOLKVooe78IdPI/ts
+#EXTINF:-1 xui-id="242089" tvg-id="" tvg-name="Viaplay sport" tvg-logo="" group-title="Norway",Viaplay sport | 🌟 FREE IPTV WORLD 🌟
+http://fomo.re:80/play/INqRI1BSwwQ4bRlJzMZLSYMOCWa-jm2DIe-C-BgyTkk/ts
+#EXTINF:-1 xui-id="242090" tvg-id="" tvg-name="Viaplay Sport HD" tvg-logo="" group-title="Norway",Viaplay Sport HD | 🌟 FREE IPTV WORLD 🌟
+http://fomo.re:80/play/INqRI1BSwwQ4bRlJzMZLSdNwljxQzsofbW_30B1jlBg/ts
+#EXTINF:-1 xui-id="317923" tvg-id="156472" tvg-name="Rikstoto" tvg-logo="" group-title="Norway",Rikstoto | 🌟 FREE IPTV WORLD 🌟
+http://fomo.re:80/play/INqRI1BSwwQ4bRlJzMZLSV7SrfMDGTfG5oyYkETy44I/ts
+#EXTINF:-1 xui-id="112441" tvg-id="" tvg-name="V sport golf HD | raw" tvg-logo="http://fomo.re:80/images/ALL_vsport_golf_hd.png" group-title="Norway",V sport golf HD | raw | 🌟 FREE IPTV WORLD 🌟
+http://fomo.re:80/play/INqRI1BSwwQ4bRlJzMZLSb2Cf6RRVSzKHyytDGsEUPE/ts
+#EXTINF:-1 xui-id="136" tvg-id="156448" tvg-name="SVT1" tvg-logo="http://fomo.re:80/images/SWE_svt1.png" group-title="Sweden",SVT1 | 🌟 FREE IPTV WORLD 🌟
+http://fomo.re:80/play/INqRI1BSwwQ4bRlJzMZLSXowVSp9a4P-KgKaFDqnO44/ts
+#EXTINF:-1 xui-id="137" tvg-id="156448" tvg-name="SVT1 HD" tvg-logo="http://fomo.re:80/images/SWE_svt1_hd.png" group-title="Sweden",SVT1 HD | 🌟 FREE IPTV WORLD 🌟
+http://fomo.re:80/play/INqRI1BSwwQ4bRlJzMZLSfXRYVmHLtJZekNabzD0kL0/ts
+#EXTINF:-1 xui-id="138" tvg-id="156448" tvg-name="SVT1 Låg Internethastighet" tvg-logo="http://fomo.re:80/images/SWE_svt1._lag_internetjpg.png" group-title="Sweden",SVT1 Låg Internethastighet | 🌟 FREE IPTV WORLD 🌟
+http://fomo.re:80/play/INqRI1BSwwQ4bRlJzMZLSfmgsX2Rc7vCat7e0MTj0mc/ts
+#EXTINF:-1 xui-id="139" tvg-id="156449" tvg-name="SVT2" tvg-logo="http://fomo.re:80/images/SWE_svt2.png" group-title="Sweden",SVT2 | 🌟 FREE IPTV WORLD 🌟
+http://fomo.re:80/play/INqRI1BSwwQ4bRlJzMZLSdyzsE3jXyKDp87TAhNt8Vk/ts
+#EXTINF:-1 xui-id="140" tvg-id="156449" tvg-name="SVT2 HD" tvg-logo="http://fomo.re:80/images/SWE_svt2_hd.png" group-title="Sweden",SVT2 HD | 🌟 FREE IPTV WORLD 🌟
+http://fomo.re:80/play/INqRI1BSwwQ4bRlJzMZLSQ5NW6KKa3fEwpEHp22AttU/ts
+#EXTINF:-1 xui-id="141" tvg-id="156556" tvg-name="TV3" tvg-logo="http://fomo.re:80/images/SWE_tv3.png" group-title="Sweden",TV3 | 🌟 FREE IPTV WORLD 🌟
+http://fomo.re:80/play/INqRI1BSwwQ4bRlJzMZLSWzw9tohz6jtvn-JOjygWOs/ts
+#EXTINF:-1 xui-id="142" tvg-id="156556" tvg-name="TV3 HD" tvg-logo="http://fomo.re:80/images/SWE_tv3_hd.png" group-title="Sweden",TV3 HD | 🌟 FREE IPTV WORLD 🌟
+http://fomo.re:80/play/INqRI1BSwwQ4bRlJzMZLSYdsGjj0qA1tcmSW_696TB4/ts
+#EXTINF:-1 xui-id="143" tvg-id="156222" tvg-name="TV4" tvg-logo="http://fomo.re:80/images/Tv4_square.svg.png" group-title="Sweden",TV4 | 🌟 FREE IPTV WORLD 🌟
+http://fomo.re:80/play/INqRI1BSwwQ4bRlJzMZLSXDyNRYU46cU835vKZLRwGY/ts
+#EXTINF:-1 xui-id="144" tvg-id="156222" tvg-name="TV4 HD" tvg-logo="http://fomo.re:80/images/Tv4_square.svg.png" group-title="Sweden",TV4 HD | 🌟 FREE IPTV WORLD 🌟
+http://fomo.re:80/play/INqRI1BSwwQ4bRlJzMZLSQ21QbQl7FNflWOc1fHVP5g/ts
+#EXTINF:-1 xui-id="145" tvg-id="156546" tvg-name="Kanal 5" tvg-logo="http://fomo.re:80/images/SWE_kanal5.png" group-title="Sweden",Kanal 5 | 🌟 FREE IPTV WORLD 🌟
+http://fomo.re:80/play/INqRI1BSwwQ4bRlJzMZLSaEyh4hClEkN-IgTWEjw-nc/ts
+#EXTINF:-1 xui-id="146" tvg-id="156546" tvg-name="Kanal 5 HD" tvg-logo="http://fomo.re:80/images/SWE_kanal5_hd.png" group-title="Sweden",Kanal 5 HD | 🌟 FREE IPTV WORLD 🌟
+http://fomo.re:80/play/INqRI1BSwwQ4bRlJzMZLSdhBvK3XwnbIH-fQpYdlPAM/ts
+#EXTINF:-1 xui-id="147" tvg-id="156507" tvg-name="TV6 HD" tvg-logo="http://fomo.re:80/images/SWE_tv6.png" group-title="Sweden",TV6 HD | 🌟 FREE IPTV WORLD 🌟
+http://fomo.re:80/play/INqRI1BSwwQ4bRlJzMZLScF0-3E8buBQGftzHL82HWc/ts
+#EXTINF:-1 xui-id="149" tvg-id="156411" tvg-name="Sjuan" tvg-logo="http://fomo.re:80/images/SWE_sjuan.png" group-title="Sweden",Sjuan | 🌟 FREE IPTV WORLD 🌟
+http://fomo.re:80/play/INqRI1BSwwQ4bRlJzMZLSaqJw8qbADdoslwyrgNpPxQ/ts
+#EXTINF:-1 xui-id="150" tvg-id="156411" tvg-name="Sjuan HD" tvg-logo="http://fomo.re:80/images/SWE_sjuan_hd.png" group-title="Sweden",Sjuan HD | 🌟 FREE IPTV WORLD 🌟
+http://fomo.re:80/play/INqRI1BSwwQ4bRlJzMZLScvpF9wm9DllEJZbO1VPnCI/ts
+#EXTINF:-1 xui-id="152" tvg-id="156547" tvg-name="Kanal 9" tvg-logo="http://fomo.re:80/images/SWE_kanal9.png" group-title="Sweden",Kanal 9 | 🌟 FREE IPTV WORLD 🌟
+http://fomo.re:80/play/INqRI1BSwwQ4bRlJzMZLSS1yf38cOjcWP8JWTZJwvT4/ts
+#EXTINF:-1 xui-id="153" tvg-id="156547" tvg-name="Kanal 9 HD" tvg-logo="http://fomo.re:80/images/SWE_kanal9_hd.png" group-title="Sweden",Kanal 9 HD | 🌟 FREE IPTV WORLD 🌟
+http://fomo.re:80/play/INqRI1BSwwQ4bRlJzMZLSaiyGuumYgkL-AqhOjrpyg0/ts
+#EXTINF:-1 xui-id="154" tvg-id="156558" tvg-name="TV10" tvg-logo="http://fomo.re:80/images/SWE_tv10.png" group-title="Sweden",TV10 | 🌟 FREE IPTV WORLD 🌟
+http://fomo.re:80/play/INqRI1BSwwQ4bRlJzMZLSbkucbnNG0sQGyU-JQZYb40/ts
+#EXTINF:-1 xui-id="155" tvg-id="156558" tvg-name="TV10 HD" tvg-logo="http://fomo.re:80/images/SWE_tv10_hd.png" group-title="Sweden",TV10 HD | 🌟 FREE IPTV WORLD 🌟
+http://fomo.re:80/play/INqRI1BSwwQ4bRlJzMZLSRxB5VaazWCyT8jduPMPr54/ts
+#EXTINF:-1 xui-id="156" tvg-id="156190" tvg-name="Kanal 11" tvg-logo="http://fomo.re:80/images/SWE_kanal11.png" group-title="Sweden",Kanal 11 | 🌟 FREE IPTV WORLD 🌟
+http://fomo.re:80/play/INqRI1BSwwQ4bRlJzMZLSQOspAjTbABvFQDGqKQ0PE4/ts
+#EXTINF:-1 xui-id="157" tvg-id="156190" tvg-name="Kanal 11 HD" tvg-logo="http://fomo.re:80/images/SWE_kanal11.png" group-title="Sweden",Kanal 11 HD | 🌟 FREE IPTV WORLD 🌟
+http://fomo.re:80/play/INqRI1BSwwQ4bRlJzMZLSe2UBXVpMP6e0I3jx046AS8/ts
+#EXTINF:-1 xui-id="158" tvg-id="156470" tvg-name="TV12 HD" tvg-logo="http://fomo.re:80/images/SWE_tv12.png" group-title="Sweden",TV12 HD | 🌟 FREE IPTV WORLD 🌟
+http://fomo.re:80/play/INqRI1BSwwQ4bRlJzMZLSfeERpYRQgd-Vn1yurkK-N4/ts
+#EXTINF:-1 xui-id="160" tvg-id="" tvg-name="SVTB/SVT24" tvg-logo="http://fomo.re:80/images/SWE_svt24.png" group-title="Sweden",SVTB/SVT24 | 🌟 FREE IPTV WORLD 🌟
+http://fomo.re:80/play/INqRI1BSwwQ4bRlJzMZLSZuSyIwbaAEXVThSfwGnBpg/ts
+#EXTINF:-1 xui-id="161" tvg-id="156451" tvg-name="Kunskapskanalen" tvg-logo="http://fomo.re:80/images/SWE_kunskapskanalen_.png" group-title="Sweden",Kunskapskanalen | 🌟 FREE IPTV WORLD 🌟
+http://fomo.re:80/play/INqRI1BSwwQ4bRlJzMZLSTO67FrgHuEVKbZxqvyoJbI/ts
+#EXTINF:-1 xui-id="205" tvg-id="156525" tvg-name="ATG" tvg-logo="http://fomo.re:80/images/SWE_atg_hd.png" group-title="Sweden",ATG | 🌟 FREE IPTV WORLD 🌟
+http://fomo.re:80/play/INqRI1BSwwQ4bRlJzMZLSe4TEHoY29BqtI0xyQPGdiM/ts
+#EXTINF:-1 xui-id="245" tvg-id="156404" tvg-name="SF-kanalen" tvg-logo="http://fomo.re:80/images/SWE_anytime.png" group-title="Sweden",SF-kanalen | 🌟 FREE IPTV WORLD 🌟
+http://fomo.re:80/play/INqRI1BSwwQ4bRlJzMZLSe7tyGeVuvvmd4oiab-qW58/ts
+#EXTINF:-1 xui-id="246" tvg-id="156398" tvg-name="MTV Aitio" tvg-logo="http://fomo.re:80/images/swe_mtv_aitio.png" group-title="Sweden",MTV Aitio | 🌟 FREE IPTV WORLD 🌟
+http://fomo.re:80/play/INqRI1BSwwQ4bRlJzMZLSa7P9BsCulpAXDSj4zLh780/ts
+#EXTINF:-1 xui-id="247" tvg-id="156399" tvg-name="TV4 Hits" tvg-logo="http://fomo.re:80/images/swe_tv4_hits.png" group-title="Sweden",TV4 Hits | 🌟 FREE IPTV WORLD 🌟
+http://fomo.re:80/play/INqRI1BSwwQ4bRlJzMZLSSHla2J_GtObWksp5XzjPoY/ts
+#EXTINF:-1 xui-id="248" tvg-id="156400" tvg-name="TV4 Stars" tvg-logo="http://fomo.re:80/images/swe_tv4_stars.png" group-title="Sweden",TV4 Stars | 🌟 FREE IPTV WORLD 🌟
+http://fomo.re:80/play/INqRI1BSwwQ4bRlJzMZLSc5Z5HuM_gtbkHnI-CmEW9M/ts
+#EXTINF:-1 xui-id="249" tvg-id="156253" tvg-name="MTV Viidhe" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/73/MTV_Viihde_II.svg/revision/latest/scale-to-width-down/180?cb=20231009154039" group-title="Sweden",MTV Viidhe | 🌟 FREE IPTV WORLD 🌟
+http://fomo.re:80/play/INqRI1BSwwQ4bRlJzMZLSY-ZU3U_ml5DIU67LKPK8ok/ts
+#EXTINF:-1 xui-id="250" tvg-id="156485" tvg-name="V series HD" tvg-logo="http://fomo.re:80/images/ALL_vsport_series_hd.png" group-title="Sweden",V series HD | 🌟 FREE IPTV WORLD 🌟
+http://fomo.re:80/play/INqRI1BSwwQ4bRlJzMZLSUgGVgyvckpuccOnAx3Os6U/ts
+#EXTINF:-1 xui-id="252" tvg-id="156490" tvg-name="V film hits HD" tvg-logo="http://fomo.re:80/images/ALL_vsport_film_hits_hd.png" group-title="Sweden",V film hits HD | 🌟 FREE IPTV WORLD 🌟
+http://fomo.re:80/play/INqRI1BSwwQ4bRlJzMZLSajP-P9cLoTGrRReEJada6I/ts
+#EXTINF:-1 xui-id="254" tvg-id="156483" tvg-name="V film action HD" tvg-logo="http://fomo.re:80/images/ALL_vsport_film_action_hd.png" group-title="Sweden",V film action HD | 🌟 FREE IPTV WORLD 🌟
+http://fomo.re:80/play/INqRI1BSwwQ4bRlJzMZLSW83lg_nzQSXZomZ2lNON0w/ts
+#EXTINF:-1 xui-id="256" tvg-id="155840" tvg-name="V film premiere HD" tvg-logo="http://fomo.re:80/images/ALL_vsport_film_premiere_hd.png" group-title="Sweden",V film premiere HD | 🌟 FREE IPTV WORLD 🌟
+http://fomo.re:80/play/INqRI1BSwwQ4bRlJzMZLSXVjX2KrLxPlhtGCKOVDiuk/ts
+#EXTINF:-1 xui-id="260" tvg-id="156468" tvg-name="TV4 Film" tvg-logo="http://fomo.re:80/images/SWE_tv_film_hd.png" group-title="Sweden",TV4 Film | 🌟 FREE IPTV WORLD 🌟
+http://fomo.re:80/play/INqRI1BSwwQ4bRlJzMZLSWOedx3OvxNp9i-y2Y5Ld1o/ts
+#EXTINF:-1 xui-id="261" tvg-id="156466" tvg-name="TV4 Guld" tvg-logo="http://fomo.re:80/images/SWE_tv_guld.png" group-title="Sweden",TV4 Guld | 🌟 FREE IPTV WORLD 🌟
+http://fomo.re:80/play/INqRI1BSwwQ4bRlJzMZLSb7U69DGgtD8tkMkvE6Y2IY/ts
+#EXTINF:-1 xui-id="262" tvg-id="156467" tvg-name="TV4 Fakta" tvg-logo="http://fomo.re:80/images/swe_tv4_fakta.png" group-title="Sweden",TV4 Fakta | 🌟 FREE IPTV WORLD 🌟
+http://fomo.re:80/play/INqRI1BSwwQ4bRlJzMZLScDPwkheeHgf0gn7_UqEtbw/ts
+#EXTINF:-1 xui-id="269" tvg-id="156578" tvg-name="BBC Nordic" tvg-logo="http://fomo.re:80/images/all_bbc_nodik.png" group-title="Sweden",BBC Nordic | 🌟 FREE IPTV WORLD 🌟
+http://fomo.re:80/play/INqRI1BSwwQ4bRlJzMZLSRc9fiSRWz6NjE6-xLi-TIE/ts
+#EXTINF:-1 xui-id="276" tvg-id="156457" tvg-name="Discovery" tvg-logo="http://fomo.re:80/images/UK_discovery.png" group-title="Sweden",Discovery | 🌟 FREE IPTV WORLD 🌟
+http://fomo.re:80/play/INqRI1BSwwQ4bRlJzMZLSVmHIk8buq630E7M8uOdF2w/ts
+#EXTINF:-1 xui-id="277" tvg-id="156457" tvg-name="Discovery HD" tvg-logo="http://fomo.re:80/images/UK_discovery_hd.png" group-title="Sweden",Discovery HD | 🌟 FREE IPTV WORLD 🌟
+http://fomo.re:80/play/INqRI1BSwwQ4bRlJzMZLSe9i3LQZ5ok5_WiierIoveM/ts
+#EXTINF:-1 xui-id="279" tvg-id="156455" tvg-name="ID" tvg-logo="http://fomo.re:80/images/SWE_id.png" group-title="Sweden",ID | 🌟 FREE IPTV WORLD 🌟
+http://fomo.re:80/play/INqRI1BSwwQ4bRlJzMZLSTjCzHdsItWWhNuxbXVkQMg/ts
+#EXTINF:-1 xui-id="280" tvg-id="156455" tvg-name="ID HD" tvg-logo="http://fomo.re:80/images/SWE_id.png" group-title="Sweden",ID HD | 🌟 FREE IPTV WORLD 🌟
+http://fomo.re:80/play/INqRI1BSwwQ4bRlJzMZLSc2iUOCRuCX2V3dGuDaR3Zo/ts
+#EXTINF:-1 xui-id="285" tvg-id="156537" tvg-name="H&C" tvg-logo="http://fomo.re:80/images/SWE_h_and_c.png" group-title="Sweden",H&C | 🌟 FREE IPTV WORLD 🌟
+http://fomo.re:80/play/INqRI1BSwwQ4bRlJzMZLSRz6vHDBjfQt4J8BCxYbGZw/ts
+#EXTINF:-1 xui-id="288" tvg-id="156438" tvg-name="Nick Jr" tvg-logo="http://fomo.re:80/images/NickJr_square.svg.png" group-title="Sweden",Nick Jr | 🌟 FREE IPTV WORLD 🌟
+http://fomo.re:80/play/INqRI1BSwwQ4bRlJzMZLSSauMSJTGt8kvoM3mEE3SFI/ts
+#EXTINF:-1 xui-id="290" tvg-id="156461" tvg-name="TLC Sverige" tvg-logo="http://fomo.re:80/images/TLC_square.svg.png" group-title="Sweden",TLC Sverige | 🌟 FREE IPTV WORLD 🌟
+http://fomo.re:80/play/INqRI1BSwwQ4bRlJzMZLSSNe63FzzZG18v0-4AL-k7o/ts
+#EXTINF:-1 xui-id="297" tvg-id="156497" tvg-name="Godare" tvg-logo="http://fomo.re:80/images/SWE_godare.png" group-title="Sweden",Godare | 🌟 FREE IPTV WORLD 🌟
+http://fomo.re:80/play/INqRI1BSwwQ4bRlJzMZLSUL2SDR1g49Ih_ubfm-L-iY/ts
+#EXTINF:-1 xui-id="299" tvg-id="156439" tvg-name="SVT1 Dalarna" tvg-logo="http://fomo.re:80/images/SWE_svt1_dalarna.png" group-title="Sweden",SVT1 Dalarna | 🌟 FREE IPTV WORLD 🌟
+http://fomo.re:80/play/INqRI1BSwwQ4bRlJzMZLSZmVsGOl5q-9GrZ7x8TNT94/ts
+#EXTINF:-1 xui-id="300" tvg-id="156445" tvg-name="SVT1 Gävleborg" tvg-logo="http://fomo.re:80/images/SWE_svt1_gavleborg.png" group-title="Sweden",SVT1 Gävleborg | 🌟 FREE IPTV WORLD 🌟
+http://fomo.re:80/play/INqRI1BSwwQ4bRlJzMZLSaoC05p8BJTkwLUcNmTiPC4/ts
+#EXTINF:-1 xui-id="301" tvg-id="156446" tvg-name="SVT1 Jämtland" tvg-logo="http://fomo.re:80/images/SWE_svt1_jamtland.png" group-title="Sweden",SVT1 Jämtland | 🌟 FREE IPTV WORLD 🌟
+http://fomo.re:80/play/INqRI1BSwwQ4bRlJzMZLSWQ2UKtgWFO0Ubi4Id-a7lc/ts
+#EXTINF:-1 xui-id="302" tvg-id="156447" tvg-name="SVT1 Jönköping" tvg-logo="http://fomo.re:80/images/swe_svt1_jonkoping.png" group-title="Sweden",SVT1 Jönköping | 🌟 FREE IPTV WORLD 🌟
+http://fomo.re:80/play/INqRI1BSwwQ4bRlJzMZLSXf11fZU16Vav4sPO7x7WCU/ts
+#EXTINF:-1 xui-id="303" tvg-id="156441" tvg-name="SVT1 Örebro" tvg-logo="http://fomo.re:80/images/SWE_svt1_orebro.png" group-title="Sweden",SVT1 Örebro | 🌟 FREE IPTV WORLD 🌟
+http://fomo.re:80/play/INqRI1BSwwQ4bRlJzMZLSUlmHn6Bg53M2Woq17riOyc/ts
+#EXTINF:-1 xui-id="304" tvg-id="SVT1OST" tvg-name="SVT1 Öst" tvg-logo="http://fomo.re:80/images/SWE_svt1_ost.png" group-title="Sweden",SVT1 Öst | 🌟 FREE IPTV WORLD 🌟
+http://fomo.re:80/play/INqRI1BSwwQ4bRlJzMZLSUN_mfMAK4GTzudrOTN5-xk/ts
+#EXTINF:-1 xui-id="305" tvg-id="SVT1SYD" tvg-name="SVT1 Skåne" tvg-logo="http://fomo.re:80/images/SWE_svt1_skane.png" group-title="Sweden",SVT1 Skåne | 🌟 FREE IPTV WORLD 🌟
+http://fomo.re:80/play/INqRI1BSwwQ4bRlJzMZLScr_Tfxks5kr4oZZVyoRiZQ/ts
+#EXTINF:-1 xui-id="306" tvg-id="SVT1SMA" tvg-name="SVT1 Småland" tvg-logo="http://fomo.re:80/images/SWE_svt1_smaland.png" group-title="Sweden",SVT1 Småland | 🌟 FREE IPTV WORLD 🌟
+http://fomo.re:80/play/INqRI1BSwwQ4bRlJzMZLSW-fR73UUoDycBilwUcji_g/ts
+#EXTINF:-1 xui-id="307" tvg-id="SVT1VAR" tvg-name="SVT1 Värmland" tvg-logo="http://fomo.re:80/images/SWE_svt1_vermland.png" group-title="Sweden",SVT1 Värmland | 🌟 FREE IPTV WORLD 🌟
+http://fomo.re:80/play/INqRI1BSwwQ4bRlJzMZLSUGY6_JD7mvuo8YdH45OVYc/ts
+#EXTINF:-1 xui-id="308" tvg-id="SVT1VAS" tvg-name="SVT1 Väst" tvg-logo="http://fomo.re:80/images/SWE_svt1_vast.png" group-title="Sweden",SVT1 Väst | 🌟 FREE IPTV WORLD 🌟
+http://fomo.re:80/play/INqRI1BSwwQ4bRlJzMZLSanZXv-9atZVRVa7rBI5tzU/ts
+#EXTINF:-1 xui-id="8378" tvg-id="156461" tvg-name="TLC Sverige HD" tvg-logo="http://fomo.re:80/images/SWE_tlc.png" group-title="Sweden",TLC Sverige HD | 🌟 FREE IPTV WORLD 🌟
+http://fomo.re:80/play/INqRI1BSwwQ4bRlJzMZLSXa4ihsZi7RUHppTvgGzGAw/ts
+#EXTINF:-1 xui-id="9947" tvg-id="" tvg-name="MTV Aitio HD" tvg-logo="http://fomo.re:80/images/swe_mtv_aitio.png" group-title="Sweden",MTV Aitio HD | 🌟 FREE IPTV WORLD 🌟
+http://fomo.re:80/play/INqRI1BSwwQ4bRlJzMZLSYF7cBp7TLShRk5WX4kb2hw/ts
+#EXTINF:-1 xui-id="9948" tvg-id="156399" tvg-name="TV4 Hits HD" tvg-logo="http://fomo.re:80/images/p8wECydzfIXnVsfX7IyzA8_aNVuyJa4RgtOuNdaMI2NvhAklYPZJXxTi2Oy3zsHdw7iYKV6dn1vhbPeRvgQ34tnfkTzywuHRPpaMB_-wAEKrtee50I0Ep6vKP0PeA5Y9.png" group-title="Sweden",TV4 Hits HD | 🌟 FREE IPTV WORLD 🌟
+http://fomo.re:80/play/INqRI1BSwwQ4bRlJzMZLSQo2_NDqrx02d2QKB7mTOTo/ts
+#EXTINF:-1 xui-id="9949" tvg-id="156253" tvg-name="MTV Viidhe HD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/73/MTV_Viihde_II.svg/revision/latest/scale-to-width-down/180?cb=20231009154039" group-title="Sweden",MTV Viidhe HD | 🌟 FREE IPTV WORLD 🌟
+http://fomo.re:80/play/INqRI1BSwwQ4bRlJzMZLSdEtPOXx5PTkL3aohxs0y-w/ts
+#EXTINF:-1 xui-id="9950" tvg-id="" tvg-name="TV4 Stars HD" tvg-logo="http://fomo.re:80/images/p8wECydzfIXnVsfX7IyzA8_aNVuyJa4RgtOuNdaMI2NvhAklYPZJXxTi2Oy3zsHdMy0WcFb2Ozf7Mh41S1l-Tu4mCAlN5GARLnuUevjrxxD4NJbczbT8dFgiPOmQyTO7.png" group-title="Sweden",TV4 Stars HD | 🌟 FREE IPTV WORLD 🌟
+http://fomo.re:80/play/INqRI1BSwwQ4bRlJzMZLSafv76irTDdoaMOKgIMThqM/ts
+#EXTINF:-1 xui-id="9975" tvg-id="156524" tvg-name="TV4 Fotball HD | raw" tvg-logo="http://fomo.re:80/images/fotbal.png" group-title="Sweden",TV4 Fotball HD | raw | 🌟 FREE IPTV WORLD 🌟
+http://fomo.re:80/play/INqRI1BSwwQ4bRlJzMZLScAPJTWk_nF6MqFDyaZspbc/ts
+#EXTINF:-1 xui-id="9998" tvg-id="156534" tvg-name="TV4 Motor HD | raw" tvg-logo="http://fomo.re:80/images/motor.png" group-title="Sweden",TV4 Motor HD | raw | 🌟 FREE IPTV WORLD 🌟
+http://fomo.re:80/play/INqRI1BSwwQ4bRlJzMZLSfEWlWJ2WfeYdTc-EEba_no/ts
+#EXTINF:-1 xui-id="31862" tvg-id="156195" tvg-name="Nat Geo HD" tvg-logo="http://fomo.re:80/images/NationalGeographic_square.svg.png" group-title="Sweden",Nat Geo HD | 🌟 FREE IPTV WORLD 🌟
+http://fomo.re:80/play/INqRI1BSwwQ4bRlJzMZLSdQI6j9jDo-sEnBctnanN6w/ts
+#EXTINF:-1 xui-id="85" tvg-id="156493" tvg-name="V sport ultra HD (S)" tvg-logo="http://fomo.re:80/images/vultra.png" group-title="Sweden",V sport ultra HD (S) | 🌟 FREE IPTV WORLD 🌟
+http://fomo.re:80/play/INqRI1BSwwQ4bRlJzMZLSV0teAs-zFNCf1qwhMnez0o/ts
+#EXTINF:-1 xui-id="346" tvg-id="156525" tvg-name="ATG HD" tvg-logo="http://fomo.re:80/images/SWE_atg.png" group-title="Sweden",ATG HD | 🌟 FREE IPTV WORLD 🌟
+http://fomo.re:80/play/INqRI1BSwwQ4bRlJzMZLSZIVyVtQ1niXc4jw-VYePuU/ts
+#EXTINF:-1 xui-id="281" tvg-id="156587" tvg-name="Viasat History HD" tvg-logo="http://fomo.re:80/images/SWE_viasat_history_hd.png" group-title="Sweden",Viasat History HD | 🌟 FREE IPTV WORLD 🌟
+http://fomo.re:80/play/INqRI1BSwwQ4bRlJzMZLSaetdFX9B2YAVzqF1ArE3KY/ts
+#EXTINF:-1 xui-id="282" tvg-id="156583" tvg-name="Viasat Explore HD" tvg-logo="http://fomo.re:80/images/SWE_viasat_explore_hd.png" group-title="Sweden",Viasat Explore HD | 🌟 FREE IPTV WORLD 🌟
+http://fomo.re:80/play/INqRI1BSwwQ4bRlJzMZLSdxRhCs8Q4sILduT-4v3HZo/ts
+#EXTINF:-1 xui-id="283" tvg-id="156591" tvg-name="Viasat Nature HD" tvg-logo="http://fomo.re:80/images/SWE_viasat_nature_hd.png" group-title="Sweden",Viasat Nature HD | 🌟 FREE IPTV WORLD 🌟
+http://fomo.re:80/play/INqRI1BSwwQ4bRlJzMZLSXe8O2qnA8rIfopiJZfLH7I/ts
+#EXTINF:-1 xui-id="251" tvg-id="156490" tvg-name="V film hits" tvg-logo="http://fomo.re:80/images/ALL_vsport_film_hits.png" group-title="Sweden",V film hits | 🌟 FREE IPTV WORLD 🌟
+http://fomo.re:80/play/INqRI1BSwwQ4bRlJzMZLSWjSvI3LG05xM3Tu0My23V4/ts
+#EXTINF:-1 xui-id="255" tvg-id="155840" tvg-name="V film premiere" tvg-logo="http://fomo.re:80/images/ALL_vsport_film_premiere.png" group-title="Sweden",V film premiere | 🌟 FREE IPTV WORLD 🌟
+http://fomo.re:80/play/INqRI1BSwwQ4bRlJzMZLScPfVPKMtvZQHRMZZjkoGhI/ts
+#EXTINF:-1 xui-id="287" tvg-id="156496" tvg-name="V film family" tvg-logo="http://fomo.re:80/images/ALL_vsport_35.png" group-title="Sweden",V film family | 🌟 FREE IPTV WORLD 🌟
+http://fomo.re:80/play/INqRI1BSwwQ4bRlJzMZLSVnJ9tzcO2Is7TyVPhhpD6c/ts
+#EXTINF:-1 xui-id="11471" tvg-id="" tvg-name="Discovery+ Extra 1 FHD" tvg-logo="http://fomo.re:80/images/UK_discovery_extra_1.png" group-title="Sweden",Discovery+ Extra 1 FHD | 🌟 FREE IPTV WORLD 🌟
+http://fomo.re:80/play/INqRI1BSwwQ4bRlJzMZLSTv1RQf9JInmgSVGiZEGgFA/ts
+#EXTINF:-1 xui-id="11472" tvg-id="" tvg-name="Discovery+ Extra 2 FHD" tvg-logo="http://fomo.re:80/images/UK_discovery_extra_2.png" group-title="Sweden",Discovery+ Extra 2 FHD | 🌟 FREE IPTV WORLD 🌟
+http://fomo.re:80/play/INqRI1BSwwQ4bRlJzMZLSbirDbF5Ec2hm7Te9uNm9zU/ts
+#EXTINF:-1 xui-id="11474" tvg-id="" tvg-name="Discovery+ Extra 3 FHD" tvg-logo="http://fomo.re:80/images/UK_discovery_extra_4.png" group-title="Sweden",Discovery+ Extra 3 FHD | 🌟 FREE IPTV WORLD 🌟
+http://fomo.re:80/play/INqRI1BSwwQ4bRlJzMZLSdymfpstFxhR-b_xvvpx_40/ts
+#EXTINF:-1 xui-id="11475" tvg-id="" tvg-name="Discovery+ Extra 4 FHD" tvg-logo="http://fomo.re:80/images/UK_discovery_extra_4.png" group-title="Sweden",Discovery+ Extra 4 FHD | 🌟 FREE IPTV WORLD 🌟
+http://fomo.re:80/play/INqRI1BSwwQ4bRlJzMZLSV-hpl4kciQ82atSk7ytLx0/ts
+#EXTINF:-1 xui-id="11485" tvg-id="" tvg-name="Discovery+ Extra 5 FHD" tvg-logo="http://fomo.re:80/images/UK_discovery_extra_5.png" group-title="Sweden",Discovery+ Extra 5 FHD | 🌟 FREE IPTV WORLD 🌟
+http://fomo.re:80/play/INqRI1BSwwQ4bRlJzMZLSfboat9NSXRKZE5mOhKMfTg/ts
+#EXTINF:-1 xui-id="32868" tvg-id="" tvg-name="Discovery+ Extra 10 FHD" tvg-logo="http://fomo.re:80/images/UK_discovery_extra_10.png" group-title="Sweden",Discovery+ Extra 10 FHD | 🌟 FREE IPTV WORLD 🌟
+http://fomo.re:80/play/INqRI1BSwwQ4bRlJzMZLSchKR4fa9uYlEAoC3ZYf3NM/ts
+#EXTINF:-1 xui-id="32869" tvg-id="" tvg-name="Discovery+ Extra 9 FHD" tvg-logo="http://fomo.re:80/images/UK_discovery_extra_9.png" group-title="Sweden",Discovery+ Extra 9 FHD | 🌟 FREE IPTV WORLD 🌟
+http://fomo.re:80/play/INqRI1BSwwQ4bRlJzMZLSdbEFj6Rr8Ka01Uvs_FF28g/ts
+#EXTINF:-1 xui-id="32870" tvg-id="" tvg-name="Discovery+ Extra 8 FHD" tvg-logo="http://fomo.re:80/images/UK_discovery_extra_8.png" group-title="Sweden",Discovery+ Extra 8 FHD | 🌟 FREE IPTV WORLD 🌟
+http://fomo.re:80/play/INqRI1BSwwQ4bRlJzMZLSVGBV95iJJa5BD_XYtJ4sdw/ts
+#EXTINF:-1 xui-id="32871" tvg-id="" tvg-name="Discovery+ Extra 7 FHD" tvg-logo="http://fomo.re:80/images/UK_discovery_extra_7.png" group-title="Sweden",Discovery+ Extra 7 FHD | 🌟 FREE IPTV WORLD 🌟
+http://fomo.re:80/play/INqRI1BSwwQ4bRlJzMZLSW4CkyEv82iUs87s_j-OH9Y/ts
+#EXTINF:-1 xui-id="32872" tvg-id="" tvg-name="Discovery+ Extra 6 FHD" tvg-logo="http://fomo.re:80/images/UK_discovery_extra_6.png" group-title="Sweden",Discovery+ Extra 6 FHD | 🌟 FREE IPTV WORLD 🌟
+http://fomo.re:80/play/INqRI1BSwwQ4bRlJzMZLSY4C0ZqmC92sTrMnCyK3Vss/ts
+#EXTINF:-1 xui-id="120" tvg-id="156524" tvg-name="TV4 Fotball HD" tvg-logo="http://fomo.re:80/images/fotbal.png" group-title="Sweden",TV4 Fotball HD | 🌟 FREE IPTV WORLD 🌟
+http://fomo.re:80/play/INqRI1BSwwQ4bRlJzMZLSWAjFFbVQi6vOC34qsLwI3Y/ts
+#EXTINF:-1 xui-id="169" tvg-id="156534" tvg-name="TV4 Motor HD" tvg-logo="http://fomo.re:80/images/motor.png" group-title="Sweden",TV4 Motor HD | 🌟 FREE IPTV WORLD 🌟
+http://fomo.re:80/play/INqRI1BSwwQ4bRlJzMZLSRKgvyztXFTdV9PKTj0JxZo/ts
+#EXTINF:-1 xui-id="26296" tvg-id="156539" tvg-name="TV4 Sport Live 3 HD | raw" tvg-logo="http://fomo.re:80/images/live3.png" group-title="Sweden",TV4 Sport Live 3 HD | raw | 🌟 FREE IPTV WORLD 🌟
+http://fomo.re:80/play/INqRI1BSwwQ4bRlJzMZLSXx2RHKRd1wFNdEwlN6s7PQ/ts
+#EXTINF:-1 xui-id="10000" tvg-id="156512" tvg-name="V sport 1 HD | raw" tvg-logo="http://fomo.re:80/images/ALL_vsport_1_hd.png" group-title="Sweden",V sport 1 HD | raw | 🌟 FREE IPTV WORLD 🌟
+http://fomo.re:80/play/INqRI1BSwwQ4bRlJzMZLSVjoJakt_4S5wpFTGvh_KeU/ts
+#EXTINF:-1 xui-id="9999" tvg-id="156523" tvg-name="TV4 Hockey HD | raw" tvg-logo="http://fomo.re:80/images/hockey.png" group-title="Sweden",TV4 Hockey HD | raw | 🌟 FREE IPTV WORLD 🌟
+http://fomo.re:80/play/INqRI1BSwwQ4bRlJzMZLSYENeW4DBYbAdiKijhWJfBk/ts
+#EXTINF:-1 xui-id="188" tvg-id="156505" tvg-name="Eurosport 2 HD" tvg-logo="http://fomo.re:80/images/UK_eurosport_2_hd.png" group-title="Sweden",Eurosport 2 HD | 🌟 FREE IPTV WORLD 🌟
+http://fomo.re:80/play/INqRI1BSwwQ4bRlJzMZLSeGOgUv1SodmSXezgulkpBA/ts
+#EXTINF:-1 xui-id="187" tvg-id="156505" tvg-name="Eurosport 2" tvg-logo="http://fomo.re:80/images/UK_eurosport_2.png" group-title="Sweden",Eurosport 2 | 🌟 FREE IPTV WORLD 🌟
+http://fomo.re:80/play/INqRI1BSwwQ4bRlJzMZLScB_GPgDSnkqGHw8k7DvXns/ts
+#EXTINF:-1 xui-id="186" tvg-id="156502" tvg-name="Eurosport 1 HD" tvg-logo="http://fomo.re:80/images/UK_eurosport_1_hd.png" group-title="Sweden",Eurosport 1 HD | 🌟 FREE IPTV WORLD 🌟
+http://fomo.re:80/play/INqRI1BSwwQ4bRlJzMZLSXkS-1kopmxky8bQrY8iLjU/ts
+#EXTINF:-1 xui-id="185" tvg-id="156502" tvg-name="Eurosport 1" tvg-logo="http://fomo.re:80/images/UK_eurosport_1.png" group-title="Sweden",Eurosport 1 | 🌟 FREE IPTV WORLD 🌟
+http://fomo.re:80/play/INqRI1BSwwQ4bRlJzMZLSV9tB94Vr8WhX2doljSrBTo/ts
+#EXTINF:-1 xui-id="184" tvg-id="156535" tvg-name="TV4 Sportkanalen HD" tvg-logo="http://fomo.re:80/images/sportkanalen.png" group-title="Sweden",TV4 Sportkanalen HD | 🌟 FREE IPTV WORLD 🌟
+http://fomo.re:80/play/INqRI1BSwwQ4bRlJzMZLSUskd_3UYLCc76ah9ULT07U/ts
+#EXTINF:-1 xui-id="182" tvg-id="156555" tvg-name="V sport motor HD" tvg-logo="http://fomo.re:80/images/ALL_vsport_motor_hd.png" group-title="Sweden",V sport motor HD | 🌟 FREE IPTV WORLD 🌟
+http://fomo.re:80/play/INqRI1BSwwQ4bRlJzMZLSUnp6cNKTF1K1sQOGHmLgBo/ts
+#EXTINF:-1 xui-id="177" tvg-id="" tvg-name="V sport extra HD" tvg-logo="http://fomo.re:80/images/ALL_vsport_extra_hd.png" group-title="Sweden",V sport extra HD | 🌟 FREE IPTV WORLD 🌟
+http://fomo.re:80/play/INqRI1BSwwQ4bRlJzMZLSZdVCDxz1d64pvuGKWjVUOw/ts
+#EXTINF:-1 xui-id="174" tvg-id="" tvg-name="V sport premium" tvg-logo="http://fomo.re:80/images/ALL_vsport_premium.png" group-title="Sweden",V sport premium | 🌟 FREE IPTV WORLD 🌟
+http://fomo.re:80/play/INqRI1BSwwQ4bRlJzMZLSXNkc-AqRhBSYuqn5wtjrsg/ts
+#EXTINF:-1 xui-id="173" tvg-id="156512" tvg-name="V sport 1 HD" tvg-logo="http://fomo.re:80/images/ALL_vsport_1_hd.png" group-title="Sweden",V sport 1 HD | 🌟 FREE IPTV WORLD 🌟
+http://fomo.re:80/play/INqRI1BSwwQ4bRlJzMZLSVR8NHmFoVslzFRBsq8qvAI/ts
+#EXTINF:-1 xui-id="172" tvg-id="156512" tvg-name="V sport 1" tvg-logo="http://fomo.re:80/images/ALL_vsport_1.png" group-title="Sweden",V sport 1 | 🌟 FREE IPTV WORLD 🌟
+http://fomo.re:80/play/INqRI1BSwwQ4bRlJzMZLSYkvcgbxnsVym17x_fQrPSg/ts
+#EXTINF:-1 xui-id="168" tvg-id="156213" tvg-name="TV4 Tennis HD" tvg-logo="http://fomo.re:80/images/tennis.png" group-title="Sweden",TV4 Tennis HD | 🌟 FREE IPTV WORLD 🌟
+http://fomo.re:80/play/INqRI1BSwwQ4bRlJzMZLSbJcJKrYhhXyuzJDiXAmWoY/ts
+#EXTINF:-1 xui-id="167" tvg-id="156540" tvg-name="TV4 Sport Live 4 HD" tvg-logo="http://fomo.re:80/images/live4.png" group-title="Sweden",TV4 Sport Live 4 HD | 🌟 FREE IPTV WORLD 🌟
+http://fomo.re:80/play/INqRI1BSwwQ4bRlJzMZLSUOwi75mrFQeij7O25xlq3g/ts
+#EXTINF:-1 xui-id="164" tvg-id="156536" tvg-name="TV4 Sport Live 1 HD | raw" tvg-logo="http://fomo.re:80/images/live1.png" group-title="Sweden",TV4 Sport Live 1 HD | raw | 🌟 FREE IPTV WORLD 🌟
+http://fomo.re:80/play/INqRI1BSwwQ4bRlJzMZLSXgVXkObeGZqqbu6EOsBcTI/ts
+#EXTINF:-1 xui-id="163" tvg-id="156523" tvg-name="TV4 Hockey HD" tvg-logo="http://fomo.re:80/images/hockey.png" group-title="Sweden",TV4 Hockey HD | 🌟 FREE IPTV WORLD 🌟
+http://fomo.re:80/play/INqRI1BSwwQ4bRlJzMZLSSQye8fNvH2Uc3yFUCg5Y5c/ts
+#EXTINF:-1 xui-id="119" tvg-id="156213" tvg-name="TV4 Tennis HD | raw" tvg-logo="http://fomo.re:80/images/tennis.png" group-title="Sweden",TV4 Tennis HD | raw | 🌟 FREE IPTV WORLD 🌟
+http://fomo.re:80/play/INqRI1BSwwQ4bRlJzMZLSaHJISbfzRvzXZ0lsaOHOLI/ts
+#EXTINF:-1 xui-id="118" tvg-id="156540" tvg-name="TV4 Sport Live 4 HD | raw" tvg-logo="http://fomo.re:80/images/live4.png" group-title="Sweden",TV4 Sport Live 4 HD | raw | 🌟 FREE IPTV WORLD 🌟
+http://fomo.re:80/play/INqRI1BSwwQ4bRlJzMZLSZdyVC2fokRni6B-ECHmqsM/ts
+#EXTINF:-1 xui-id="117" tvg-id="156539" tvg-name="TV4 Sport Live 3 HD" tvg-logo="http://fomo.re:80/images/live3.png" group-title="Sweden",TV4 Sport Live 3 HD | 🌟 FREE IPTV WORLD 🌟
+http://fomo.re:80/play/INqRI1BSwwQ4bRlJzMZLSV9yC3v6q20-xrPp_f8Zb6M/ts
+#EXTINF:-1 xui-id="116" tvg-id="156538" tvg-name="TV4 Sport Live 2 HD | raw" tvg-logo="http://fomo.re:80/images/live2.png" group-title="Sweden",TV4 Sport Live 2 HD | raw | 🌟 FREE IPTV WORLD 🌟
+http://fomo.re:80/play/INqRI1BSwwQ4bRlJzMZLSfeN88ZQbYbnL5CV6Tcy-SQ/ts
+#EXTINF:-1 xui-id="115" tvg-id="156538" tvg-name="TV4 Sport Live 2 HD" tvg-logo="http://fomo.re:80/images/live2.png" group-title="Sweden",TV4 Sport Live 2 HD | 🌟 FREE IPTV WORLD 🌟
+http://fomo.re:80/play/INqRI1BSwwQ4bRlJzMZLSZ9jm4LtF40aGGWwfMWBxnI/ts
+#EXTINF:-1 xui-id="114" tvg-id="156536" tvg-name="TV4 Sport Live 1 HD" tvg-logo="http://fomo.re:80/images/live1.png" group-title="Sweden",TV4 Sport Live 1 HD | 🌟 FREE IPTV WORLD 🌟
+http://fomo.re:80/play/INqRI1BSwwQ4bRlJzMZLSawKKFRJnyPQ3dB1hcUopm8/ts
+#EXTINF:-1 xui-id="112" tvg-id="156535" tvg-name="TV4 Sportkanalen" tvg-logo="http://fomo.re:80/images/sportkanalen.png" group-title="Sweden",TV4 Sportkanalen | 🌟 FREE IPTV WORLD 🌟
+http://fomo.re:80/play/INqRI1BSwwQ4bRlJzMZLSXE2Aj_iWRLd1VmMbcClvW8/ts
+#EXTINF:-1 xui-id="111" tvg-id="" tvg-name="V sport vinter" tvg-logo="http://fomo.re:80/images/ALL_vsport_vinter_hd.png" group-title="Sweden",V sport vinter | 🌟 FREE IPTV WORLD 🌟
+http://fomo.re:80/play/INqRI1BSwwQ4bRlJzMZLSRIrnrVFmgKw8tk7YzPF3EA/ts
+#EXTINF:-1 xui-id="110" tvg-id="" tvg-name="V sport vinter HD" tvg-logo="http://fomo.re:80/images/ALL_vsport_vinter_hd.png" group-title="Sweden",V sport vinter HD | 🌟 FREE IPTV WORLD 🌟
+http://fomo.re:80/play/INqRI1BSwwQ4bRlJzMZLSRzbKETx4SJUskbJTTCUEq4/ts
+#EXTINF:-1 xui-id="108" tvg-id="" tvg-name="V sport extra" tvg-logo="http://fomo.re:80/images/ALL_vsport_extra.png" group-title="Sweden",V sport extra | 🌟 FREE IPTV WORLD 🌟
+http://fomo.re:80/play/INqRI1BSwwQ4bRlJzMZLSTYFIDkh3pIv_h6L6Du4w0o/ts
+#EXTINF:-1 xui-id="107" tvg-id="" tvg-name="V sport football HD" tvg-logo="http://fomo.re:80/images/ALL_vsport_football.png" group-title="Sweden",V sport football HD | 🌟 FREE IPTV WORLD 🌟
+http://fomo.re:80/play/INqRI1BSwwQ4bRlJzMZLSbVrKLwcFSqYk6e056exnok/ts
+#EXTINF:-1 xui-id="106" tvg-id="" tvg-name="V sport football" tvg-logo="http://fomo.re:80/images/ALL_vsport_football.png" group-title="Sweden",V sport football | 🌟 FREE IPTV WORLD 🌟
+http://fomo.re:80/play/INqRI1BSwwQ4bRlJzMZLScmYMA4paj4qurCII70HYYE/ts
+#EXTINF:-1 xui-id="105" tvg-id="" tvg-name="V sport premium HD" tvg-logo="http://fomo.re:80/images/ALL_vsport_premium.png" group-title="Sweden",V sport premium HD | 🌟 FREE IPTV WORLD 🌟
+http://fomo.re:80/play/INqRI1BSwwQ4bRlJzMZLSb610PLIQNZEF8I4YmeX1uM/ts
+#EXTINF:-1 xui-id="104" tvg-id="156555" tvg-name="V sport motor" tvg-logo="http://fomo.re:80/images/ALL_vsport_motor.png" group-title="Sweden",V sport motor | 🌟 FREE IPTV WORLD 🌟
+http://fomo.re:80/play/INqRI1BSwwQ4bRlJzMZLSfEd3hWE7w8czrWUNT8Ml78/ts
+#EXTINF:-1 xui-id="84" tvg-id="156600" tvg-name="V sport golf HD" tvg-logo="http://fomo.re:80/images/ALL_vsport_golf_hd.png" group-title="Sweden",V sport golf HD | 🌟 FREE IPTV WORLD 🌟
+http://fomo.re:80/play/INqRI1BSwwQ4bRlJzMZLSfcKNJjpuApfw0LsCf8KS58/ts
+#EXTINF:-1 xui-id="83" tvg-id="156600" tvg-name="V sport golf" tvg-logo="http://fomo.re:80/images/ALL_vsport_golf.png" group-title="Sweden",V sport golf | 🌟 FREE IPTV WORLD 🌟
+http://fomo.re:80/play/INqRI1BSwwQ4bRlJzMZLSe0MKfJ00YntXVwI9hFgr-0/ts
+#EXTINF:-1 xui-id="190" tvg-id="" tvg-name="TV4 Play Direkte 1 HD" tvg-logo="http://fomo.re:80/images/play.png" group-title="Sweden",TV4 Play Direkte 1 HD | 🌟 FREE IPTV WORLD 🌟
+http://fomo.re:80/play/INqRI1BSwwQ4bRlJzMZLSXabNBGdE61Eq_aTY5IDxuI/ts
+#EXTINF:-1 xui-id="191" tvg-id="" tvg-name="TV4 Play Direkte 2 HD" tvg-logo="http://fomo.re:80/images/play.png" group-title="Sweden",TV4 Play Direkte 2 HD | 🌟 FREE IPTV WORLD 🌟
+http://fomo.re:80/play/INqRI1BSwwQ4bRlJzMZLSeNV8KWBi-07P1VAloNAX1s/ts
+#EXTINF:-1 xui-id="192" tvg-id="" tvg-name="TV4 Play Direkte 3 HD" tvg-logo="http://fomo.re:80/images/play.png" group-title="Sweden",TV4 Play Direkte 3 HD | 🌟 FREE IPTV WORLD 🌟
+http://fomo.re:80/play/INqRI1BSwwQ4bRlJzMZLSWMJ5P-jCNeO5TIkK9_h-Ss/ts
+#EXTINF:-1 xui-id="193" tvg-id="" tvg-name="TV4 Play Direkte 4 HD" tvg-logo="http://fomo.re:80/images/play.png" group-title="Sweden",TV4 Play Direkte 4 HD | 🌟 FREE IPTV WORLD 🌟
+http://fomo.re:80/play/INqRI1BSwwQ4bRlJzMZLSWpTL2WYSFSCCw5FGGKtLj4/ts
+#EXTINF:-1 xui-id="194" tvg-id="" tvg-name="TV4 Play Direkte 5 HD" tvg-logo="http://fomo.re:80/images/play.png" group-title="Sweden",TV4 Play Direkte 5 HD | 🌟 FREE IPTV WORLD 🌟
+http://fomo.re:80/play/INqRI1BSwwQ4bRlJzMZLSf-mE6alRQGB_o2HESUngOw/ts
+#EXTINF:-1 xui-id="195" tvg-id="" tvg-name="TV4 Play Direkte 6 HD" tvg-logo="http://fomo.re:80/images/play.png" group-title="Sweden",TV4 Play Direkte 6 HD | 🌟 FREE IPTV WORLD 🌟
+http://fomo.re:80/play/INqRI1BSwwQ4bRlJzMZLSZHWB48MhOLT1Iu9GomDbic/ts
+#EXTINF:-1 xui-id="196" tvg-id="" tvg-name="TV4 Play Direkte 7 HD" tvg-logo="http://fomo.re:80/images/play.png" group-title="Sweden",TV4 Play Direkte 7 HD | 🌟 FREE IPTV WORLD 🌟
+http://fomo.re:80/play/INqRI1BSwwQ4bRlJzMZLSf-Xjh69ODgOx0T4bMhMI1Q/ts
+#EXTINF:-1 xui-id="197" tvg-id="" tvg-name="TV4 Play Direkte 8 HD" tvg-logo="http://fomo.re:80/images/play.png" group-title="Sweden",TV4 Play Direkte 8 HD | 🌟 FREE IPTV WORLD 🌟
+http://fomo.re:80/play/INqRI1BSwwQ4bRlJzMZLSTg5_f3Ml9-WWzNz7clZyKQ/ts
+#EXTINF:-1 xui-id="200" tvg-id="" tvg-name="TV4 Play Direkte 9 HD" tvg-logo="http://fomo.re:80/images/play.png" group-title="Sweden",TV4 Play Direkte 9 HD | 🌟 FREE IPTV WORLD 🌟
+http://fomo.re:80/play/INqRI1BSwwQ4bRlJzMZLSbuVI6qWWK-dbZTFXm4lXt0/ts
+#EXTINF:-1 xui-id="199" tvg-id="" tvg-name="TV4 Play Direkte 10 HD" tvg-logo="http://fomo.re:80/images/play.png" group-title="Sweden",TV4 Play Direkte 10 HD | 🌟 FREE IPTV WORLD 🌟
+http://fomo.re:80/play/INqRI1BSwwQ4bRlJzMZLSQ_M_acUel5rRXx5RT3dDmE/ts
+#EXTINF:-1 xui-id="112344" tvg-id="" tvg-name="TV8" tvg-logo="http://fomo.re:80/images/SWE_tv8.png" group-title="Sweden",TV8 | 🌟 FREE IPTV WORLD 🌟
+http://fomo.re:80/play/INqRI1BSwwQ4bRlJzMZLSYQpRCUU23fY6BFWKGeIuoo/ts
+#EXTINF:-1 xui-id="112345" tvg-id="" tvg-name="TV12" tvg-logo="http://fomo.re:80/images/SWE_tv12.png" group-title="Sweden",TV12 | 🌟 FREE IPTV WORLD 🌟
+http://fomo.re:80/play/INqRI1BSwwQ4bRlJzMZLSWjOJV7wLBVEMwWVvYGy-xU/ts
+#EXTINF:-1 xui-id="112360" tvg-id="" tvg-name="SVTB/SVT24 HD" tvg-logo="http://fomo.re:80/images/SWE_svt24.png" group-title="Sweden",SVTB/SVT24 HD | 🌟 FREE IPTV WORLD 🌟
+http://fomo.re:80/play/INqRI1BSwwQ4bRlJzMZLSaPA_T3JJAv1re57o5shL3g/ts
+#EXTINF:-1 xui-id="112361" tvg-id="" tvg-name="TV6" tvg-logo="http://fomo.re:80/images/SWE_tv6.png" group-title="Sweden",TV6 | 🌟 FREE IPTV WORLD 🌟
+http://fomo.re:80/play/INqRI1BSwwQ4bRlJzMZLSYE61FptRSBrDU92w2z8nbU/ts
+#EXTINF:-1 xui-id="112362" tvg-id="" tvg-name="Kunskapskanalen HD" tvg-logo="http://fomo.re:80/images/SWE_kunskapskanalen_hd.png" group-title="Sweden",Kunskapskanalen HD | 🌟 FREE IPTV WORLD 🌟
+http://fomo.re:80/play/INqRI1BSwwQ4bRlJzMZLSa-lKj9gY-qLCYp8-geZyjE/ts
+#EXTINF:-1 xui-id="112428" tvg-id="" tvg-name="Sky Showtime 1" tvg-logo="http://fomo.re:80/images/all_sky_showtime.png" group-title="Sweden",Sky Showtime 1 | 🌟 FREE IPTV WORLD 🌟
+http://fomo.re:80/play/INqRI1BSwwQ4bRlJzMZLSQ0eecCmcr68PJDxtil9Dnk/ts
+#EXTINF:-1 xui-id="112429" tvg-id="" tvg-name="Sky Showtime 1 HD" tvg-logo="http://fomo.re:80/images/all_sky_showtime.png" group-title="Sweden",Sky Showtime 1 HD | 🌟 FREE IPTV WORLD 🌟
+http://fomo.re:80/play/INqRI1BSwwQ4bRlJzMZLSZD0YNzCsHDAk4rijDnjmZs/ts
+#EXTINF:-1 xui-id="112430" tvg-id="" tvg-name="Sky Showtime 2" tvg-logo="http://fomo.re:80/images/all_sky_showtime.png" group-title="Sweden",Sky Showtime 2 | 🌟 FREE IPTV WORLD 🌟
+http://fomo.re:80/play/INqRI1BSwwQ4bRlJzMZLSWqEWGLPsWNSXJguYPfgiDw/ts
+#EXTINF:-1 xui-id="112431" tvg-id="" tvg-name="Sky Showtime 2 HD" tvg-logo="http://fomo.re:80/images/all_sky_showtime.png" group-title="Sweden",Sky Showtime 2 HD | 🌟 FREE IPTV WORLD 🌟
+http://fomo.re:80/play/INqRI1BSwwQ4bRlJzMZLSer9xB0NcgJB6ShmHiA3_kI/ts
+#EXTINF:-1 xui-id="112432" tvg-id="" tvg-name="Nat Geo" tvg-logo="http://fomo.re:80/images/SWE_national_geographic.png" group-title="Sweden",Nat Geo | 🌟 FREE IPTV WORLD 🌟
+http://fomo.re:80/play/INqRI1BSwwQ4bRlJzMZLSfe5D8nQpmO5ArXz1u8J8Sk/ts
+#EXTINF:-1 xui-id="112434" tvg-id="" tvg-name="V series" tvg-logo="http://fomo.re:80/images/ALL_vsport_series_hd.png" group-title="Sweden",V series | 🌟 FREE IPTV WORLD 🌟
+http://fomo.re:80/play/INqRI1BSwwQ4bRlJzMZLSdCu7IAv04rMy6dmCN-i0-Y/ts
+#EXTINF:-1 xui-id="112435" tvg-id="" tvg-name="V film action" tvg-logo="http://fomo.re:80/images/ALL_vsport_film_action.png" group-title="Sweden",V film action | 🌟 FREE IPTV WORLD 🌟
+http://fomo.re:80/play/INqRI1BSwwQ4bRlJzMZLSakZZpKPPAPOMkUI8hDMdlY/ts
+#EXTINF:-1 xui-id="112436" tvg-id="" tvg-name="Viasat History" tvg-logo="http://fomo.re:80/images/SWE_viasat_history.png" group-title="Sweden",Viasat History | 🌟 FREE IPTV WORLD 🌟
+http://fomo.re:80/play/INqRI1BSwwQ4bRlJzMZLSe9dsXne1qQVjHfRd2OrRE0/ts
+#EXTINF:-1 xui-id="112437" tvg-id="" tvg-name="Viasat Explorer" tvg-logo="http://fomo.re:80/images/SWE_viasat_explore_hd.png" group-title="Sweden",Viasat Explorer | 🌟 FREE IPTV WORLD 🌟
+http://fomo.re:80/play/INqRI1BSwwQ4bRlJzMZLSSai-rS9hWjYJtFah5jGdng/ts
+#EXTINF:-1 xui-id="112438" tvg-id="" tvg-name="Viasat Nature" tvg-logo="http://fomo.re:80/images/SWE_viasat_nature_hd.png" group-title="Sweden",Viasat Nature | 🌟 FREE IPTV WORLD 🌟
+http://fomo.re:80/play/INqRI1BSwwQ4bRlJzMZLSTfCtu9SW_RufsyApWAPi0E/ts
+#EXTINF:-1 xui-id="112439" tvg-id="" tvg-name="V sport football HD | raw" tvg-logo="http://fomo.re:80/images/ALL_vsport_football.png" group-title="Sweden",V sport football HD | raw | 🌟 FREE IPTV WORLD 🌟
+http://fomo.re:80/play/INqRI1BSwwQ4bRlJzMZLSchuckTryggzU9O0aagoSi8/ts
+#EXTINF:-1 xui-id="112440" tvg-id="" tvg-name="V sport vinter HD | raw" tvg-logo="http://fomo.re:80/images/ALL_vsport_vinter_hd.png" group-title="Sweden",V sport vinter HD | raw | 🌟 FREE IPTV WORLD 🌟
+http://fomo.re:80/play/INqRI1BSwwQ4bRlJzMZLSfOWryF2gREQuJcDPkPO0PE/ts
+#EXTINF:-1 xui-id="112442" tvg-id="" tvg-name="V sport motor HD | raw" tvg-logo="http://fomo.re:80/images/ALL_vsport_motor_hd.png" group-title="Sweden",V sport motor HD | raw | 🌟 FREE IPTV WORLD 🌟
+http://fomo.re:80/play/INqRI1BSwwQ4bRlJzMZLSW89_4t1S7LsWzEG2pdeM0Q/ts
+#EXTINF:-1 xui-id="112443" tvg-id="" tvg-name="V sport premium HD | raw" tvg-logo="http://fomo.re:80/images/ALL_vsport_30.png" group-title="Sweden",V sport premium HD | raw | 🌟 FREE IPTV WORLD 🌟
+http://fomo.re:80/play/INqRI1BSwwQ4bRlJzMZLSUb_QScjA5Q3Jfs7Lt9tFcw/ts
+#EXTINF:-1 xui-id="112444" tvg-id="" tvg-name="V sport extra HD | raw" tvg-logo="http://fomo.re:80/images/ALL_vsport_extra_hd.png" group-title="Sweden",V sport extra HD | raw | 🌟 FREE IPTV WORLD 🌟
+http://fomo.re:80/play/INqRI1BSwwQ4bRlJzMZLSRaa8z4-SA1uHCvTrHl8k0E/ts
+#EXTINF:-1 xui-id="112448" tvg-id="" tvg-name="Food Network HD" tvg-logo="http://fomo.re:80/images/UK_food_network.png" group-title="Sweden",Food Network HD | 🌟 FREE IPTV WORLD 🌟
+http://fomo.re:80/play/INqRI1BSwwQ4bRlJzMZLSUg5K2M4oxFMhGeHqI8mtq0/ts
+#EXTINF:-1 xui-id="112449" tvg-id="" tvg-name="Love Nature HD" tvg-logo="http://fomo.re:80/images/all_love_nature.png" group-title="Sweden",Love Nature HD | 🌟 FREE IPTV WORLD 🌟
+http://fomo.re:80/play/INqRI1BSwwQ4bRlJzMZLSVOVSXc_T_1HcVE5cmbzfr4/ts
+#EXTINF:-1 xui-id="112450" tvg-id="" tvg-name="MTV" tvg-logo="http://fomo.re:80/images/ALL_mtv_classic.png" group-title="Sweden",MTV | 🌟 FREE IPTV WORLD 🌟
+http://fomo.re:80/play/INqRI1BSwwQ4bRlJzMZLSTcArInzxphpqt5GWAljkmw/ts
+#EXTINF:-1 xui-id="112515" tvg-id="" tvg-name="Handbollsligan" tvg-logo="http://fomo.re:80/images/swe_handbollsligan.png" group-title="Sweden",Handbollsligan | 🌟 FREE IPTV WORLD 🌟
+http://fomo.re:80/play/INqRI1BSwwQ4bRlJzMZLSRFRBXBm8Aq5_xTPy2bgya4/ts
+#EXTINF:-1 xui-id="112516" tvg-id="" tvg-name="Handbollsligan 2" tvg-logo="http://fomo.re:80/images/swe_handbollsligan_2.png" group-title="Sweden",Handbollsligan 2 | 🌟 FREE IPTV WORLD 🌟
+http://fomo.re:80/play/INqRI1BSwwQ4bRlJzMZLSf8iQtmjKHEk_kQT2v3EHTc/ts
+#EXTINF:-1 xui-id="112517" tvg-id="" tvg-name="Handbollsligan 3" tvg-logo="http://fomo.re:80/images/swe_handbollsligan_3.png" group-title="Sweden",Handbollsligan 3 | 🌟 FREE IPTV WORLD 🌟
+http://fomo.re:80/play/INqRI1BSwwQ4bRlJzMZLSUnOEQMbbzlnPl6sZLciWPA/ts
+#EXTINF:-1 xui-id="112518" tvg-id="" tvg-name="Handbollsligan 4" tvg-logo="http://fomo.re:80/images/swe_handbollsligan_4.png" group-title="Sweden",Handbollsligan 4 | 🌟 FREE IPTV WORLD 🌟
+http://fomo.re:80/play/INqRI1BSwwQ4bRlJzMZLSSTcBfZqAysOHjftviqrnu4/ts
+#EXTINF:-1 xui-id="112519" tvg-id="" tvg-name="Handbollsligan 5" tvg-logo="http://fomo.re:80/images/swe_handbollsligan_5.png" group-title="Sweden",Handbollsligan 5 | 🌟 FREE IPTV WORLD 🌟
+http://fomo.re:80/play/INqRI1BSwwQ4bRlJzMZLSVE06nc1FKj9gmvAiEJ8ovw/ts
+#EXTINF:-1 xui-id="113227" tvg-id="" tvg-name="V sport golf HD | raw" tvg-logo="http://fomo.re:80/images/ALL_vsport_golf_hd.png" group-title="Sweden",V sport golf HD | raw | 🌟 FREE IPTV WORLD 🌟
+http://fomo.re:80/play/INqRI1BSwwQ4bRlJzMZLSVHmnqVHLZzw3E3Pw94M1eI/ts
+#EXTINF:-1 xui-id="113255" tvg-id="" tvg-name="ViaPlay Extra 1 HD SE" tvg-logo="http://fomo.re:80/images/NO_viaplay_1.png" group-title="Sweden",ViaPlay Extra 1 HD SE | 🌟 FREE IPTV WORLD 🌟
+http://fomo.re:80/play/INqRI1BSwwQ4bRlJzMZLSQD1xYBAO1WcYQARzAtAgT4/ts
+#EXTINF:-1 xui-id="113256" tvg-id="" tvg-name="ViaPlay Extra 2 HD SE" tvg-logo="http://fomo.re:80/images/NO_viaplay_2.png" group-title="Sweden",ViaPlay Extra 2 HD SE | 🌟 FREE IPTV WORLD 🌟
+http://fomo.re:80/play/INqRI1BSwwQ4bRlJzMZLSb-taHFGmxiyB7GmE6BGrow/ts
+#EXTINF:-1 xui-id="113257" tvg-id="" tvg-name="ViaPlay Extra 3 HD SE" tvg-logo="http://fomo.re:80/images/NO_viaplay_3.png" group-title="Sweden",ViaPlay Extra 3 HD SE | 🌟 FREE IPTV WORLD 🌟
+http://fomo.re:80/play/INqRI1BSwwQ4bRlJzMZLSW47OmfTN_0r-Lz2wJ8AApk/ts
+#EXTINF:-1 xui-id="113258" tvg-id="" tvg-name="ViaPlay Extra 4 HD SE" tvg-logo="http://fomo.re:80/images/NO_viaplay_4.png" group-title="Sweden",ViaPlay Extra 4 HD SE | 🌟 FREE IPTV WORLD 🌟
+http://fomo.re:80/play/INqRI1BSwwQ4bRlJzMZLSVZL7NqETKoI-W-0cYEphz4/ts
+#EXTINF:-1 xui-id="113259" tvg-id="" tvg-name="ViaPlay Extra 5 HD SE" tvg-logo="http://fomo.re:80/images/NO_viaplay_5.png" group-title="Sweden",ViaPlay Extra 5 HD SE | 🌟 FREE IPTV WORLD 🌟
+http://fomo.re:80/play/INqRI1BSwwQ4bRlJzMZLSYwsYBKMaApKDcdT6WNfjCY/ts
+#EXTINF:-1 xui-id="113260" tvg-id="" tvg-name="ViaPlay Extra 6 HD SE" tvg-logo="http://fomo.re:80/images/NO_viaplay_6.png" group-title="Sweden",ViaPlay Extra 6 HD SE | 🌟 FREE IPTV WORLD 🌟
+http://fomo.re:80/play/INqRI1BSwwQ4bRlJzMZLSYef3h0lIPNPKsXQmwszlJc/ts
+#EXTINF:-1 xui-id="113261" tvg-id="" tvg-name="ViaPlay Extra 7 HD SE" tvg-logo="http://fomo.re:80/images/NO_viaplay_7.png" group-title="Sweden",ViaPlay Extra 7 HD SE | 🌟 FREE IPTV WORLD 🌟
+http://fomo.re:80/play/INqRI1BSwwQ4bRlJzMZLSbcaBjrm_7pUTdpPd1VH8O4/ts
+#EXTINF:-1 xui-id="113262" tvg-id="" tvg-name="ViaPlay Extra 8 HD SE" tvg-logo="http://fomo.re:80/images/NO_viaplay_8.png" group-title="Sweden",ViaPlay Extra 8 HD SE | 🌟 FREE IPTV WORLD 🌟
+http://fomo.re:80/play/INqRI1BSwwQ4bRlJzMZLSVk-0guytqGrlaeeGzsr-Vw/ts
+#EXTINF:-1 xui-id="113263" tvg-id="" tvg-name="ViaPlay Extra 9 HD SE" tvg-logo="http://fomo.re:80/images/NO_viaplay_9.png" group-title="Sweden",ViaPlay Extra 9 HD SE | 🌟 FREE IPTV WORLD 🌟
+http://fomo.re:80/play/INqRI1BSwwQ4bRlJzMZLSZR8GExbDpXwBnbI-6DHxeg/ts
+#EXTINF:-1 xui-id="113264" tvg-id="" tvg-name="ViaPlay Extra 10 HD SE" tvg-logo="http://fomo.re:80/images/NO_viaplay_10.png" group-title="Sweden",ViaPlay Extra 10 HD SE | 🌟 FREE IPTV WORLD 🌟
+http://fomo.re:80/play/INqRI1BSwwQ4bRlJzMZLSbsLAHsZoCSq_lm5iFL5A8g/ts
+#EXTINF:-1 xui-id="113265" tvg-id="" tvg-name="ViaPlay Extra Målextra HD SE" tvg-logo="http://fomo.re:80/images/NO_viaplay_11.png" group-title="Sweden",ViaPlay Extra Målextra HD SE | 🌟 FREE IPTV WORLD 🌟
+http://fomo.re:80/play/INqRI1BSwwQ4bRlJzMZLSU2a4kgGlGiwdIcjyOMehmA/ts
+#EXTINF:-1 xui-id="113266" tvg-id="" tvg-name="ViaPlay Extra 12 HD SE" tvg-logo="http://fomo.re:80/images/NO_viaplay_12.png" group-title="Sweden",ViaPlay Extra 12 HD SE | 🌟 FREE IPTV WORLD 🌟
+http://fomo.re:80/play/INqRI1BSwwQ4bRlJzMZLSco8GhP_vIvJnH6M9kRgdqU/ts
+#EXTINF:-1 xui-id="113267" tvg-id="" tvg-name="ViaPlay Extra 13 HD SE" tvg-logo="http://fomo.re:80/images/NO_viaplay_13.png" group-title="Sweden",ViaPlay Extra 13 HD SE | 🌟 FREE IPTV WORLD 🌟
+http://fomo.re:80/play/INqRI1BSwwQ4bRlJzMZLSdMr5dkzpg5XfOtL9I-NwRY/ts
+#EXTINF:-1 xui-id="113268" tvg-id="" tvg-name="ViaPlay Extra 14 HD SE" tvg-logo="http://fomo.re:80/images/NO_viaplay_14.png" group-title="Sweden",ViaPlay Extra 14 HD SE | 🌟 FREE IPTV WORLD 🌟
+http://fomo.re:80/play/INqRI1BSwwQ4bRlJzMZLSYmCurF3D1TZOA7ukrDzgf8/ts
+#EXTINF:-1 xui-id="113269" tvg-id="" tvg-name="ViaPlay Extra 15 HD SE" tvg-logo="http://fomo.re:80/images/NO_viaplay_15.png" group-title="Sweden",ViaPlay Extra 15 HD SE | 🌟 FREE IPTV WORLD 🌟
+http://fomo.re:80/play/INqRI1BSwwQ4bRlJzMZLSb3Vub0oQr6XviFE5GLJu5o/ts
+#EXTINF:-1 xui-id="113270" tvg-id="" tvg-name="ViaPlay Extra 16 HD SE" tvg-logo="http://fomo.re:80/images/NO_viaplay_16.png" group-title="Sweden",ViaPlay Extra 16 HD SE | 🌟 FREE IPTV WORLD 🌟
+http://fomo.re:80/play/INqRI1BSwwQ4bRlJzMZLSUk2xrOTm3UWvWriOU2ZaKI/ts
+#EXTINF:-1 xui-id="113271" tvg-id="" tvg-name="ViaPlay Extra 17 HD SE" tvg-logo="http://fomo.re:80/images/NO_viaplay_17.png" group-title="Sweden",ViaPlay Extra 17 HD SE | 🌟 FREE IPTV WORLD 🌟
+http://fomo.re:80/play/INqRI1BSwwQ4bRlJzMZLSUOZLzYP4CmZwgA-Nyv776M/ts
+#EXTINF:-1 xui-id="113272" tvg-id="" tvg-name="ViaPlay Extra 18 HD SE" tvg-logo="http://fomo.re:80/images/NO_viaplay_18.png" group-title="Sweden",ViaPlay Extra 18 HD SE | 🌟 FREE IPTV WORLD 🌟
+http://fomo.re:80/play/INqRI1BSwwQ4bRlJzMZLSYvEPufAHQxoKxHlOCmUKqI/ts
+#EXTINF:-1 xui-id="113273" tvg-id="" tvg-name="ViaPlay Extra 19 HD SE" tvg-logo="http://fomo.re:80/images/NO_viaplay_19.png" group-title="Sweden",ViaPlay Extra 19 HD SE | 🌟 FREE IPTV WORLD 🌟
+http://fomo.re:80/play/INqRI1BSwwQ4bRlJzMZLSVQ0c59pd6Cwcw9hk89-Ggs/ts
+#EXTINF:-1 xui-id="128410" tvg-id="" tvg-name="Discovery+ Extra 11 FHD" tvg-logo="" group-title="Sweden",Discovery+ Extra 11 FHD | 🌟 FREE IPTV WORLD 🌟
+http://fomo.re:80/play/INqRI1BSwwQ4bRlJzMZLSQVkySc37pk44aqvmoJmXiU/ts
+#EXTINF:-1 xui-id="128411" tvg-id="" tvg-name="Discovery+ Extra 12 FHD" tvg-logo="" group-title="Sweden",Discovery+ Extra 12 FHD | 🌟 FREE IPTV WORLD 🌟
+http://fomo.re:80/play/INqRI1BSwwQ4bRlJzMZLSboTzS-ZHk8nwdf7PE5xK5w/ts
+#EXTINF:-1 xui-id="128412" tvg-id="" tvg-name="Discovery+ Extra 13 FHD" tvg-logo="" group-title="Sweden",Discovery+ Extra 13 FHD | 🌟 FREE IPTV WORLD 🌟
+http://fomo.re:80/play/INqRI1BSwwQ4bRlJzMZLSaIvW5CI1f_hS9rqZtHw8V0/ts
+#EXTINF:-1 xui-id="128413" tvg-id="" tvg-name="Discovery+ Extra 14 FHD" tvg-logo="" group-title="Sweden",Discovery+ Extra 14 FHD | 🌟 FREE IPTV WORLD 🌟
+http://fomo.re:80/play/INqRI1BSwwQ4bRlJzMZLSbAeqDi7DP8tnZXV3jcI2W8/ts
+#EXTINF:-1 xui-id="128414" tvg-id="" tvg-name="Discovery+ Extra 15 FHD" tvg-logo="" group-title="Sweden",Discovery+ Extra 15 FHD | 🌟 FREE IPTV WORLD 🌟
+http://fomo.re:80/play/INqRI1BSwwQ4bRlJzMZLSWipnohvYTA9sJB0SYbxXoE/ts
+#EXTINF:-1 xui-id="128415" tvg-id="" tvg-name="Discovery+ Extra 16 FHD" tvg-logo="" group-title="Sweden",Discovery+ Extra 16 FHD | 🌟 FREE IPTV WORLD 🌟
+http://fomo.re:80/play/INqRI1BSwwQ4bRlJzMZLSTak_Nkj7LWy2sY_cIKi0vo/ts
+#EXTINF:-1 xui-id="128416" tvg-id="" tvg-name="Discovery+ Extra 17 FHD" tvg-logo="" group-title="Sweden",Discovery+ Extra 17 FHD | 🌟 FREE IPTV WORLD 🌟
+http://fomo.re:80/play/INqRI1BSwwQ4bRlJzMZLSRcSsHMQzZLcEiewxFUr5yw/ts
+#EXTINF:-1 xui-id="128417" tvg-id="" tvg-name="Discovery+ Extra 18 FHD" tvg-logo="" group-title="Sweden",Discovery+ Extra 18 FHD | 🌟 FREE IPTV WORLD 🌟
+http://fomo.re:80/play/INqRI1BSwwQ4bRlJzMZLSWeIzy-o0kqUFPufbo7utRQ/ts
+#EXTINF:-1 xui-id="155810" tvg-id="" tvg-name="ViaPlay Extra 11 HD SE" tvg-logo="http://fomo.re:80/images/NO_viaplay_11.png" group-title="Sweden",ViaPlay Extra 11 HD SE | 🌟 FREE IPTV WORLD 🌟
+http://fomo.re:80/play/INqRI1BSwwQ4bRlJzMZLSRVzaApK1uu3fBekVqefDWc/ts
+#EXTINF:-1 xui-id="242084" tvg-id="" tvg-name="Viasport live 1" tvg-logo="" group-title="Sweden",Viasport live 1 | 🌟 FREE IPTV WORLD 🌟
+http://fomo.re:80/play/INqRI1BSwwQ4bRlJzMZLSWZT3CrVKIhC6CV7vsz__IQ/ts
+#EXTINF:-1 xui-id="242085" tvg-id="" tvg-name="Viasport live 2" tvg-logo="" group-title="Sweden",Viasport live 2 | 🌟 FREE IPTV WORLD 🌟
+http://fomo.re:80/play/INqRI1BSwwQ4bRlJzMZLSfge1-eFY5xeq4L4F0m6V10/ts
+#EXTINF:-1 xui-id="242086" tvg-id="" tvg-name="Viasport live 3" tvg-logo="" group-title="Sweden",Viasport live 3 | 🌟 FREE IPTV WORLD 🌟
+http://fomo.re:80/play/INqRI1BSwwQ4bRlJzMZLSVF5qZ_o0KfYQJ0GD7wFtzo/ts
+#EXTINF:-1 xui-id="242087" tvg-id="" tvg-name="Viasport live 4" tvg-logo="" group-title="Sweden",Viasport live 4 | 🌟 FREE IPTV WORLD 🌟
+http://fomo.re:80/play/INqRI1BSwwQ4bRlJzMZLSbJUXRkSW-eJCzHMyhgMBZs/ts
+#EXTINF:-1 xui-id="242088" tvg-id="" tvg-name="Viasport live 5" tvg-logo="" group-title="Sweden",Viasport live 5 | 🌟 FREE IPTV WORLD 🌟
+http://fomo.re:80/play/INqRI1BSwwQ4bRlJzMZLSXs0p0t7s-hoLXvhAyWJyg0/ts
+#EXTINF:-1 xui-id="326" tvg-id="156212" tvg-name="DR1" tvg-logo="http://fomo.re:80/images/DK_dr1.png" group-title="Denmark",DR1 | 🌟 FREE IPTV WORLD 🌟
+http://fomo.re:80/play/INqRI1BSwwQ4bRlJzMZLSYAokyrQ3lBcx0eA-nNtrLk/ts
+#EXTINF:-1 xui-id="327" tvg-id="156210" tvg-name="DR2" tvg-logo="http://fomo.re:80/images/DK_dr2.png" group-title="Denmark",DR2 | 🌟 FREE IPTV WORLD 🌟
+http://fomo.re:80/play/INqRI1BSwwQ4bRlJzMZLSWsISGnGtSIRwzW9SqPYyNs/ts
+#EXTINF:-1 xui-id="328" tvg-id="156563" tvg-name="TV 2" tvg-logo="http://fomo.re:80/images/DK_tv2.png" group-title="Denmark",TV 2 | 🌟 FREE IPTV WORLD 🌟
+http://fomo.re:80/play/INqRI1BSwwQ4bRlJzMZLSSFYpxV6U2P_PNoaRK2zElA/ts
+#EXTINF:-1 xui-id="329" tvg-id="156622" tvg-name="TV3" tvg-logo="http://fomo.re:80/images/DK_tv3.png" group-title="Denmark",TV3 | 🌟 FREE IPTV WORLD 🌟
+http://fomo.re:80/play/INqRI1BSwwQ4bRlJzMZLSYIs9avrKh4bZKP6Rnf8aYQ/ts
+#EXTINF:-1 xui-id="330" tvg-id="156189" tvg-name="Kanal 4" tvg-logo="http://fomo.re:80/images/e818b7dc7e92afbee84f2cc94fbbf624.png" group-title="Denmark",Kanal 4 | 🌟 FREE IPTV WORLD 🌟
+http://fomo.re:80/play/INqRI1BSwwQ4bRlJzMZLSddD8LStO0zywq8IpuHJxRM/ts
+#EXTINF:-1 xui-id="331" tvg-id="156543" tvg-name="Kanal 5" tvg-logo="http://fomo.re:80/images/DK_kanal5.png" group-title="Denmark",Kanal 5 | 🌟 FREE IPTV WORLD 🌟
+http://fomo.re:80/play/INqRI1BSwwQ4bRlJzMZLSbvE-wto0_LEKTkuNFySGpA/ts
+#EXTINF:-1 xui-id="332" tvg-id="156545" tvg-name="6'eren" tvg-logo="http://fomo.re:80/images/DK_6eren.png" group-title="Denmark",6'eren | 🌟 FREE IPTV WORLD 🌟
+http://fomo.re:80/play/INqRI1BSwwQ4bRlJzMZLSbtYoDEqHLaMrdx_D5-9ObI/ts
+#EXTINF:-1 xui-id="333" tvg-id="156191" tvg-name="Canal 9" tvg-logo="http://fomo.re:80/images/DK_kanal9.png" group-title="Denmark",Canal 9 | 🌟 FREE IPTV WORLD 🌟
+http://fomo.re:80/play/INqRI1BSwwQ4bRlJzMZLSe5zdMNQluAKoZ7DNOk7XcE/ts
+#EXTINF:-1 xui-id="334" tvg-id="156196" tvg-name="dk4" tvg-logo="http://fomo.re:80/images/DK_kanal4.png" group-title="Denmark",dk4 | 🌟 FREE IPTV WORLD 🌟
+http://fomo.re:80/play/INqRI1BSwwQ4bRlJzMZLSbP0rJ-S2nPG4_qKxNEplpI/ts
+#EXTINF:-1 xui-id="336" tvg-id="156621" tvg-name="TV3+" tvg-logo="http://fomo.re:80/images/DK_tv3_plus.png" group-title="Denmark",TV3+ | 🌟 FREE IPTV WORLD 🌟
+http://fomo.re:80/play/INqRI1BSwwQ4bRlJzMZLSXTrXkHkWp04aWofU7DBzzQ/ts
+#EXTINF:-1 xui-id="337" tvg-id="156566" tvg-name="TV 2 Charlie" tvg-logo="http://fomo.re:80/images/DK_tv2_charlie.png" group-title="Denmark",TV 2 Charlie | 🌟 FREE IPTV WORLD 🌟
+http://fomo.re:80/play/INqRI1BSwwQ4bRlJzMZLSZF_tjBy593w3O71K5jE0jM/ts
+#EXTINF:-1 xui-id="338" tvg-id="" tvg-name="TV 2 ZULU" tvg-logo="http://fomo.re:80/images/DK_tv2_zulu.png" group-title="Denmark",TV 2 ZULU | 🌟 FREE IPTV WORLD 🌟
+http://fomo.re:80/play/INqRI1BSwwQ4bRlJzMZLSabcnejlJcfWttfHqXVy3fU/ts
+#EXTINF:-1 xui-id="339" tvg-id="156567" tvg-name="TV 2 News" tvg-logo="http://fomo.re:80/images/all_tv2_news.png" group-title="Denmark",TV 2 News | 🌟 FREE IPTV WORLD 🌟
+http://fomo.re:80/play/INqRI1BSwwQ4bRlJzMZLSdgMyivNV37mRpIXkM7STpw/ts
+#EXTINF:-1 xui-id="10001" tvg-id="156545" tvg-name="6'eren HD" tvg-logo="http://fomo.re:80/images/DK_6eren.png" group-title="Denmark",6'eren HD | 🌟 FREE IPTV WORLD 🌟
+http://fomo.re:80/play/INqRI1BSwwQ4bRlJzMZLSf8J8Vi0B8aJwTGcCkp69rI/ts
+#EXTINF:-1 xui-id="10002" tvg-id="156191" tvg-name="Canal 9 HD" tvg-logo="http://fomo.re:80/images/DK_kanal9.png" group-title="Denmark",Canal 9 HD | 🌟 FREE IPTV WORLD 🌟
+http://fomo.re:80/play/INqRI1BSwwQ4bRlJzMZLSefuGFxfvgC5c_crdLNKcoE/ts
+#EXTINF:-1 xui-id="10025" tvg-id="156212" tvg-name="DR1 HD" tvg-logo="http://fomo.re:80/images/DK_dr1.png" group-title="Denmark",DR1 HD | 🌟 FREE IPTV WORLD 🌟
+http://fomo.re:80/play/INqRI1BSwwQ4bRlJzMZLSc_TUwxr0PQBCoAwXeP51ZI/ts
+#EXTINF:-1 xui-id="10026" tvg-id="156210" tvg-name="DR2 HD" tvg-logo="http://fomo.re:80/images/DK_dr2.png" group-title="Denmark",DR2 HD | 🌟 FREE IPTV WORLD 🌟
+http://fomo.re:80/play/INqRI1BSwwQ4bRlJzMZLSWpgq2lI2kYh6pRQ5RYKOrg/ts
+#EXTINF:-1 xui-id="10094" tvg-id="156189" tvg-name="Kanal 4 HD" tvg-logo="http://fomo.re:80/images/DK_kanal4.png" group-title="Denmark",Kanal 4 HD | 🌟 FREE IPTV WORLD 🌟
+http://fomo.re:80/play/INqRI1BSwwQ4bRlJzMZLSVPTvK_RxvtDEPh3862zmeE/ts
+#EXTINF:-1 xui-id="10095" tvg-id="156543" tvg-name="Kanal 5 HD" tvg-logo="http://fomo.re:80/images/DK_kanal5.png" group-title="Denmark",Kanal 5 HD | 🌟 FREE IPTV WORLD 🌟
+http://fomo.re:80/play/INqRI1BSwwQ4bRlJzMZLSelsSRjedlQlQsnuOsl4_Ts/ts
+#EXTINF:-1 xui-id="10096" tvg-id="156566" tvg-name="TV2 Charlie HD" tvg-logo="http://fomo.re:80/images/DK_tv2_charlie.png" group-title="Denmark",TV2 Charlie HD | 🌟 FREE IPTV WORLD 🌟
+http://fomo.re:80/play/INqRI1BSwwQ4bRlJzMZLSUmuqIbMciDfy_a1Jty3lZQ/ts
+#EXTINF:-1 xui-id="10097" tvg-id="156563" tvg-name="TV 2 HD" tvg-logo="http://fomo.re:80/images/Tv2Denmark_square.svg.png" group-title="Denmark",TV 2 HD | 🌟 FREE IPTV WORLD 🌟
+http://fomo.re:80/play/INqRI1BSwwQ4bRlJzMZLSeeXx0P1YmugQhg_XVou_zk/ts
+#EXTINF:-1 xui-id="10120" tvg-id="" tvg-name="TV2 Zulu HD" tvg-logo="http://fomo.re:80/images/DK_tv2_zulu_hd.png" group-title="Denmark",TV2 Zulu HD | 🌟 FREE IPTV WORLD 🌟
+http://fomo.re:80/play/INqRI1BSwwQ4bRlJzMZLSVq8c4IyjQcs01lr6kEU_Jw/ts
+#EXTINF:-1 xui-id="10122" tvg-id="156621" tvg-name="TV3+ HD" tvg-logo="http://fomo.re:80/images/DK_tv3_plus.png" group-title="Denmark",TV3+ HD | 🌟 FREE IPTV WORLD 🌟
+http://fomo.re:80/play/INqRI1BSwwQ4bRlJzMZLSfgsTUruEh31GZV2UDH4FgI/ts
+#EXTINF:-1 xui-id="365" tvg-id="156195" tvg-name="Nat Geo HD" tvg-logo="http://fomo.re:80/images/SWE_national_geographic.png" group-title="Denmark",Nat Geo HD | 🌟 FREE IPTV WORLD 🌟
+http://fomo.re:80/play/INqRI1BSwwQ4bRlJzMZLSRtN105XxJMJE4rfvOUF3jU/ts
+#EXTINF:-1 xui-id="340" tvg-id="156565" tvg-name="TV 2 SPORT X HD" tvg-logo="http://fomo.re:80/images/DK_tv2_sportx.png" group-title="Denmark",TV 2 SPORT X HD | 🌟 FREE IPTV WORLD 🌟
+http://fomo.re:80/play/INqRI1BSwwQ4bRlJzMZLSRgZ5wfQS01WYed8aOoGNkk/ts
+#EXTINF:-1 xui-id="341" tvg-id="156498" tvg-name="Eurosport 1 HD" tvg-logo="http://fomo.re:80/images/UK_eurosport_1_hd.png" group-title="Denmark",Eurosport 1 HD | 🌟 FREE IPTV WORLD 🌟
+http://fomo.re:80/play/INqRI1BSwwQ4bRlJzMZLSbdpUZ2-PuFs3p7SBLn-WKs/ts
+#EXTINF:-1 xui-id="342" tvg-id="156500" tvg-name="Eurosport 2 HD" tvg-logo="http://fomo.re:80/images/UK_eurosport_2_hd.png" group-title="Denmark",Eurosport 2 HD | 🌟 FREE IPTV WORLD 🌟
+http://fomo.re:80/play/INqRI1BSwwQ4bRlJzMZLSWMdUpoZZDFfAsFKHm-g1ic/ts
+#EXTINF:-1 xui-id="343" tvg-id="156623" tvg-name="TV3 Sport HD" tvg-logo="http://fomo.re:80/images/DK_tv3_sport_hd.png" group-title="Denmark",TV3 Sport HD | 🌟 FREE IPTV WORLD 🌟
+http://fomo.re:80/play/INqRI1BSwwQ4bRlJzMZLSYZOyrTNR-j0TELGdNYeFck/ts
+#EXTINF:-1 xui-id="344" tvg-id="156878" tvg-name="TV 2 SPORT" tvg-logo="http://fomo.re:80/images/DK_tv2_sport.png" group-title="Denmark",TV 2 SPORT | 🌟 FREE IPTV WORLD 🌟
+http://fomo.re:80/play/INqRI1BSwwQ4bRlJzMZLSXlw26Ap1cfEGgL9WAhVk7s/ts
+#EXTINF:-1 xui-id="345" tvg-id="156209" tvg-name="Sport Live" tvg-logo="http://fomo.re:80/images/all_sport_live.png" group-title="Denmark",Sport Live | 🌟 FREE IPTV WORLD 🌟
+http://fomo.re:80/play/INqRI1BSwwQ4bRlJzMZLSeQSfs1qOC3nGy6VBV-1OPI/ts
+#EXTINF:-1 xui-id="117641" tvg-id="" tvg-name="nick Jr" tvg-logo="http://fomo.re:80/images/EQNWp_xkQZrWBiOF8YhzXeLL4pV-bcx_OGfl5UR8quyHJqA2480t_QkRKfuBHfBNq2gOOfbWYLmtwlpQCKbHdQ.png" group-title="Denmark",nick Jr | 🌟 FREE IPTV WORLD 🌟
+http://fomo.re:80/play/INqRI1BSwwQ4bRlJzMZLSbFKa11Bp3c4bA0qPKEfM_M/ts
+#EXTINF:-1 xui-id="374" tvg-id="156577" tvg-name="BBC Nordic" tvg-logo="http://fomo.re:80/images/all_bbc_nodik.png" group-title="Finland",BBC Nordic | 🌟 FREE IPTV WORLD 🌟
+http://fomo.re:80/play/INqRI1BSwwQ4bRlJzMZLSdVTPzuhIhT5lipQxFHGTEk/ts
+#EXTINF:-1 xui-id="375" tvg-id="156577" tvg-name="BBC Nordic HD" tvg-logo="http://fomo.re:80/images/all_bbc_nodik.png" group-title="Finland",BBC Nordic HD | 🌟 FREE IPTV WORLD 🌟
+http://fomo.re:80/play/INqRI1BSwwQ4bRlJzMZLSSRYZVI_tKr_LgGJ1vIQpc4/ts
+#EXTINF:-1 xui-id="376" tvg-id="156398" tvg-name="MTV Aitio" tvg-logo="http://fomo.re:80/images/swe_mtv_aitio.png" group-title="Finland",MTV Aitio | 🌟 FREE IPTV WORLD 🌟
+http://fomo.re:80/play/INqRI1BSwwQ4bRlJzMZLSS0K3WbrinM3Bi5QZIthSQQ/ts
+#EXTINF:-1 xui-id="377" tvg-id="156398" tvg-name="MTV Aitio HD" tvg-logo="http://fomo.re:80/images/swe_mtv_aitio.png" group-title="Finland",MTV Aitio HD | 🌟 FREE IPTV WORLD 🌟
+http://fomo.re:80/play/INqRI1BSwwQ4bRlJzMZLSeUeukrC-oUPwj01imy_TXs/ts
+#EXTINF:-1 xui-id="378" tvg-id="156399" tvg-name="TV4 Hits" tvg-logo="http://fomo.re:80/images/CMoreHits_square.svg.png" group-title="Finland",TV4 Hits | 🌟 FREE IPTV WORLD 🌟
+http://fomo.re:80/play/INqRI1BSwwQ4bRlJzMZLSZY5IFOPDXXApGl6-t_tpTI/ts
+#EXTINF:-1 xui-id="379" tvg-id="156399" tvg-name="TV4 Hits HD" tvg-logo="http://fomo.re:80/images/CMoreHits_square.svg.png" group-title="Finland",TV4 Hits HD | 🌟 FREE IPTV WORLD 🌟
+http://fomo.re:80/play/INqRI1BSwwQ4bRlJzMZLSdnlIRObQeyOdP5QubMXUZM/ts
+#EXTINF:-1 xui-id="380" tvg-id="156253" tvg-name="MTV Viidhe" tvg-logo="http://fomo.re:80/images/CMoreSeries_square.svg.png" group-title="Finland",MTV Viidhe | 🌟 FREE IPTV WORLD 🌟
+http://fomo.re:80/play/INqRI1BSwwQ4bRlJzMZLSYDXEY47wif5Jd8uvIrvNOY/ts
+#EXTINF:-1 xui-id="381" tvg-id="156253" tvg-name="MTV Viidhe HD" tvg-logo="http://fomo.re:80/images/CMoreSeries_square.svg.png" group-title="Finland",MTV Viidhe HD | 🌟 FREE IPTV WORLD 🌟
+http://fomo.re:80/play/INqRI1BSwwQ4bRlJzMZLSapC2ncfOa5NR89S6EjTLXc/ts
+#EXTINF:-1 xui-id="382" tvg-id="156400" tvg-name="TV4 Stars" tvg-logo="http://fomo.re:80/images/CMoreStars_square.svg.png" group-title="Finland",TV4 Stars | 🌟 FREE IPTV WORLD 🌟
+http://fomo.re:80/play/INqRI1BSwwQ4bRlJzMZLSX9dq0rAdYZlicMM2vW_4B4/ts
+#EXTINF:-1 xui-id="383" tvg-id="156400" tvg-name="TV4 Stars HD" tvg-logo="http://fomo.re:80/images/CMoreStars_square.svg.png" group-title="Finland",TV4 Stars HD | 🌟 FREE IPTV WORLD 🌟
+http://fomo.re:80/play/INqRI1BSwwQ4bRlJzMZLSUnmWeLWl6oZqPf4VJCeugo/ts
+#EXTINF:-1 xui-id="415" tvg-id="" tvg-name="Discovery Science" tvg-logo="http://fomo.re:80/images/SWE_sci.png" group-title="Finland",Discovery Science | 🌟 FREE IPTV WORLD 🌟
+http://fomo.re:80/play/INqRI1BSwwQ4bRlJzMZLSYTmkY78NrvQt8dUFNbqvKk/ts
+#EXTINF:-1 xui-id="348" tvg-id="155836" tvg-name="yle TV1" tvg-logo="http://fomo.re:80/images/FIN_yle.png" group-title="Finland",yle TV1 | 🌟 FREE IPTV WORLD 🌟
+http://fomo.re:80/play/INqRI1BSwwQ4bRlJzMZLSa4408u2mWkEP7Kf-N2cIcg/ts
+#EXTINF:-1 xui-id="349" tvg-id="155836" tvg-name="yle TV1 HD" tvg-logo="http://fomo.re:80/images/FIN_yle_hd.png" group-title="Finland",yle TV1 HD | 🌟 FREE IPTV WORLD 🌟
+http://fomo.re:80/play/INqRI1BSwwQ4bRlJzMZLSf58rKHeWxAZDWFTC4uIT2Y/ts
+#EXTINF:-1 xui-id="351" tvg-id="156593" tvg-name="yle TV2 HD" tvg-logo="http://fomo.re:80/images/FIN_yle2_hd.png" group-title="Finland",yle TV2 HD | 🌟 FREE IPTV WORLD 🌟
+http://fomo.re:80/play/INqRI1BSwwQ4bRlJzMZLSV6f3ZLe2M9dh36tzfgp7Qo/ts
+#EXTINF:-1 xui-id="352" tvg-id="156592" tvg-name="MTV3" tvg-logo="http://fomo.re:80/images/FIN_mtv3.png" group-title="Finland",MTV3 | 🌟 FREE IPTV WORLD 🌟
+http://fomo.re:80/play/INqRI1BSwwQ4bRlJzMZLSeL8Z5GdOjzwx55LTJPfP-A/ts
+#EXTINF:-1 xui-id="353" tvg-id="156592" tvg-name="MTV3 HD" tvg-logo="http://fomo.re:80/images/FIN_mtv3_hd.png" group-title="Finland",MTV3 HD | 🌟 FREE IPTV WORLD 🌟
+http://fomo.re:80/play/INqRI1BSwwQ4bRlJzMZLSRZtxhne7ZeOI_yH94fdbbE/ts
+#EXTINF:-1 xui-id="354" tvg-id="156568" tvg-name="Nelonen" tvg-logo="http://fomo.re:80/images/FIN_nelonen.png" group-title="Finland",Nelonen | 🌟 FREE IPTV WORLD 🌟
+http://fomo.re:80/play/INqRI1BSwwQ4bRlJzMZLSc3PPKs1nJPphK5tH0Oni0Y/ts
+#EXTINF:-1 xui-id="355" tvg-id="156594" tvg-name="yle Teema & Fem" tvg-logo="http://fomo.re:80/images/FIN_yle_teema.png" group-title="Finland",yle Teema & Fem | 🌟 FREE IPTV WORLD 🌟
+http://fomo.re:80/play/INqRI1BSwwQ4bRlJzMZLScmfYPGsC9d5bcQDXgt93hI/ts
+#EXTINF:-1 xui-id="356" tvg-id="156594" tvg-name="yle Teema & Fem HD" tvg-logo="http://fomo.re:80/images/FIN_yle_teema_hd.png" group-title="Finland",yle Teema & Fem HD | 🌟 FREE IPTV WORLD 🌟
+http://fomo.re:80/play/INqRI1BSwwQ4bRlJzMZLSXxCOjffT-2takzA0-bEyG4/ts
+#EXTINF:-1 xui-id="357" tvg-id="" tvg-name="MTV Sub" tvg-logo="http://fomo.re:80/images/sub.png" group-title="Finland",MTV Sub | 🌟 FREE IPTV WORLD 🌟
+http://fomo.re:80/play/INqRI1BSwwQ4bRlJzMZLST0n85vM1xhhQqljB53Hwsk/ts
+#EXTINF:-1 xui-id="358" tvg-id="155835" tvg-name="liv" tvg-logo="http://fomo.re:80/images/FIN_liv.png" group-title="Finland",liv | 🌟 FREE IPTV WORLD 🌟
+http://fomo.re:80/play/INqRI1BSwwQ4bRlJzMZLSTurVGgnxCI8f-D4vaEzRMA/ts
+#EXTINF:-1 xui-id="359" tvg-id="156460" tvg-name="Discovery" tvg-logo="http://fomo.re:80/images/UK_discovery.png" group-title="Finland",Discovery | 🌟 FREE IPTV WORLD 🌟
+http://fomo.re:80/play/INqRI1BSwwQ4bRlJzMZLSabfjxHSwAUcANPbTFKy8aE/ts
+#EXTINF:-1 xui-id="360" tvg-id="" tvg-name="C More Juniori" tvg-logo="http://fomo.re:80/images/UK_c_more_juniori.png" group-title="Finland",C More Juniori | 🌟 FREE IPTV WORLD 🌟
+http://fomo.re:80/play/INqRI1BSwwQ4bRlJzMZLSYZTVIC6v1nEVv3LWED0-yQ/ts
+#EXTINF:-1 xui-id="350" tvg-id="156593" tvg-name="yle TV2" tvg-logo="http://fomo.re:80/images/FIN_yle2.png" group-title="Finland",yle TV2 | 🌟 FREE IPTV WORLD 🌟
+http://fomo.re:80/play/INqRI1BSwwQ4bRlJzMZLSc5661oG45LPzEZ0IZnE2g8/ts
+#EXTINF:-1 xui-id="385" tvg-id="" tvg-name="V sport premium" tvg-logo="http://fomo.re:80/images/ALL_vsport_premium.png" group-title="Finland",V sport premium | 🌟 FREE IPTV WORLD 🌟
+http://fomo.re:80/play/INqRI1BSwwQ4bRlJzMZLSW2CjKxda6_JpVCZnHt5mRM/ts
+#EXTINF:-1 xui-id="386" tvg-id="" tvg-name="V sport premium HD" tvg-logo="http://fomo.re:80/images/ALL_vsport_30.png" group-title="Finland",V sport premium HD | 🌟 FREE IPTV WORLD 🌟
+http://fomo.re:80/play/INqRI1BSwwQ4bRlJzMZLSRiShy5EEAkup1JWRy0jTGY/ts
+#EXTINF:-1 xui-id="418" tvg-id="BBC1HD" tvg-name="BBC One HD" tvg-logo="http://fomo.re:80/images/UK_bbc_one_hd.png" group-title="UK",BBC One HD | 🌟 FREE IPTV WORLD 🌟
+http://fomo.re:80/play/INqRI1BSwwQ4bRlJzMZLSbBPI8riX-nEtgtgiKaXG2I/ts
+#EXTINF:-1 xui-id="420" tvg-id="BBC2HD" tvg-name="BBC Two HD" tvg-logo="http://fomo.re:80/images/UK_bbc_two_hd_.png" group-title="UK",BBC Two HD | 🌟 FREE IPTV WORLD 🌟
+http://fomo.re:80/play/INqRI1BSwwQ4bRlJzMZLSdbqlUxqWhRGI7engGMrtmw/ts
+#EXTINF:-1 xui-id="426" tvg-id="ITV2" tvg-name="ITV2 HD" tvg-logo="http://fomo.re:80/images/UK_itv_2.png" group-title="UK",ITV2 HD | 🌟 FREE IPTV WORLD 🌟
+http://fomo.re:80/play/INqRI1BSwwQ4bRlJzMZLSQAxKGcA8f3gULPBakl40k4/ts
+#EXTINF:-1 xui-id="427" tvg-id="ITV3HD" tvg-name="ITV3 HD" tvg-logo="http://fomo.re:80/images/UK_itv_3.png" group-title="UK",ITV3 HD | 🌟 FREE IPTV WORLD 🌟
+http://fomo.re:80/play/INqRI1BSwwQ4bRlJzMZLSXEhKzZoxvaMkeohwSw78GA/ts
+#EXTINF:-1 xui-id="428" tvg-id="ITV4" tvg-name="ITV4 HD" tvg-logo="http://fomo.re:80/images/UK_itv_4.png" group-title="UK",ITV4 HD | 🌟 FREE IPTV WORLD 🌟
+http://fomo.re:80/play/INqRI1BSwwQ4bRlJzMZLSSI-Sh1SaFnevWk-sM21dGg/ts
+#EXTINF:-1 xui-id="431" tvg-id="UTVHD" tvg-name="UTV HD" tvg-logo="http://fomo.re:80/images/UK_u_tv.png" group-title="UK",UTV HD | 🌟 FREE IPTV WORLD 🌟
+http://fomo.re:80/play/INqRI1BSwwQ4bRlJzMZLSSHmSoTi9xAILjHSeD1bcho/ts
+#EXTINF:-1 xui-id="432" tvg-id="STVHD" tvg-name="STV HD" tvg-logo="http://fomo.re:80/images/UK_UK_stv.png" group-title="UK",STV HD | 🌟 FREE IPTV WORLD 🌟
+http://fomo.re:80/play/INqRI1BSwwQ4bRlJzMZLSduPGQEbLGOi9UIMqoPHWls/ts
+#EXTINF:-1 xui-id="433" tvg-id="SONYCH" tvg-name="GREAT! tv" tvg-logo="http://fomo.re:80/images/UK_great_tv.png" group-title="UK",GREAT! tv | 🌟 FREE IPTV WORLD 🌟
+http://fomo.re:80/play/INqRI1BSwwQ4bRlJzMZLSZUEz2pezraL4qHHhCtq9Bo/ts
+#EXTINF:-1 xui-id="434" tvg-id="MORE4" tvg-name="More4" tvg-logo="http://fomo.re:80/images/UK_4more.png" group-title="UK",More4 | 🌟 FREE IPTV WORLD 🌟
+http://fomo.re:80/play/INqRI1BSwwQ4bRlJzMZLSTz1Xuz4YJxz6ae89J9a5OY/ts
+#EXTINF:-1 xui-id="436" tvg-id="4SEVEN" tvg-name="4seven" tvg-logo="http://fomo.re:80/images/UK_4seven.png" group-title="UK",4seven | 🌟 FREE IPTV WORLD 🌟
+http://fomo.re:80/play/INqRI1BSwwQ4bRlJzMZLSSAd50a9JLbNYJVW8yGAdsA/ts
+#EXTINF:-1 xui-id="438" tvg-id="S4CEHD" tvg-name="S4C HD" tvg-logo="http://fomo.re:80/images/UK_s4c_HD.png" group-title="UK",S4C HD | 🌟 FREE IPTV WORLD 🌟
+http://fomo.re:80/play/INqRI1BSwwQ4bRlJzMZLSf-4GD6fWXQcWnmWBuZpyBI/ts
+#EXTINF:-1 xui-id="440" tvg-id="C4HD" tvg-name="Channel 4 HD" tvg-logo="http://fomo.re:80/images/UK_channel4_hd.png" group-title="UK",Channel 4 HD | 🌟 FREE IPTV WORLD 🌟
+http://fomo.re:80/play/INqRI1BSwwQ4bRlJzMZLSbc6SAhJQtL4Fsyl1-qATK4/ts
+#EXTINF:-1 xui-id="441" tvg-id="CH5" tvg-name="Channel 5" tvg-logo="http://fomo.re:80/images/UK_channel5.png" group-title="UK",Channel 5 | 🌟 FREE IPTV WORLD 🌟
+http://fomo.re:80/play/INqRI1BSwwQ4bRlJzMZLSZP4kCA-VH2pjoGkg1gnRRo/ts
+#EXTINF:-1 xui-id="442" tvg-id="CH5HD" tvg-name="Channel 5 HD" tvg-logo="http://fomo.re:80/images/UK_channel5_hd.png" group-title="UK",Channel 5 HD | 🌟 FREE IPTV WORLD 🌟
+http://fomo.re:80/play/INqRI1BSwwQ4bRlJzMZLSbB5D829uOiprP48MQE5qvQ/ts
+#EXTINF:-1 xui-id="443" tvg-id="5MAXP" tvg-name="5STAR" tvg-logo="http://fomo.re:80/images/UK_5_star.png" group-title="UK",5STAR | 🌟 FREE IPTV WORLD 🌟
+http://fomo.re:80/play/INqRI1BSwwQ4bRlJzMZLSZrLH9VzKbszmQGwGfmo6Z0/ts
+#EXTINF:-1 xui-id="444" tvg-id="5USA" tvg-name="5USA" tvg-logo="http://fomo.re:80/images/UK_5_usa.png" group-title="UK",5USA | 🌟 FREE IPTV WORLD 🌟
+http://fomo.re:80/play/INqRI1BSwwQ4bRlJzMZLSfww2dCw50yDdxJmp5k5VMA/ts
+#EXTINF:-1 xui-id="445" tvg-id="5SELECT" tvg-name="5SELECT" tvg-logo="http://fomo.re:80/images/UK_5_select.png" group-title="UK",5SELECT | 🌟 FREE IPTV WORLD 🌟
+http://fomo.re:80/play/INqRI1BSwwQ4bRlJzMZLSaeIKLWPYLiA4xNlGdG3eQE/ts
+#EXTINF:-1 xui-id="449" tvg-id="" tvg-name="CNN HD" tvg-logo="http://fomo.re:80/images/CNN_square.svg.png" group-title="UK",CNN HD | 🌟 FREE IPTV WORLD 🌟
+http://fomo.re:80/play/INqRI1BSwwQ4bRlJzMZLSVehD63uVKxgytgMA2RbldI/ts
+#EXTINF:-1 xui-id="451" tvg-id="" tvg-name="FRANCE 24 HD" tvg-logo="http://fomo.re:80/images/UK_france_24.png" group-title="UK",FRANCE 24 HD | 🌟 FREE IPTV WORLD 🌟
+http://fomo.re:80/play/INqRI1BSwwQ4bRlJzMZLSeVqKoHRHU8G8N6ELaJ1GmI/ts
+#EXTINF:-1 xui-id="457" tvg-id="" tvg-name="Al Jazeera English HD" tvg-logo="http://fomo.re:80/images/UK_aljazeera.png" group-title="UK",Al Jazeera English HD | 🌟 FREE IPTV WORLD 🌟
+http://fomo.re:80/play/INqRI1BSwwQ4bRlJzMZLSZuN0gSYsXo2v1UGiZVk5I0/ts
+#EXTINF:-1 xui-id="461" tvg-id="POPMXUK" tvg-name="POP MAX" tvg-logo="http://fomo.re:80/images/UK_pop_max_v2.png" group-title="UK",POP MAX | 🌟 FREE IPTV WORLD 🌟
+http://fomo.re:80/play/INqRI1BSwwQ4bRlJzMZLSebsK9XRW4T7sR4I8HiFGxE/ts
+#EXTINF:-1 xui-id="462" tvg-id="POP" tvg-name="POP" tvg-logo="http://fomo.re:80/images/UK_pop.png" group-title="UK",POP | 🌟 FREE IPTV WORLD 🌟
+http://fomo.re:80/play/INqRI1BSwwQ4bRlJzMZLSTW2UrVEDiAina_EXF6kOF4/ts
+#EXTINF:-1 xui-id="465" tvg-id="SONYMCO" tvg-name="GREAT! movies" tvg-logo="http://fomo.re:80/images/UK_great_movies.png" group-title="UK",GREAT! movies | 🌟 FREE IPTV WORLD 🌟
+http://fomo.re:80/play/INqRI1BSwwQ4bRlJzMZLSdGJrte2_6YeLHXlmXslokU/ts
+#EXTINF:-1 xui-id="466" tvg-id="SMOVACT" tvg-name="GREAT! action" tvg-logo="http://fomo.re:80/images/UK_great_action.png" group-title="UK",GREAT! action | 🌟 FREE IPTV WORLD 🌟
+http://fomo.re:80/play/INqRI1BSwwQ4bRlJzMZLSVJBwHwn8qb2C0Dat7uDUcI/ts
+#EXTINF:-1 xui-id="467" tvg-id="SOMOVC" tvg-name="GREAT! classic" tvg-logo="http://fomo.re:80/images/UK_great_classic.png" group-title="UK",GREAT! classic | 🌟 FREE IPTV WORLD 🌟
+http://fomo.re:80/play/INqRI1BSwwQ4bRlJzMZLSSRH0ImpKBJQyRVNJARpWa8/ts
+#EXTINF:-1 xui-id="468" tvg-id="DAVE" tvg-name="Dave" tvg-logo="http://fomo.re:80/images/UK_dave.png" group-title="UK",Dave | 🌟 FREE IPTV WORLD 🌟
+http://fomo.re:80/play/INqRI1BSwwQ4bRlJzMZLScWTnctrPmy5rjQzqbyBrIo/ts
+#EXTINF:-1 xui-id="469" tvg-id="DAVEJV" tvg-name="Dave ja vu" tvg-logo="http://fomo.re:80/images/UK_dave_ja_vu.png" group-title="UK",Dave ja vu | 🌟 FREE IPTV WORLD 🌟
+http://fomo.re:80/play/INqRI1BSwwQ4bRlJzMZLSei6CyH9UxHTfgfygfamx0g/ts
+#EXTINF:-1 xui-id="470" tvg-id="DRAMAUK" tvg-name="Drama" tvg-logo="http://fomo.re:80/images/UK_drama.png" group-title="UK",Drama | 🌟 FREE IPTV WORLD 🌟
+http://fomo.re:80/play/INqRI1BSwwQ4bRlJzMZLSb1c2w24U_MfwurFrVqmgZs/ts
+#EXTINF:-1 xui-id="475" tvg-id="PAR" tvg-name="5ACTION" tvg-logo="http://fomo.re:80/images/UK_5_action.png" group-title="UK",5ACTION | 🌟 FREE IPTV WORLD 🌟
+http://fomo.re:80/play/INqRI1BSwwQ4bRlJzMZLSYoCd_0GB_rLibo2HoBx1Iw/ts
+#EXTINF:-1 xui-id="476" tvg-id="" tvg-name="CBS Reality" tvg-logo="http://fomo.re:80/images/UK_cbs_reality.png" group-title="UK",CBS Reality | 🌟 FREE IPTV WORLD 🌟
+http://fomo.re:80/play/INqRI1BSwwQ4bRlJzMZLSRjbLmxxtmpn0TuZxUnEz9w/ts
+#EXTINF:-1 xui-id="477" tvg-id="CBSDRMA" tvg-name="CBS Drama" tvg-logo="http://fomo.re:80/images/UK_cbs_drama.png" group-title="UK",CBS Drama | 🌟 FREE IPTV WORLD 🌟
+http://fomo.re:80/play/INqRI1BSwwQ4bRlJzMZLSfNz3CkJDb95RDmhqVD8oEc/ts
+#EXTINF:-1 xui-id="478" tvg-id="CBSACP1" tvg-name="CBS Justice" tvg-logo="http://fomo.re:80/images/UK_cbs_justice.png" group-title="UK",CBS Justice | 🌟 FREE IPTV WORLD 🌟
+http://fomo.re:80/play/INqRI1BSwwQ4bRlJzMZLSe4FUS6b2n34yR788BsbDiY/ts
+#EXTINF:-1 xui-id="480" tvg-id="HORROR1" tvg-name="Horror Channel" tvg-logo="http://fomo.re:80/images/UK_horror_channnel.png" group-title="UK",Horror Channel | 🌟 FREE IPTV WORLD 🌟
+http://fomo.re:80/play/INqRI1BSwwQ4bRlJzMZLSfYJ0IWdEnPD6y754YC4gi8/ts
+#EXTINF:-1 xui-id="482" tvg-id="REALLY" tvg-name="Really" tvg-logo="http://fomo.re:80/images/UK_really.png" group-title="UK",Really | 🌟 FREE IPTV WORLD 🌟
+http://fomo.re:80/play/INqRI1BSwwQ4bRlJzMZLST1zjcXIlbw1dNxiTOedcIs/ts
+#EXTINF:-1 xui-id="483" tvg-id="YESTDAY" tvg-name="Yesterday" tvg-logo="http://fomo.re:80/images/UK_yesterday.png" group-title="UK",Yesterday | 🌟 FREE IPTV WORLD 🌟
+http://fomo.re:80/play/INqRI1BSwwQ4bRlJzMZLSQzefUMPwCYcgrKvzDRdT2E/ts
+#EXTINF:-1 xui-id="485" tvg-id="BLAZEES" tvg-name="Blaze" tvg-logo="http://fomo.re:80/images/UK_blaze.png" group-title="UK",Blaze | 🌟 FREE IPTV WORLD 🌟
+http://fomo.re:80/play/INqRI1BSwwQ4bRlJzMZLSUgpS_Df0YRDB0x4QcfEe78/ts
+#EXTINF:-1 xui-id="486" tvg-id="HGTVUK" tvg-name="HGTV" tvg-logo="http://fomo.re:80/images/UK_hg_tv.png" group-title="UK",HGTV | 🌟 FREE IPTV WORLD 🌟
+http://fomo.re:80/play/INqRI1BSwwQ4bRlJzMZLSU-oTKwhmz0drkjPsqsUyUM/ts
+#EXTINF:-1 xui-id="487" tvg-id="QUESVHD" tvg-name="QUEST" tvg-logo="http://fomo.re:80/images/UK_quest.png" group-title="UK",QUEST | 🌟 FREE IPTV WORLD 🌟
+http://fomo.re:80/play/INqRI1BSwwQ4bRlJzMZLSYVVCwRq2R5S7XCEPIS-KII/ts
+#EXTINF:-1 xui-id="489" tvg-id="QREDUK" tvg-name="Quest Red" tvg-logo="http://fomo.re:80/images/UK_quest_red.png" group-title="UK",Quest Red | 🌟 FREE IPTV WORLD 🌟
+http://fomo.re:80/play/INqRI1BSwwQ4bRlJzMZLSQAiUYMHUpNkpm-25ID1BO0/ts
+#EXTINF:-1 xui-id="490" tvg-id="DMAXE" tvg-name="DMAX" tvg-logo="http://fomo.re:80/images/UK_dmax.png" group-title="UK",DMAX | 🌟 FREE IPTV WORLD 🌟
+http://fomo.re:80/play/INqRI1BSwwQ4bRlJzMZLSXT-R52CPFhPfLVRek8k8iU/ts
+#EXTINF:-1 xui-id="491" tvg-id="" tvg-name="Food Network" tvg-logo="http://fomo.re:80/images/UK_food_network.png" group-title="UK",Food Network | 🌟 FREE IPTV WORLD 🌟
+http://fomo.re:80/play/INqRI1BSwwQ4bRlJzMZLSRA_3A4EoV7kJoQ4r0tMzQA/ts
+#EXTINF:-1 xui-id="574" tvg-id="" tvg-name="TLC" tvg-logo="http://fomo.re:80/images/SWE_tlc.png" group-title="UK",TLC | 🌟 FREE IPTV WORLD 🌟
+http://fomo.re:80/play/INqRI1BSwwQ4bRlJzMZLSXQevCG--WoBKW-8QMNUl7U/ts
+#EXTINF:-1 xui-id="4360" tvg-id="" tvg-name="Cartoon Network" tvg-logo="http://fomo.re:80/images/UK_cartoon_network.png" group-title="UK",Cartoon Network | 🌟 FREE IPTV WORLD 🌟
+http://fomo.re:80/play/INqRI1BSwwQ4bRlJzMZLSfzef3Uhunw1ClkZXSuzNFg/ts
+#EXTINF:-1 xui-id="4361" tvg-id="" tvg-name="Baby TV" tvg-logo="http://fomo.re:80/images/UK_baby_tv.png" group-title="UK",Baby TV | 🌟 FREE IPTV WORLD 🌟
+http://fomo.re:80/play/INqRI1BSwwQ4bRlJzMZLSQSYvCkB75hm5MUHQocUUUI/ts
+#EXTINF:-1 xui-id="4362" tvg-id="BOOMRG" tvg-name="Boomerang" tvg-logo="http://fomo.re:80/images/UK_boomerang_v2.png" group-title="UK",Boomerang | 🌟 FREE IPTV WORLD 🌟
+http://fomo.re:80/play/INqRI1BSwwQ4bRlJzMZLSW1LvdehNDIDqlXfpjQI-Xo/ts
+#EXTINF:-1 xui-id="479" tvg-id="PBSUKP1" tvg-name="PBS America" tvg-logo="http://fomo.re:80/images/UK_pbs_america.png" group-title="UK",PBS America | 🌟 FREE IPTV WORLD 🌟
+http://fomo.re:80/play/INqRI1BSwwQ4bRlJzMZLSVba-qOfuIt5wGioKmzPx4s/ts
+#EXTINF:-1 xui-id="473" tvg-id="ALIBI" tvg-name="alibi" tvg-logo="http://fomo.re:80/images/UK_alibi.png" group-title="UK",alibi | 🌟 FREE IPTV WORLD 🌟
+http://fomo.re:80/play/INqRI1BSwwQ4bRlJzMZLSUr7WvWGMQjJ4KMRTLKNKQs/ts
+#EXTINF:-1 xui-id="44499" tvg-id="COMCNX" tvg-name="Comedy Xtra" tvg-logo="http://fomo.re:80/images/UK_comedy_central_extra.png" group-title="UK",Comedy Xtra | 🌟 FREE IPTV WORLD 🌟
+http://fomo.re:80/play/INqRI1BSwwQ4bRlJzMZLSU3kx31SBOlP4vTU5P8ujKA/ts
+#EXTINF:-1 xui-id="44500" tvg-id="CARNITO" tvg-name="Cartoonito" tvg-logo="http://fomo.re:80/images/UK_cartoonito.png" group-title="UK",Cartoonito | 🌟 FREE IPTV WORLD 🌟
+http://fomo.re:80/play/INqRI1BSwwQ4bRlJzMZLSfXFxEVY5GbpO11-Mq39Sfw/ts
+#EXTINF:-1 xui-id="481" tvg-id="EDEN" tvg-name="Eden" tvg-logo="http://fomo.re:80/images/UK_eden_tv.png" group-title="UK",Eden | 🌟 FREE IPTV WORLD 🌟
+http://fomo.re:80/play/INqRI1BSwwQ4bRlJzMZLSb3JV-9nEzcKuOkgPe4nadI/ts
+#EXTINF:-1 xui-id="474" tvg-id="GOLDE" tvg-name="Gold" tvg-logo="http://fomo.re:80/images/UK_gold.png" group-title="UK",Gold | 🌟 FREE IPTV WORLD 🌟
+http://fomo.re:80/play/INqRI1BSwwQ4bRlJzMZLSYzNjix1mh6LeC8xsqRBOss/ts
+#EXTINF:-1 xui-id="4364" tvg-id="156418" tvg-name="MTV 80's" tvg-logo="http://fomo.re:80/images/ALL_mtv_80.png" group-title="UK",MTV 80's | 🌟 FREE IPTV WORLD 🌟
+http://fomo.re:80/play/INqRI1BSwwQ4bRlJzMZLSWIiLYDCgcpznuWjlBzDens/ts
+#EXTINF:-1 xui-id="44501" tvg-id="" tvg-name="MTV 90's" tvg-logo="http://fomo.re:80/images/ALL_mtv_90.png" group-title="UK",MTV 90's | 🌟 FREE IPTV WORLD 🌟
+http://fomo.re:80/play/INqRI1BSwwQ4bRlJzMZLSTKraPTk67oErern_n86yao/ts
+#EXTINF:-1 xui-id="44502" tvg-id="MTVE" tvg-name="MTV" tvg-logo="http://fomo.re:80/images/ALL_mtv_classic.png" group-title="UK",MTV | 🌟 FREE IPTV WORLD 🌟
+http://fomo.re:80/play/INqRI1BSwwQ4bRlJzMZLSbEPK-VFhqujddn6-Nm-yX8/ts
+#EXTINF:-1 xui-id="259" tvg-id="CIHD" tvg-name="Crime Investigation" tvg-logo="http://fomo.re:80/images/UK_crime_investigation.png" group-title="UK",Crime Investigation | 🌟 FREE IPTV WORLD 🌟
+http://fomo.re:80/play/INqRI1BSwwQ4bRlJzMZLSb9GgRe9PSP1YRZvvMDcZFQ/ts
+#EXTINF:-1 xui-id="59718" tvg-id="SART1HD" tvg-name="Sky Arts HD" tvg-logo="http://fomo.re:80/images/UK_sky_arts.png" group-title="UK",Sky Arts HD | 🌟 FREE IPTV WORLD 🌟
+http://fomo.re:80/play/INqRI1BSwwQ4bRlJzMZLSUtfcoJbtwecgDovYmP_BfM/ts
+#EXTINF:-1 xui-id="59719" tvg-id="SKYATHD" tvg-name="Sky Atlantic HD" tvg-logo="http://fomo.re:80/images/UK_sky_atlantic.png" group-title="UK",Sky Atlantic HD | 🌟 FREE IPTV WORLD 🌟
+http://fomo.re:80/play/INqRI1BSwwQ4bRlJzMZLSekXHCOOcK8fwD3iKb-zdmw/ts
+#EXTINF:-1 xui-id="59720" tvg-id="SKYCOM" tvg-name="Sky Comedy HD" tvg-logo="http://fomo.re:80/images/UK_sky_comedy.png" group-title="UK",Sky Comedy HD | 🌟 FREE IPTV WORLD 🌟
+http://fomo.re:80/play/INqRI1BSwwQ4bRlJzMZLSVahgcqwIYeufZA8SOEUtzE/ts
+#EXTINF:-1 xui-id="59722" tvg-id="SCINDRH" tvg-name="Sky Cinema Drama HD" tvg-logo="http://fomo.re:80/images/sky_cinema_drama.png" group-title="UK",Sky Cinema Drama HD | 🌟 FREE IPTV WORLD 🌟
+http://fomo.re:80/play/INqRI1BSwwQ4bRlJzMZLSewzJ8A7yI7tbfAYDlM2PHI/ts
+#EXTINF:-1 xui-id="59723" tvg-id="SCINFAH" tvg-name="Sky Cinema Family HD" tvg-logo="http://fomo.re:80/images/UK_sky_cinema_family.png" group-title="UK",Sky Cinema Family HD | 🌟 FREE IPTV WORLD 🌟
+http://fomo.re:80/play/INqRI1BSwwQ4bRlJzMZLSZ87TB2Lpfp9OFuP3_3mcoM/ts
+#EXTINF:-1 xui-id="59724" tvg-id="SCINHTS" tvg-name="Sky Cinema Hits HD" tvg-logo="http://fomo.re:80/images/UK_sky_cinema_hits.png" group-title="UK",Sky Cinema Hits HD | 🌟 FREE IPTV WORLD 🌟
+http://fomo.re:80/play/INqRI1BSwwQ4bRlJzMZLSY_vHbjjzTUg47-iyURa_NA/ts
+#EXTINF:-1 xui-id="59725" tvg-id="VMIKDS" tvg-name="Sky Kids HD" tvg-logo="http://fomo.re:80/images/UK_sky_kids.png" group-title="UK",Sky Kids HD | 🌟 FREE IPTV WORLD 🌟
+http://fomo.re:80/play/INqRI1BSwwQ4bRlJzMZLSbz1mO-IMiJyiw4sJz4T-Xw/ts
+#EXTINF:-1 xui-id="59726" tvg-id="" tvg-name="Sky Max HD" tvg-logo="http://fomo.re:80/images/UK_sky_max.png" group-title="UK",Sky Max HD | 🌟 FREE IPTV WORLD 🌟
+http://fomo.re:80/play/INqRI1BSwwQ4bRlJzMZLSYdlN_NY0K9PEVaCF2ZXHlU/ts
+#EXTINF:-1 xui-id="59727" tvg-id="SCINPRH" tvg-name="Sky Cinema Premiere HD" tvg-logo="http://fomo.re:80/images/UK_sky_cinema_premiere.png" group-title="UK",Sky Cinema Premiere HD | 🌟 FREE IPTV WORLD 🌟
+http://fomo.re:80/play/INqRI1BSwwQ4bRlJzMZLSUOKkH4D_LwqNBodc_D8kcY/ts
+#EXTINF:-1 xui-id="59728" tvg-id="SCINSHD" tvg-name="Sky Cinema Sci-fi & Horror HD" tvg-logo="http://fomo.re:80/images/UK_sky_cinema_6soft_humor.png" group-title="UK",Sky Cinema Sci-fi & Horror HD | 🌟 FREE IPTV WORLD 🌟
+http://fomo.re:80/play/INqRI1BSwwQ4bRlJzMZLSQaYrHoCaBHmN6sx49h6ULQ/ts
+#EXTINF:-1 xui-id="59729" tvg-id="SCINTHH" tvg-name="Sky Cinema Thriller HD" tvg-logo="http://fomo.re:80/images/UK_sky_cinema_thriller.png" group-title="UK",Sky Cinema Thriller HD | 🌟 FREE IPTV WORLD 🌟
+http://fomo.re:80/play/INqRI1BSwwQ4bRlJzMZLSXWXn7K8uTw-OoIx2SFnwu4/ts
+#EXTINF:-1 xui-id="59730" tvg-id="SKWITHD" tvg-name="Sky Witness HD" tvg-logo="http://fomo.re:80/images/UK_sky_witness.png" group-title="UK",Sky Witness HD | 🌟 FREE IPTV WORLD 🌟
+http://fomo.re:80/play/INqRI1BSwwQ4bRlJzMZLSeNRd1nJjEZbGNtiWRCmXds/ts
+#EXTINF:-1 xui-id="59731" tvg-id="SCINANI" tvg-name="Sky Cinema Animation HD" tvg-logo="http://fomo.re:80/images/UK_sky_cinema_animation.png" group-title="UK",Sky Cinema Animation HD | 🌟 FREE IPTV WORLD 🌟
+http://fomo.re:80/play/INqRI1BSwwQ4bRlJzMZLSXNMpuDXhXhJd3_d2OYxjRo/ts
+#EXTINF:-1 xui-id="59732" tvg-id="SKYDOC" tvg-name="Sky Documentaries HD" tvg-logo="http://fomo.re:80/images/UK_sky_documentaries.png" group-title="UK",Sky Documentaries HD | 🌟 FREE IPTV WORLD 🌟
+http://fomo.re:80/play/INqRI1BSwwQ4bRlJzMZLSaSYh3hqbPGgdK-K0HD83XI/ts
+#EXTINF:-1 xui-id="59968" tvg-id="SSPORAC" tvg-name="Sky Sports Racing HD 50FPS" tvg-logo="http://fomo.re:80/images/UK_sky_sports_racing.png" group-title="UK",Sky Sports Racing HD 50FPS | 🌟 FREE IPTV WORLD 🌟
+http://fomo.re:80/play/INqRI1BSwwQ4bRlJzMZLScuS4roJh2TA3wGz_hbGvMs/ts
+#EXTINF:-1 xui-id="59970" tvg-id="SSPONEH" tvg-name="Sky Sports News HD 50FPS" tvg-logo="http://fomo.re:80/images/UK_sky_sports_news.png" group-title="UK",Sky Sports News HD 50FPS | 🌟 FREE IPTV WORLD 🌟
+http://fomo.re:80/play/INqRI1BSwwQ4bRlJzMZLSVvgCkclIj-gqgotzpRPIec/ts
+#EXTINF:-1 xui-id="59971" tvg-id="SSPOACH" tvg-name="Sky Sports Action HD 50FPS" tvg-logo="http://fomo.re:80/images/UK_sky_sports_action.png" group-title="UK",Sky Sports Action HD 50FPS | 🌟 FREE IPTV WORLD 🌟
+http://fomo.re:80/play/INqRI1BSwwQ4bRlJzMZLSR9i4UaWInZDnpTiyRoq7r4/ts
+#EXTINF:-1 xui-id="59973" tvg-id="SSPOF1H" tvg-name="Sky Sports F1 HD 50FPS" tvg-logo="http://fomo.re:80/images/UK_sky_sports_f1.png" group-title="UK",Sky Sports F1 HD 50FPS | 🌟 FREE IPTV WORLD 🌟
+http://fomo.re:80/play/INqRI1BSwwQ4bRlJzMZLSfDNEf9goN0lMKXUw1TPdBE/ts
+#EXTINF:-1 xui-id="59975" tvg-id="SSPOGOH" tvg-name="Sky Sports Golf HD 50FPS" tvg-logo="http://fomo.re:80/images/UK_sky_sports_golf.png" group-title="UK",Sky Sports Golf HD 50FPS | 🌟 FREE IPTV WORLD 🌟
+http://fomo.re:80/play/INqRI1BSwwQ4bRlJzMZLSZa9DFvSomjcuVr7j55C5gE/ts
+#EXTINF:-1 xui-id="59977" tvg-id="SSPOCRH" tvg-name="Sky Sports Cricket HD 50FPS" tvg-logo="http://fomo.re:80/images/UK_sky_sports_cricket.png" group-title="UK",Sky Sports Cricket HD 50FPS | 🌟 FREE IPTV WORLD 🌟
+http://fomo.re:80/play/INqRI1BSwwQ4bRlJzMZLSaB0fLibLhn-Xp3f6ovYfXQ/ts
+#EXTINF:-1 xui-id="60726" tvg-id="" tvg-name="Cartoon Network HD UK" tvg-logo="http://fomo.re:80/images/UK_cartoon_network.png" group-title="UK",Cartoon Network HD UK | 🌟 FREE IPTV WORLD 🌟
+http://fomo.re:80/play/INqRI1BSwwQ4bRlJzMZLScHEhC_2fpboegtovJ34JbY/ts
+#EXTINF:-1 xui-id="472" tvg-id="WUKTV" tvg-name="W" tvg-logo="http://fomo.re:80/images/UK_w_tv.png" group-title="UK",W | 🌟 FREE IPTV WORLD 🌟
+http://fomo.re:80/play/INqRI1BSwwQ4bRlJzMZLSSAsbLp2yaxAEzyhi3bu1CE/ts
+#EXTINF:-1 xui-id="459" tvg-id="CBBCHD" tvg-name="CBBC HD | BBC Four HD" tvg-logo="http://fomo.re:80/images/UK_bbc_cbbc.png" group-title="UK",CBBC HD | BBC Four HD | 🌟 FREE IPTV WORLD 🌟
+http://fomo.re:80/play/INqRI1BSwwQ4bRlJzMZLSchML_etTJOU_72m-nwmMOI/ts
+#EXTINF:-1 xui-id="100451" tvg-id="BOOMUKH" tvg-name="Boomerang HD" tvg-logo="http://fomo.re:80/images/UK_boomerang.png" group-title="UK",Boomerang HD | 🌟 FREE IPTV WORLD 🌟
+http://fomo.re:80/play/INqRI1BSwwQ4bRlJzMZLSRVtrmJ5M8binHmSUQDP9js/ts
+#EXTINF:-1 xui-id="100453" tvg-id="" tvg-name="Nick Jr. HD" tvg-logo="http://fomo.re:80/images/SWE_nick_jr.png" group-title="UK",Nick Jr. HD | 🌟 FREE IPTV WORLD 🌟
+http://fomo.re:80/play/INqRI1BSwwQ4bRlJzMZLSRQYXASz88hXzWxSLRGvtxI/ts
+#EXTINF:-1 xui-id="100454" tvg-id="HISTHD" tvg-name="Sky History HD" tvg-logo="http://fomo.re:80/images/UK_sky_history.png" group-title="UK",Sky History HD | 🌟 FREE IPTV WORLD 🌟
+http://fomo.re:80/play/INqRI1BSwwQ4bRlJzMZLST5Qp7erhpN1Y95Cuq5N3js/ts
+#EXTINF:-1 xui-id="100455" tvg-id="SKYNAT" tvg-name="Sky Nature HD" tvg-logo="http://fomo.re:80/images/UK_sky_nature.png" group-title="UK",Sky Nature HD | 🌟 FREE IPTV WORLD 🌟
+http://fomo.re:80/play/INqRI1BSwwQ4bRlJzMZLSVWCK8tQ2Ib8aXvbWtiIT5E/ts
+#EXTINF:-1 xui-id="100457" tvg-id="" tvg-name="Sky Showcase HD" tvg-logo="http://fomo.re:80/images/UK_sky_showcase.png" group-title="UK",Sky Showcase HD | 🌟 FREE IPTV WORLD 🌟
+http://fomo.re:80/play/INqRI1BSwwQ4bRlJzMZLSZnsibQHqA1jxRp0NCSBXIA/ts
+#EXTINF:-1 xui-id="101586" tvg-id="ALIBIHD" tvg-name="alibi HD" tvg-logo="http://fomo.re:80/images/UK_alibi_hd.png" group-title="UK",alibi HD | 🌟 FREE IPTV WORLD 🌟
+http://fomo.re:80/play/INqRI1BSwwQ4bRlJzMZLScxrVmHwcGy7lzdhjzVPfMQ/ts
+#EXTINF:-1 xui-id="317922" tvg-id="ITV1LON" tvg-name="ITV1" tvg-logo="http://fomo.re:80/images/_dPfLuGUDAi0_8XEWWgXfMV5V35qMpzVd8bQDPN0Q0PATrol0UxVFLlZPw51cog6AIlLM3m8gaQh1AbRZL8G5A.png" group-title="UK",ITV1 | 🌟 FREE IPTV WORLD 🌟
+http://fomo.re:80/play/INqRI1BSwwQ4bRlJzMZLSfzg5bKgYRZV3_-H843eCjE/ts
+#EXTINF:-1 xui-id="109180" tvg-id="MUTV" tvg-name="MUTV HD" tvg-logo="http://fomo.re:80/images/UK_mu_tv.png" group-title="UK",MUTV HD | 🌟 FREE IPTV WORLD 🌟
+http://fomo.re:80/play/INqRI1BSwwQ4bRlJzMZLSY6BhED69g0Um-EfV2z-Xq4/ts
+#EXTINF:-1 xui-id="106298" tvg-id="LFCEUHD" tvg-name="LFCTV HD" tvg-logo="http://fomo.re:80/images/UK_lfc_tv.png" group-title="UK",LFCTV HD | 🌟 FREE IPTV WORLD 🌟
+http://fomo.re:80/play/INqRI1BSwwQ4bRlJzMZLSfTmA_VI6I0i3pj37FKPuBc/ts
+#EXTINF:-1 xui-id="59969" tvg-id="SSPOFBH" tvg-name="Sky Sports Football HD 50FPS" tvg-logo="http://fomo.re:80/images/UK_sky_sports_football.png" group-title="Premier League",Sky Sports Football HD 50FPS | 🌟 FREE IPTV WORLD 🌟
+http://fomo.re:80/play/INqRI1BSwwQ4bRlJzMZLSQZEsdn7oiJu-smtHNFk2tY/ts
+#EXTINF:-1 xui-id="59972" tvg-id="SSPOMEH" tvg-name="Sky Sports Main Event HD 50FPS" tvg-logo="http://fomo.re:80/images/UK_sky_sports_mainevent.png" group-title="Premier League",Sky Sports Main Event HD 50FPS | 🌟 FREE IPTV WORLD 🌟
+http://fomo.re:80/play/INqRI1BSwwQ4bRlJzMZLSSAtsFwlNAlpiUDLrPuRifg/ts
+#EXTINF:-1 xui-id="59974" tvg-id="SSPOMXH" tvg-name="Sky Sports Mix HD 50FPS" tvg-logo="http://fomo.re:80/images/UK_sky_sports_mix.png" group-title="Premier League",Sky Sports Mix HD 50FPS | 🌟 FREE IPTV WORLD 🌟
+http://fomo.re:80/play/INqRI1BSwwQ4bRlJzMZLSY52mIcCc20RNl9UV78rrVs/ts
+#EXTINF:-1 xui-id="59976" tvg-id="SSPOPLH" tvg-name="Sky Sports Premier League HD 50FPS" tvg-logo="http://fomo.re:80/images/UK_sky_sports_premiere_league.png" group-title="Premier League",Sky Sports Premier League HD 50FPS | 🌟 FREE IPTV WORLD 🌟
+http://fomo.re:80/play/INqRI1BSwwQ4bRlJzMZLSXP5ftkjwihM0xktOHOpVyE/ts
+#EXTINF:-1 xui-id="59978" tvg-id="SSPOARH" tvg-name="Sky Sports Arena HD 50FPS" tvg-logo="http://fomo.re:80/images/UK_sky_sports_arena.png" group-title="Premier League",Sky Sports Arena HD 50FPS | 🌟 FREE IPTV WORLD 🌟
+http://fomo.re:80/play/INqRI1BSwwQ4bRlJzMZLSTpgsyTJUGofdUbMrChQjYk/ts
+#EXTINF:-1 xui-id="623" tvg-id="ESPNHDE" tvg-name="TNT Sport 4 HD" tvg-logo="http://fomo.re:80/images/UK_tnt_sport_4.png" group-title="Premier League",TNT Sport 4 HD | 🌟 FREE IPTV WORLD 🌟
+http://fomo.re:80/play/INqRI1BSwwQ4bRlJzMZLSQAH_Y7FLjwHvRdXozv_VQs/ts
+#EXTINF:-1 xui-id="620" tvg-id="BTSP1HD" tvg-name="TNT Sport 1 HD" tvg-logo="http://fomo.re:80/images/UK_tnt_sport_1.png" group-title="Premier League",TNT Sport 1 HD | 🌟 FREE IPTV WORLD 🌟
+http://fomo.re:80/play/INqRI1BSwwQ4bRlJzMZLSU0wUlKTeW5leQi7u3hsZek/ts
+#EXTINF:-1 xui-id="622" tvg-id="BTSP3HD" tvg-name="TNT Sport 3 HD" tvg-logo="http://fomo.re:80/images/UK_tnt_sport_3.png" group-title="Premier League",TNT Sport 3 HD | 🌟 FREE IPTV WORLD 🌟
+http://fomo.re:80/play/INqRI1BSwwQ4bRlJzMZLScf00GmTv7tuRipd_unkNmc/ts
+#EXTINF:-1 xui-id="109721" tvg-id="" tvg-name="SuperSport Football HD ZA" tvg-logo="http://fomo.re:80/images/AFR_super_sport_fotball.png" group-title="Premier League",SuperSport Football HD ZA | 🌟 FREE IPTV WORLD 🌟
+http://fomo.re:80/play/INqRI1BSwwQ4bRlJzMZLSfFlRzjcEaAbO2IER3YGZko/ts
+#EXTINF:-1 xui-id="109722" tvg-id="" tvg-name="SuperSport Premier League HD ZA" tvg-logo="http://fomo.re:80/images/AFR_super_sport_premiere_league.png" group-title="Premier League",SuperSport Premier League HD ZA | 🌟 FREE IPTV WORLD 🌟
+http://fomo.re:80/play/INqRI1BSwwQ4bRlJzMZLSUtldSXA53BEYHHBSUi1PEo/ts
+#EXTINF:-1 xui-id="621" tvg-id="BTSP2HD" tvg-name="TNT Sport 2 HD" tvg-logo="http://fomo.re:80/images/UK_tnt_sport_2.png" group-title="Premier League",TNT Sport 2 HD | 🌟 FREE IPTV WORLD 🌟
+http://fomo.re:80/play/INqRI1BSwwQ4bRlJzMZLSc0TskhlVcoPnt48WNKrsUs/ts
+#EXTINF:-1 xui-id="277177" tvg-id="" tvg-name="Premier League" tvg-logo="" group-title="Premier League",Premier League | 🌟 FREE IPTV WORLD 🌟
+http://fomo.re:80/play/INqRI1BSwwQ4bRlJzMZLSf8Dsz7icJoQcHqeGLhsmVg/ts
+#EXTINF:-1 xui-id="277178" tvg-id="FUBOSN" tvg-name="Fubo Sports Network" tvg-logo="https://yt3.googleusercontent.com/MrFBSwy2u8tUfVinjeN8FG_O4krfNwdKZxGYAuG-SiBNDWWPRxfFXMkZ9xKpZm5pvXUxCCzIfnQ=s900-c-k-c0x00ffffff-no-rj" group-title="Premier League",Fubo Sports Network | 🌟 FREE IPTV WORLD 🌟
+http://fomo.re:80/play/INqRI1BSwwQ4bRlJzMZLSZBFeF8MaK7IMyggvmygjBQ/ts
+#EXTINF:-1 xui-id="317921" tvg-id="SSPOMEH" tvg-name="Sky Sports Main Event" tvg-logo="http://fomo.re:80/images/_dPfLuGUDAi0_8XEWWgXfG_4n_HqarAMzD93YZ5D1YRSq8AY5C42AqD1eBjzGGd5x6Mkef4tDdsS-v1ZIL-rCg.png" group-title="Premier League",Sky Sports Main Event | 🌟 FREE IPTV WORLD 🌟
+http://fomo.re:80/play/INqRI1BSwwQ4bRlJzMZLSY6GTOrONQATBexgMjGBrIM/ts
+#EXTINF:-1 xui-id="401" tvg-id="CMMAX" tvg-name="C More MAX" tvg-logo="http://fomo.re:80/images/d3fc606cfd18603c79029b9300bd37d4.png" group-title="Finland Sport",C More MAX | 🌟 FREE IPTV WORLD 🌟
+http://fomo.re:80/play/INqRI1BSwwQ4bRlJzMZLSbjl1YYKQMGY8E2wekLw5tU/ts
+#EXTINF:-1 xui-id="402" tvg-id="CMMAXHD" tvg-name="C More MAX HD" tvg-logo="http://fomo.re:80/images/2159cb9bb671406ba8fe188f3d9c2875.png" group-title="Finland Sport",C More MAX HD | 🌟 FREE IPTV WORLD 🌟
+http://fomo.re:80/play/INqRI1BSwwQ4bRlJzMZLSbtAhgZlO2QXQa8IKoccyng/ts
+#EXTINF:-1 xui-id="405" tvg-id="CMSP1" tvg-name="C More Sport 1" tvg-logo="http://fomo.re:80/images/6a20b4c17d3c75af81a581ee8553cf69.png" group-title="Finland Sport",C More Sport 1 | 🌟 FREE IPTV WORLD 🌟
+http://fomo.re:80/play/INqRI1BSwwQ4bRlJzMZLSRHrjga_-6ODItKkSzv4wd0/ts
+#EXTINF:-1 xui-id="406" tvg-id="CMSP1" tvg-name="C More Sport 1 HD" tvg-logo="http://fomo.re:80/images/6a20b4c17d3c75af81a581ee8553cf69.png" group-title="Finland Sport",C More Sport 1 HD | 🌟 FREE IPTV WORLD 🌟
+http://fomo.re:80/play/INqRI1BSwwQ4bRlJzMZLSXBYULrlXjHo_NmZdFJh2II/ts
+#EXTINF:-1 xui-id="407" tvg-id="CMSP2" tvg-name="C More Sport 2" tvg-logo="http://fomo.re:80/images/07d553c0614f185496088ddbc2cf2bc2.png" group-title="Finland Sport",C More Sport 2 | 🌟 FREE IPTV WORLD 🌟
+http://fomo.re:80/play/INqRI1BSwwQ4bRlJzMZLST3tmPR_Sihpw6DPGNrrh2c/ts
+#EXTINF:-1 xui-id="408" tvg-id="CMSP2" tvg-name="C More Sport 2 HD" tvg-logo="http://fomo.re:80/images/07d553c0614f185496088ddbc2cf2bc2.png" group-title="Finland Sport",C More Sport 2 HD | 🌟 FREE IPTV WORLD 🌟
+http://fomo.re:80/play/INqRI1BSwwQ4bRlJzMZLSUxk8hTa7cMqrgj0iZpfvdo/ts
+#EXTINF:-1 xui-id="400" tvg-id="" tvg-name="V sport vinter HD" tvg-logo="http://fomo.re:80/images/ALL_vsport_vinter_hd.png" group-title="Finland Sport",V sport vinter HD | 🌟 FREE IPTV WORLD 🌟
+http://fomo.re:80/play/INqRI1BSwwQ4bRlJzMZLSaHxQozNy_ZrCWgzoQWCfXU/ts
+#EXTINF:-1 xui-id="387" tvg-id="156103" tvg-name="V sport 1" tvg-logo="http://fomo.re:80/images/ALL_vsport_1.png" group-title="Finland Sport",V sport 1 | 🌟 FREE IPTV WORLD 🌟
+http://fomo.re:80/play/INqRI1BSwwQ4bRlJzMZLSVPTBZqEgnYHYEMN8XBs_BI/ts
+#EXTINF:-1 xui-id="399" tvg-id="" tvg-name="V sport vinter" tvg-logo="http://fomo.re:80/images/ALL_vsport_vinter.png" group-title="Finland Sport",V sport vinter | 🌟 FREE IPTV WORLD 🌟
+http://fomo.re:80/play/INqRI1BSwwQ4bRlJzMZLSdqhWY1C182IoEHPMF6UWHk/ts
+#EXTINF:-1 xui-id="409" tvg-id="" tvg-name="Eurosport 1" tvg-logo="http://fomo.re:80/images/NO_eurosport_1.png" group-title="Finland Sport",Eurosport 1 | 🌟 FREE IPTV WORLD 🌟
+http://fomo.re:80/play/INqRI1BSwwQ4bRlJzMZLSQkgcXPfinrpoajJ0LrUChA/ts
+#EXTINF:-1 xui-id="410" tvg-id="" tvg-name="Eurosport 1 HD" tvg-logo="http://fomo.re:80/images/UK_eurosport_1_hd.png" group-title="Finland Sport",Eurosport 1 HD | 🌟 FREE IPTV WORLD 🌟
+http://fomo.re:80/play/INqRI1BSwwQ4bRlJzMZLSYBiyONQbNsF9oJaDqtMmOk/ts
+#EXTINF:-1 xui-id="411" tvg-id="" tvg-name="Eurosport 2" tvg-logo="http://fomo.re:80/images/UK_eurosport_2.png" group-title="Finland Sport",Eurosport 2 | 🌟 FREE IPTV WORLD 🌟
+http://fomo.re:80/play/INqRI1BSwwQ4bRlJzMZLSdSvujoNNZgnzk1TS_T3bfY/ts
+#EXTINF:-1 xui-id="412" tvg-id="" tvg-name="Eurosport 2 HD" tvg-logo="http://fomo.re:80/images/UK_eurosport_2_hd.png" group-title="Finland Sport",Eurosport 2 HD | 🌟 FREE IPTV WORLD 🌟
+http://fomo.re:80/play/INqRI1BSwwQ4bRlJzMZLSV8l1m5t4RwOvKDY00qpNVk/ts
+#EXTINF:-1 xui-id="32817" tvg-id="" tvg-name="DIGI 4K" tvg-logo="http://fomo.re:80/images/UK_digi_24.png" group-title="All Sport",DIGI 4K | 🌟 FREE IPTV WORLD 🌟
+http://fomo.re:80/play/INqRI1BSwwQ4bRlJzMZLSVe7i19F7M6U10z9uZqMN3g/ts
+#EXTINF:-1 xui-id="32818" tvg-id="EUSPONL" tvg-name="Eurosport 4K" tvg-logo="http://fomo.re:80/images/UK_eurosport_4k.png" group-title="All Sport",Eurosport 4K | 🌟 FREE IPTV WORLD 🌟
+http://fomo.re:80/play/INqRI1BSwwQ4bRlJzMZLSVm3guv3lvhB3OtvGAKN9nM/ts
+#EXTINF:-1 xui-id="90792" tvg-id="DAZN1HD" tvg-name="DAZN 1 DE" tvg-logo="http://fomo.re:80/images/GER_dazn_1.png" group-title="Germany",DAZN 1 DE | 🌟 FREE IPTV WORLD 🌟
+http://fomo.re:80/play/INqRI1BSwwQ4bRlJzMZLSYVXM4Hn_6t5QwXfcBRMh60/ts
+#EXTINF:-1 xui-id="90793" tvg-id="DAZN1HD" tvg-name="DAZN1 HD DE" tvg-logo="http://fomo.re:80/images/GER_dazn_1.png" group-title="Germany",DAZN1 HD DE | 🌟 FREE IPTV WORLD 🌟
+http://fomo.re:80/play/INqRI1BSwwQ4bRlJzMZLSVg6wqjxwqG3SH4v26W_18M/ts
+#EXTINF:-1 xui-id="90794" tvg-id="DAZN2HD" tvg-name="DAZN 2 DE" tvg-logo="http://fomo.re:80/images/GER_dazn_2.png" group-title="Germany",DAZN 2 DE | 🌟 FREE IPTV WORLD 🌟
+http://fomo.re:80/play/INqRI1BSwwQ4bRlJzMZLSYC8USxRyNlRFpJ2b20uu30/ts
+#EXTINF:-1 xui-id="90795" tvg-id="DAZN2HD" tvg-name="DAZN 2 HD DE" tvg-logo="http://fomo.re:80/images/GER_dazn_2.png" group-title="Germany",DAZN 2 HD DE | 🌟 FREE IPTV WORLD 🌟
+http://fomo.re:80/play/INqRI1BSwwQ4bRlJzMZLSdkVFx-_VUz__sfOFTpNNLI/ts
+#EXTINF:-1 xui-id="90830" tvg-id="BUN1" tvg-name="Sky Sport Bundesliga 1 DE" tvg-logo="http://fomo.re:80/images/UK_sky_sports_bundesliga.png" group-title="Germany",Sky Sport Bundesliga 1 DE | 🌟 FREE IPTV WORLD 🌟
+http://fomo.re:80/play/INqRI1BSwwQ4bRlJzMZLSRJv1-nkkr9OTMDoPycbIjQ/ts
+#EXTINF:-1 xui-id="90831" tvg-id="SKYBUHD" tvg-name="Sky Sport Bundesliga 1 HD DE" tvg-logo="http://fomo.re:80/images/UK_sky_sports_bundesliga.png" group-title="Germany",Sky Sport Bundesliga 1 HD DE | 🌟 FREE IPTV WORLD 🌟
+http://fomo.re:80/play/INqRI1BSwwQ4bRlJzMZLSY5lD7KgM7YG4n4Mvl_Vzwo/ts
+#EXTINF:-1 xui-id="90832" tvg-id="" tvg-name="Sky Sport F1 DE" tvg-logo="http://fomo.re:80/images/UK_sky_sports_f1.png" group-title="Germany",Sky Sport F1 DE | 🌟 FREE IPTV WORLD 🌟
+http://fomo.re:80/play/INqRI1BSwwQ4bRlJzMZLSe2n6jqZYpCeIU5YR0swvQU/ts
+#EXTINF:-1 xui-id="90833" tvg-id="" tvg-name="Sky Sport F1 HD DE" tvg-logo="http://fomo.re:80/images/UK_sky_sports_f1.png" group-title="Germany",Sky Sport F1 HD DE | 🌟 FREE IPTV WORLD 🌟
+http://fomo.re:80/play/INqRI1BSwwQ4bRlJzMZLSVCge5rQY4SIFxDrbAAO8Yc/ts
+#EXTINF:-1 xui-id="90834" tvg-id="" tvg-name="Sky Sport Golf HD DE" tvg-logo="http://fomo.re:80/images/UK_sky_sports_golf.png" group-title="Germany",Sky Sport Golf HD DE | 🌟 FREE IPTV WORLD 🌟
+http://fomo.re:80/play/INqRI1BSwwQ4bRlJzMZLSW8WYQmlhjPtGkPX5JxmErU/ts
+#EXTINF:-1 xui-id="90835" tvg-id="" tvg-name="Sky Sport Mix DE" tvg-logo="http://fomo.re:80/images/UK_sky_sports_mix.png" group-title="Germany",Sky Sport Mix DE | 🌟 FREE IPTV WORLD 🌟
+http://fomo.re:80/play/INqRI1BSwwQ4bRlJzMZLSeH51-3hjXuhZ0QlKR4lTW8/ts
+#EXTINF:-1 xui-id="90836" tvg-id="" tvg-name="Sky Sport Mix HD DE" tvg-logo="http://fomo.re:80/images/UK_sky_sports_mix.png" group-title="Germany",Sky Sport Mix HD DE | 🌟 FREE IPTV WORLD 🌟
+http://fomo.re:80/play/INqRI1BSwwQ4bRlJzMZLSfVl7Zx51THlgVbUpes8SwY/ts
+#EXTINF:-1 xui-id="90837" tvg-id="SKYSNG" tvg-name="Sky Sport News DE" tvg-logo="http://fomo.re:80/images/UK_sky_sports_news.png" group-title="Germany",Sky Sport News DE | 🌟 FREE IPTV WORLD 🌟
+http://fomo.re:80/play/INqRI1BSwwQ4bRlJzMZLSUOV-3cF_6KXRV2j6u9p9Cw/ts
+#EXTINF:-1 xui-id="90838" tvg-id="SKYSNG" tvg-name="Sky Sport News HD DE" tvg-logo="http://fomo.re:80/images/UK_sky_sports_news.png" group-title="Germany",Sky Sport News HD DE | 🌟 FREE IPTV WORLD 🌟
+http://fomo.re:80/play/INqRI1BSwwQ4bRlJzMZLSSGj7WcEHwA_UIVIqoSYsso/ts
+#EXTINF:-1 xui-id="90839" tvg-id="" tvg-name="Sky Sport Premier League DE" tvg-logo="http://fomo.re:80/images/UK_sky_sports_premiere_league.png" group-title="Germany",Sky Sport Premier League DE | 🌟 FREE IPTV WORLD 🌟
+http://fomo.re:80/play/INqRI1BSwwQ4bRlJzMZLSetriB76KXI0a_E3pFnR2Rc/ts
+#EXTINF:-1 xui-id="90840" tvg-id="" tvg-name="Sky Sport Premier League HD DE" tvg-logo="http://fomo.re:80/images/UK_sky_sports_premiere_league.png" group-title="Germany",Sky Sport Premier League HD DE | 🌟 FREE IPTV WORLD 🌟
+http://fomo.re:80/play/INqRI1BSwwQ4bRlJzMZLSWo8-rLFChBXGwvFwI0Pt3s/ts
+#EXTINF:-1 xui-id="90851" tvg-id="" tvg-name="Sky Sport Tennis DE" tvg-logo="http://fomo.re:80/images/UK_sky_sports_tennis.png" group-title="Germany",Sky Sport Tennis DE | 🌟 FREE IPTV WORLD 🌟
+http://fomo.re:80/play/INqRI1BSwwQ4bRlJzMZLSYyBgIvJWspRxR58W6odUyg/ts
+#EXTINF:-1 xui-id="90852" tvg-id="" tvg-name="Sky Sport Tennis HD DE" tvg-logo="http://fomo.re:80/images/UK_sky_sports_tennis.png" group-title="Germany",Sky Sport Tennis HD DE | 🌟 FREE IPTV WORLD 🌟
+http://fomo.re:80/play/INqRI1BSwwQ4bRlJzMZLSQ7m6IWv6LEhv1ODrUfVOCQ/ts
+#EXTINF:-1 xui-id="90853" tvg-id="" tvg-name="Sky Sport Top Event DE" tvg-logo="http://fomo.re:80/images/UK_sky_sports_top_event.png" group-title="Germany",Sky Sport Top Event DE | 🌟 FREE IPTV WORLD 🌟
+http://fomo.re:80/play/INqRI1BSwwQ4bRlJzMZLSdmZdvGf6j3qbeJY2yp_TaE/ts
+#EXTINF:-1 xui-id="90854" tvg-id="" tvg-name="Sky Sport Top Event HD DE" tvg-logo="http://fomo.re:80/images/UK_sky_sports_top_event.png" group-title="Germany",Sky Sport Top Event HD DE | 🌟 FREE IPTV WORLD 🌟
+http://fomo.re:80/play/INqRI1BSwwQ4bRlJzMZLSbSKvTMqXQspLizwx3tke34/ts
+#EXTINF:-1 xui-id="94572" tvg-id="SP1GERH" tvg-name="SPORT1 DE" tvg-logo="http://fomo.re:80/images/GER_sport_1.png" group-title="Germany",SPORT1 DE | 🌟 FREE IPTV WORLD 🌟
+http://fomo.re:80/play/INqRI1BSwwQ4bRlJzMZLSbRVY3X49Rxw0xWkyXUeQKg/ts
+#EXTINF:-1 xui-id="94399" tvg-id="" tvg-name="MTV DE" tvg-logo="http://fomo.re:80/images/ALL_mtv_classic.png" group-title="Germany",MTV DE | 🌟 FREE IPTV WORLD 🌟
+http://fomo.re:80/play/INqRI1BSwwQ4bRlJzMZLSd58-yh70d6LXhGT6o2YWws/ts
+#EXTINF:-1 xui-id="94530" tvg-id="DMUSTVH" tvg-name="DELUXE MUSIC DE" tvg-logo="http://fomo.re:80/images/GER_deluxe_music.png" group-title="Germany",DELUXE MUSIC DE | 🌟 FREE IPTV WORLD 🌟
+http://fomo.re:80/play/INqRI1BSwwQ4bRlJzMZLSZPgwR9ltE3cV1hWguVnVSo/ts
+#EXTINF:-1 xui-id="94532" tvg-id="FOLXTV" tvg-name="FOLX MUSIC TELEVISION DE" tvg-logo="http://fomo.re:80/images/GER_folx.png" group-title="Germany",FOLX MUSIC TELEVISION DE | 🌟 FREE IPTV WORLD 🌟
+http://fomo.re:80/play/INqRI1BSwwQ4bRlJzMZLSUKRi4T2WSK_7k4MmBO_Vw8/ts
+#EXTINF:-1 xui-id="109719" tvg-id="RGBY" tvg-name="SuperSport Rugby HD ZA" tvg-logo="http://fomo.re:80/images/AFR_super_sport_rugby.png" group-title="UK Sport",SuperSport Rugby HD ZA | 🌟 FREE IPTV WORLD 🌟
+http://fomo.re:80/play/INqRI1BSwwQ4bRlJzMZLSUVjVzsesKNuvxy2pQnqXqw/ts
+#EXTINF:-1 xui-id="109720" tvg-id="" tvg-name="SuperSport MotorSport HD ZA" tvg-logo="http://fomo.re:80/images/AFR_super_sport_motor.png" group-title="UK Sport",SuperSport MotorSport HD ZA | 🌟 FREE IPTV WORLD 🌟
+http://fomo.re:80/play/INqRI1BSwwQ4bRlJzMZLSX42DGMxC69ya6Xu3Ctd7KQ/ts
+#EXTINF:-1 xui-id="110417" tvg-id="" tvg-name="SuperSport Blitz HD ZA" tvg-logo="http://fomo.re:80/images/AFR_super_sport_blitz.png" group-title="UK Sport",SuperSport Blitz HD ZA | 🌟 FREE IPTV WORLD 🌟
+http://fomo.re:80/play/INqRI1BSwwQ4bRlJzMZLSURXlpucZiCjq8WQXbkSI_o/ts
+#EXTINF:-1 xui-id="110419" tvg-id="" tvg-name="SuperSport Grandstand HD ZA" tvg-logo="http://fomo.re:80/images/AFR_super_sport_grandstand.png" group-title="UK Sport",SuperSport Grandstand HD ZA | 🌟 FREE IPTV WORLD 🌟
+http://fomo.re:80/play/INqRI1BSwwQ4bRlJzMZLSXRgkQQw5h5AkvRJ9B3R1EY/ts
+#EXTINF:-1 xui-id="110420" tvg-id="" tvg-name="SuperSport Action HD ZA" tvg-logo="http://fomo.re:80/images/AFR_super_sport_action.png" group-title="UK Sport",SuperSport Action HD ZA | 🌟 FREE IPTV WORLD 🌟
+http://fomo.re:80/play/INqRI1BSwwQ4bRlJzMZLSUc3EyqHQ8EIJJOgTgqBtlQ/ts
+#EXTINF:-1 xui-id="110421" tvg-id="" tvg-name="SuperSport Variety 1 HD ZA" tvg-logo="http://fomo.re:80/images/AFR_super_sport_variety.png" group-title="UK Sport",SuperSport Variety 1 HD ZA | 🌟 FREE IPTV WORLD 🌟
+http://fomo.re:80/play/INqRI1BSwwQ4bRlJzMZLSc_vfUgBAfjEgxzMzq3QQAw/ts
+#EXTINF:-1 xui-id="110422" tvg-id="" tvg-name="SuperSport Variety 2 HD ZA" tvg-logo="http://fomo.re:80/images/AFR_super_sport_variety2.png" group-title="UK Sport",SuperSport Variety 2 HD ZA | 🌟 FREE IPTV WORLD 🌟
+http://fomo.re:80/play/INqRI1BSwwQ4bRlJzMZLSc3V32CFiVJrUtuy56BMgiE/ts
+#EXTINF:-1 xui-id="110423" tvg-id="" tvg-name="SuperSport Variety 3 HD ZA" tvg-logo="http://fomo.re:80/images/AFR_super_sport_variety4.png" group-title="UK Sport",SuperSport Variety 3 HD ZA | 🌟 FREE IPTV WORLD 🌟
+http://fomo.re:80/play/INqRI1BSwwQ4bRlJzMZLSQe6cQfz4Buq9_-N6oG6W7Y/ts
+#EXTINF:-1 xui-id="110424" tvg-id="" tvg-name="SuperSport Variety 4 HD ZA" tvg-logo="http://fomo.re:80/images/AFR_super_sport_variety4.png" group-title="UK Sport",SuperSport Variety 4 HD ZA | 🌟 FREE IPTV WORLD 🌟
+http://fomo.re:80/play/INqRI1BSwwQ4bRlJzMZLSSDVJ5gRa1LuWlCO4ACePXU/ts
+#EXTINF:-1 xui-id="110425" tvg-id="" tvg-name="SuperSport Cricket HD ZA" tvg-logo="http://fomo.re:80/images/AFR_super_sport_cricket.png" group-title="UK Sport",SuperSport Cricket HD ZA | 🌟 FREE IPTV WORLD 🌟
+http://fomo.re:80/play/INqRI1BSwwQ4bRlJzMZLSYX7jrQDPsa3xUSP1SH_O-Y/ts
+#EXTINF:-1 xui-id="110426" tvg-id="" tvg-name="SuperSport Tennis HD ZA" tvg-logo="http://fomo.re:80/images/AFR_super_sport_tennis.png" group-title="UK Sport",SuperSport Tennis HD ZA | 🌟 FREE IPTV WORLD 🌟
+http://fomo.re:80/play/INqRI1BSwwQ4bRlJzMZLSWHUBHyxB3MXVkkoJKyAIuQ/ts
+#EXTINF:-1 xui-id="317920" tvg-id="SSPOMEH" tvg-name="Sky Sports Main Event" tvg-logo="http://fomo.re:80/images/_dPfLuGUDAi0_8XEWWgXfG_4n_HqarAMzD93YZ5D1YRSq8AY5C42AqD1eBjzGGd5x6Mkef4tDdsS-v1ZIL-rCg.png" group-title="UK Sport",Sky Sports Main Event | 🌟 FREE IPTV WORLD 🌟
+http://fomo.re:80/play/INqRI1BSwwQ4bRlJzMZLSUPsSJy1L5GJTrvb6qJvSdk/ts
+#EXTINF:-1 xui-id="115877" tvg-id="" tvg-name="Special events" tvg-logo="" group-title="Live Events - PPV",Special events | 🌟 FREE IPTV WORLD 🌟
+http://fomo.re:80/play/INqRI1BSwwQ4bRlJzMZLSZW-PzlyGdCGviu3SgrCGjA/ts
+#EXTINF:-1 xui-id="128418" tvg-id="" tvg-name="Discovery+ Extra 19 FHD" tvg-logo="" group-title="Sweden Sport",Discovery+ Extra 19 FHD | 🌟 FREE IPTV WORLD 🌟
+http://fomo.re:80/play/INqRI1BSwwQ4bRlJzMZLSeY9glJLPkfblfzI6dM_hdY/ts
+#EXTINF:-1 xui-id="200429" tvg-id="TSN4" tvg-name="The Sports Network 4" tvg-logo="http://fomo.re:80/images/_dPfLuGUDAi0_8XEWWgXfE7VEubu_u2jBv1zPKoc7hH7icYLWaqRzK6f_a8hElWz-MVyKtX-cneK08euXh5eWw.png" group-title="Canada/US",The Sports Network 4 | 🌟 FREE IPTV WORLD 🌟
+http://fomo.re:80/play/INqRI1BSwwQ4bRlJzMZLScFUtOrYE0Nik31Pzxv_C94/ts
+#EXTINF:-1 xui-id="200430" tvg-id="TSN5" tvg-name="The Sports Network 5" tvg-logo="http://fomo.re:80/images/_dPfLuGUDAi0_8XEWWgXfE7VEubu_u2jBv1zPKoc7hFEj8gJOlBc_RMFRyTZdW7XhgIZyQY2RfG9f5AH0-38qQ.png" group-title="Canada/US",The Sports Network 5 | 🌟 FREE IPTV WORLD 🌟
+http://fomo.re:80/play/INqRI1BSwwQ4bRlJzMZLSbMwUy9rZbne3way48yE7Mc/ts
+#EXTINF:-1 xui-id="200385" tvg-id="BEINSSC" tvg-name="BeIN Espanol" tvg-logo="" group-title="Canada/US",BeIN Espanol | 🌟 FREE IPTV WORLD 🌟
+http://fomo.re:80/play/INqRI1BSwwQ4bRlJzMZLSS5uw360rYXiqkLjqOAzU6M/ts
+#EXTINF:-1 xui-id="200386" tvg-id="BEINS1C" tvg-name="BeIN Sports Canada" tvg-logo="http://fomo.re:80/images/_dPfLuGUDAi0_8XEWWgXfKalgZikqThsurbplNCUDYlzezDhxzwq1qQ7ZU0I6EB-h4bJBx-Xj0Lym8XBGZfGpw.png" group-title="Canada/US",BeIN Sports Canada | 🌟 FREE IPTV WORLD 🌟
+http://fomo.re:80/play/INqRI1BSwwQ4bRlJzMZLSaq6gI6BZm4BNq7_yCSVg_Y/ts
+#EXTINF:-1 xui-id="200400" tvg-id="" tvg-name="CTV Speed" tvg-logo="http://fomo.re:80/images/tTFjYh88eozlydWzjgDbmsecKjXBkfDctS62Am8qHmOSTSjyywJr0wCZrm5xrXnHGeXudnO4aYlBJGHMswFkMduNSn4eDBSg4aciVtShIMzzpRJhwcD_z-HnfelzcDLd.png" group-title="Canada/US",CTV Speed | 🌟 FREE IPTV WORLD 🌟
+http://fomo.re:80/play/INqRI1BSwwQ4bRlJzMZLSSuvDc25SDnFKJNyv2TngKQ/ts
+#EXTINF:-1 xui-id="200406" tvg-id="FIGHTSD" tvg-name="Fight" tvg-logo="http://fomo.re:80/images/_dPfLuGUDAi0_8XEWWgXfGBFETfpa_I3htSxIZDk7FhLqKLpw1d12WjKPUVzh6LfMwbXtyQ9vif8YdybvuStMA.png" group-title="Canada/US",Fight | 🌟 FREE IPTV WORLD 🌟
+http://fomo.re:80/play/INqRI1BSwwQ4bRlJzMZLScoQ2QFoxJMjpy-CGg1rhkI/ts
+#EXTINF:-1 xui-id="200408" tvg-id="FSR" tvg-name="Fox Sports Racing" tvg-logo="http://fomo.re:80/images/_dPfLuGUDAi0_8XEWWgXfJUEAvSaQHVZ2mrPVJqFNumh-FoU2XLWT3T6qaFsR90RNzNNBLhH44ClUtyMwqEKsg.png" group-title="Canada/US",Fox Sports Racing | 🌟 FREE IPTV WORLD 🌟
+http://fomo.re:80/play/INqRI1BSwwQ4bRlJzMZLSZhH5I2_TATarUkbuJVJZ1c/ts
+#EXTINF:-1 xui-id="200409" tvg-id="GOLFBO" tvg-name="Golf Channel" tvg-logo="http://fomo.re:80/images/_dPfLuGUDAi0_8XEWWgXfBNQKdoVeFybDKwsK_f5OnjJxWaTtgsnKLIypQs7F2y-B5EeNWZtj4wUbwNuN3cpdw.png" group-title="Canada/US",Golf Channel | 🌟 FREE IPTV WORLD 🌟
+http://fomo.re:80/play/INqRI1BSwwQ4bRlJzMZLSVwFthaxvZT9zCgmNAyJxKs/ts
+#EXTINF:-1 xui-id="200414" tvg-id="NBATVC" tvg-name="NBA TV Canada" tvg-logo="http://fomo.re:80/images/_dPfLuGUDAi0_8XEWWgXfG53HU2L4l3Xl366kyQzL5DiMkvS3v0oEKFkA56j_ioushkzv_JFRmAR0gNp9TGTPg.png" group-title="Canada/US",NBA TV Canada | 🌟 FREE IPTV WORLD 🌟
+http://fomo.re:80/play/INqRI1BSwwQ4bRlJzMZLSUKLVkXFb56BHFhTIYZjYYw/ts
+#EXTINF:-1 xui-id="200415" tvg-id="NFLCET" tvg-name="NFL Network" tvg-logo="http://fomo.re:80/images/_dPfLuGUDAi0_8XEWWgXfP2O61LH78AQteTt-lY_Ow7IR20ZfgVXqX4ToDVC-fCA1O2bZYuynp4qh_q6nPO0Eg.png" group-title="Canada/US",NFL Network | 🌟 FREE IPTV WORLD 🌟
+http://fomo.re:80/play/INqRI1BSwwQ4bRlJzMZLSVfQ7RPHiy-AAPVwwqHtOck/ts
+#EXTINF:-1 xui-id="200416" tvg-id="NHLH1" tvg-name="NHL Centre Ice HD 1" tvg-logo="http://fomo.re:80/images/_dPfLuGUDAi0_8XEWWgXfJX3ytQqzsFTEpv8eES3noD8aQ99vOSrnmeANtWOg-7WGrZUl71Z70BZCa64baal3w.png" group-title="Canada/US",NHL Centre Ice HD 1 | 🌟 FREE IPTV WORLD 🌟
+http://fomo.re:80/play/INqRI1BSwwQ4bRlJzMZLSf5E0bLeIyB5Tpr4UIX_QV8/ts
+#EXTINF:-1 xui-id="200421" tvg-id="RSO1HD" tvg-name="Sportsnet One" tvg-logo="http://fomo.re:80/images/_dPfLuGUDAi0_8XEWWgXfLaVtzXLAfa4ixjuwBglRLnVv35kh5SzqeydPOn5bMIC.png" group-title="Canada/US",Sportsnet One | 🌟 FREE IPTV WORLD 🌟
+http://fomo.re:80/play/INqRI1BSwwQ4bRlJzMZLSWug47mWrCW_2VIFdkrCyoM/ts
+#EXTINF:-1 xui-id="200422" tvg-id="SN360" tvg-name="Sportsnet 360" tvg-logo="http://fomo.re:80/images/_dPfLuGUDAi0_8XEWWgXfMmMmmQA--knrMtz3Appi52Z-zDnmgSor8dHfJx6hY1VxPUU-cCM6Om8c8hadLcjKQ.png" group-title="Canada/US",Sportsnet 360 | 🌟 FREE IPTV WORLD 🌟
+http://fomo.re:80/play/INqRI1BSwwQ4bRlJzMZLSSgcbrHzxr2xJXE0gdnkm9E/ts
+#EXTINF:-1 xui-id="200423" tvg-id="SNE" tvg-name="Sportsnet East" tvg-logo="http://fomo.re:80/images/_dPfLuGUDAi0_8XEWWgXfOgTU6HY6X-3v059Qv9CdKH1tXZiVmJOslKaxxlhghaofzPyYeXLy6AI7jBxW-dd7g.png" group-title="Canada/US",Sportsnet East | 🌟 FREE IPTV WORLD 🌟
+http://fomo.re:80/play/INqRI1BSwwQ4bRlJzMZLSWEvLALP1b4mGw1QA310qp0/ts
+#EXTINF:-1 xui-id="200424" tvg-id="" tvg-name="Sportsnet Flames" tvg-logo="https://pbs.twimg.com/media/FctG0g9XEAUqHqn.jpg:large" group-title="Canada/US",Sportsnet Flames | 🌟 FREE IPTV WORLD 🌟
+http://fomo.re:80/play/INqRI1BSwwQ4bRlJzMZLSdZQDLJT-bzo8J5ZcSmAFTg/ts
+#EXTINF:-1 xui-id="200426" tvg-id="TSN1" tvg-name="The Sports Network 1" tvg-logo="http://fomo.re:80/images/_dPfLuGUDAi0_8XEWWgXfKalgZikqThsurbplNCUDYl4Pp7sg0GZQ8fV1aePV6rvixRGvCtFViM_HoYjgYJ_KA.png" group-title="Canada/US",The Sports Network 1 | 🌟 FREE IPTV WORLD 🌟
+http://fomo.re:80/play/INqRI1BSwwQ4bRlJzMZLSXVCErOX_DzvgBgOmNg4dbY/ts
+#EXTINF:-1 xui-id="200427" tvg-id="TSN2" tvg-name="The Sports Network 2" tvg-logo="http://fomo.re:80/images/_dPfLuGUDAi0_8XEWWgXfOgTU6HY6X-3v059Qv9CdKGETnQ51HmPI0W9gLB8tBEjPVfoRDcvAnstIMpIieC7sA.png" group-title="Canada/US",The Sports Network 2 | 🌟 FREE IPTV WORLD 🌟
+http://fomo.re:80/play/INqRI1BSwwQ4bRlJzMZLSfpYu7rnVJHCaBYl9yN8Z7Y/ts
+#EXTINF:-1 xui-id="277179" tvg-id="BEINS1C" tvg-name="beIN Sports CA" tvg-logo="http://fomo.re:80/images/_dPfLuGUDAi0_8XEWWgXfKalgZikqThsurbplNCUDYlzezDhxzwq1qQ7ZU0I6EB-h4bJBx-Xj0Lym8XBGZfGpw.png" group-title="Canada/US",beIN Sports CA | 🌟 FREE IPTV WORLD 🌟
+http://fomo.re:80/play/INqRI1BSwwQ4bRlJzMZLSYBAGLQw3cIMCFl1Fuaw5pM/ts
+#EXTINF:-1 xui-id="277180" tvg-id="" tvg-name="OneSoccer Canada" tvg-logo="http://fomo.re:80/images/9ZavBfkOvSZTIxlJP87Nf7vH8iyW4PQcmDDdb6zGY6DPpCjVQBxLTdAd0xv6FTygnCWmvwvLkFWInBhzSXWCbA.png" group-title="Canada/US",OneSoccer Canada | 🌟 FREE IPTV WORLD 🌟
+http://fomo.re:80/play/INqRI1BSwwQ4bRlJzMZLSRkswZFDpDgSzG0nyOb00JA/ts
+#EXTINF:-1 xui-id="277181" tvg-id="XAZWPT" tvg-name="World Poker Tour" tvg-logo="http://fomo.re:80/images/_dPfLuGUDAi0_8XEWWgXfKalgZikqThsurbplNCUDYlC6HqvNcL3Amv36ecA043U5B7XpMCy4tWz3RcSTRKlFg.png" group-title="Canada/US",World Poker Tour | 🌟 FREE IPTV WORLD 🌟
+http://fomo.re:80/play/INqRI1BSwwQ4bRlJzMZLSTXoacMnwEsVzB-OdV3yYAI/ts
+#EXTINF:-1 xui-id="277182" tvg-id="BEINX" tvg-name="beIN Sports Xtra" tvg-logo="http://fomo.re:80/images/_dPfLuGUDAi0_8XEWWgXfKalgZikqThsurbplNCUDYllmJfaX4fcAyGRJIW_MJt4MbC1CxsqJNZAYdcUdqgk_w.png" group-title="Canada/US",beIN Sports Xtra | 🌟 FREE IPTV WORLD 🌟
+http://fomo.re:80/play/INqRI1BSwwQ4bRlJzMZLSffp5HM0cdwGK04wRqiSSX4/ts
+#EXTINF:-1 xui-id="277184" tvg-id="" tvg-name="DAZN Ringside" tvg-logo="http://fomo.re:80/images/TZRE-XhS-WR8IIGAH-puBQ7wnJsQf-6ezViXk0rGyBNl2nq2HFQHzahpCLCOxnKU05pA76TF9LegVukg2wqRRC8M8cgh99grh99srdVtPpY.jpg" group-title="Canada/US",DAZN Ringside | 🌟 FREE IPTV WORLD 🌟
+http://fomo.re:80/play/INqRI1BSwwQ4bRlJzMZLSc_bLQlhxrW98JGZVUHZ7ss/ts
+#EXTINF:-1 xui-id="277186" tvg-id="" tvg-name="FloHockey CA" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRzh-WjjpRqUd603zDB_g9PcNbVRXhly3WXPA&s" group-title="Canada/US",FloHockey CA | 🌟 FREE IPTV WORLD 🌟
+http://fomo.re:80/play/INqRI1BSwwQ4bRlJzMZLSYf2iDHr7Tq1BJNyB-qU_t8/ts
+#EXTINF:-1 xui-id="200368" tvg-id="ARTSC" tvg-name="A&E Canada" tvg-logo="http://fomo.re:80/images/_dPfLuGUDAi0_8XEWWgXfP2O61LH78AQteTt-lY_Ow7J4qAqUu_FMog_cU_hjmp730FwaYbqoZrGL4OCJbYVGQ.png" group-title="Canada/US",A&E Canada | 🌟 FREE IPTV WORLD 🌟
+http://fomo.re:80/play/INqRI1BSwwQ4bRlJzMZLSfXljZPgnG0H4P6KfmMXuUA/ts
+#EXTINF:-1 xui-id="200378" tvg-id="SPARK" tvg-name="ABC Spark" tvg-logo="http://fomo.re:80/images/_dPfLuGUDAi0_8XEWWgXfAS5PVO0P9Ns_eqOaWlqYUCuY3E6piCmtSDVzJ3EeWKw3GxiewMHgUjTr2NzKt2stQ.png" group-title="Canada/US",ABC Spark | 🌟 FREE IPTV WORLD 🌟
+http://fomo.re:80/play/INqRI1BSwwQ4bRlJzMZLSYCpQPI2SZUty6WTB0vTYGc/ts
+#EXTINF:-1 xui-id="200379" tvg-id="AMCCAN" tvg-name="AMC" tvg-logo="http://fomo.re:80/images/_dPfLuGUDAi0_8XEWWgXfLbSlrUCoabGLkO1x9nYm41SUaIPUau0pZJ_C6nBx6v4c4Uw8KdjMpMd6d5S0IY9Pw.png" group-title="Canada/US",AMC | 🌟 FREE IPTV WORLD 🌟
+http://fomo.re:80/play/INqRI1BSwwQ4bRlJzMZLSSZk5RODc8zp0jEILDtoT3o/ts
+#EXTINF:-1 xui-id="200380" tvg-id="AMITELE" tvg-name="AMI Télé" tvg-logo="http://fomo.re:80/images/_dPfLuGUDAi0_8XEWWgXfHhD4zu6huwCzFbNkzqJq9bHSWv_pirEcKqJTUA9xZd5gdt0r9mefEFpk9F2We7Spw.png" group-title="Canada/US",AMI Télé | 🌟 FREE IPTV WORLD 🌟
+http://fomo.re:80/play/INqRI1BSwwQ4bRlJzMZLScRrbbxs6N2lX11ih6ZC0KI/ts
+#EXTINF:-1 xui-id="200381" tvg-id="" tvg-name="AMI TV" tvg-logo="https://i.ytimg.com/vi/-PCUTpMf9E0/hq720.jpg?sqp=-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLBIUwkmqAWieYs1b-vfmopCL1wUbA" group-title="Canada/US",AMI TV | 🌟 FREE IPTV WORLD 🌟
+http://fomo.re:80/play/INqRI1BSwwQ4bRlJzMZLSZ1RP6MEGYdv8q34B06KJAM/ts
+#EXTINF:-1 xui-id="200382" tvg-id="" tvg-name="CTV Wild" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQQ-fPWORUMcYmMtFJ3Qg6hkV1bvHAe5TpkFA&s" group-title="Canada/US",CTV Wild | 🌟 FREE IPTV WORLD 🌟
+http://fomo.re:80/play/INqRI1BSwwQ4bRlJzMZLSc2fYM_t35fjtj9SasRterE/ts
+#EXTINF:-1 xui-id="200383" tvg-id="APTNHD" tvg-name="APTN" tvg-logo="http://fomo.re:80/images/_dPfLuGUDAi0_8XEWWgXfOHyNJ_eaRI4HX-KItXF05KC2IJNK4wyFzsWVJ4pVnKx7huS-838AAr9E0iUA1WQpQ.png" group-title="Canada/US",APTN | 🌟 FREE IPTV WORLD 🌟
+http://fomo.re:80/play/INqRI1BSwwQ4bRlJzMZLSaRpX8IWVZBko691YqDSLH8/ts
+#EXTINF:-1 xui-id="200384" tvg-id="BBCECSD" tvg-name="BBC Earth Canada" tvg-logo="http://fomo.re:80/images/_dPfLuGUDAi0_8XEWWgXfJTPZrlTy9Dr7wp-VJp7Gns7ptLWkSvrwc8vtAykYEF4DjP5Xuqoa2_ya_GV-soQLA.png" group-title="Canada/US",BBC Earth Canada | 🌟 FREE IPTV WORLD 🌟
+http://fomo.re:80/play/INqRI1BSwwQ4bRlJzMZLSdvaA0uOT0IS7Ky5Ee5ILQ0/ts
+#EXTINF:-1 xui-id="200387" tvg-id="BNNB" tvg-name="BNN Bloomberg" tvg-logo="http://fomo.re:80/images/_dPfLuGUDAi0_8XEWWgXfMmMmmQA--knrMtz3Appi51sHO5zuiPj0RVREtSeE5Avp8BCz09BCSZF6aVWO9kbPw.png" group-title="Canada/US",BNN Bloomberg | 🌟 FREE IPTV WORLD 🌟
+http://fomo.re:80/play/INqRI1BSwwQ4bRlJzMZLSTT7Yd6RtTHIM2oLbkKIoj0/ts
+#EXTINF:-1 xui-id="200388" tvg-id="DRAMAS" tvg-name="CTV Drama Channel" tvg-logo="http://fomo.re:80/images/_dPfLuGUDAi0_8XEWWgXfChvDIGeEHAuUFTkpWYZwk7FDEkC0WONaSxAwax4XdAkwx0TpZgVAV-CxP3gCvn6SQ.png" group-title="Canada/US",CTV Drama Channel | 🌟 FREE IPTV WORLD 🌟
+http://fomo.re:80/play/INqRI1BSwwQ4bRlJzMZLScvi8VNlF3Gj5UQHQFzTcAE/ts
+#EXTINF:-1 xui-id="200389" tvg-id="CBC" tvg-name="CBC Edmonton" tvg-logo="http://fomo.re:80/images/_dPfLuGUDAi0_8XEWWgXfP2O61LH78AQteTt-lY_Ow4AawBZrHK_4Xg-kuPZ7fss.png" group-title="Canada/US",CBC Edmonton | 🌟 FREE IPTV WORLD 🌟
+http://fomo.re:80/play/INqRI1BSwwQ4bRlJzMZLSVVfIgZmkvNNlf5y2GopCyw/ts
+#EXTINF:-1 xui-id="200390" tvg-id="CBC" tvg-name="CBC Halifax" tvg-logo="http://fomo.re:80/images/_dPfLuGUDAi0_8XEWWgXfP2O61LH78AQteTt-lY_Ow4AawBZrHK_4Xg-kuPZ7fss.png" group-title="Canada/US",CBC Halifax | 🌟 FREE IPTV WORLD 🌟
+http://fomo.re:80/play/INqRI1BSwwQ4bRlJzMZLSZvOXhci-rlShHDGMDI0geM/ts
+#EXTINF:-1 xui-id="200391" tvg-id="CBNEWS" tvg-name="CBC News Network" tvg-logo="http://fomo.re:80/images/_dPfLuGUDAi0_8XEWWgXfP2O61LH78AQteTt-lY_Ow5YqqR4El6QkRShFUFxLNBbYdvpNIhGnhVKoIJ34TlE6g.png" group-title="Canada/US",CBC News Network | 🌟 FREE IPTV WORLD 🌟
+http://fomo.re:80/play/INqRI1BSwwQ4bRlJzMZLSRK6G7hQ1wayvXknbpcQSPk/ts
+#EXTINF:-1 xui-id="200392" tvg-id="CBC" tvg-name="CBC Toronto" tvg-logo="http://fomo.re:80/images/_dPfLuGUDAi0_8XEWWgXfP2O61LH78AQteTt-lY_Ow4AawBZrHK_4Xg-kuPZ7fss.png" group-title="Canada/US",CBC Toronto | 🌟 FREE IPTV WORLD 🌟
+http://fomo.re:80/play/INqRI1BSwwQ4bRlJzMZLSdL37yNGi_GgP1ZQyzraze8/ts
+#EXTINF:-1 xui-id="200393" tvg-id="CITYE" tvg-name="Citytv Edmonton" tvg-logo="http://fomo.re:80/images/_dPfLuGUDAi0_8XEWWgXfP2O61LH78AQteTt-lY_Ow68EdbveeDCvXWzOTNNNsDe.png" group-title="Canada/US",Citytv Edmonton | 🌟 FREE IPTV WORLD 🌟
+http://fomo.re:80/play/INqRI1BSwwQ4bRlJzMZLSZEbcAjxrwW-pyzMxuazVMM/ts
+#EXTINF:-1 xui-id="200394" tvg-id="GCMTWK" tvg-name="CMT Canada" tvg-logo="http://fomo.re:80/images/PVZYckBDlJsfwNSZnn7bMuGO2lLv-zBokoXh_gglg800UyhoRdlQoIm38b07M180N5ECHH17bdiKy6R_eFFXw0nOkcLzCNY8OykCdSAkIo2ASKNhNKmIWavD7QGhFTYwjNGz9Skpb5ho-soYoRljkQ.png" group-title="Canada/US",CMT Canada | 🌟 FREE IPTV WORLD 🌟
+http://fomo.re:80/play/INqRI1BSwwQ4bRlJzMZLSQk-PzNGjLdIO9f4_Ic0LKA/ts
+#EXTINF:-1 xui-id="200395" tvg-id="CNBC" tvg-name="CNBC Canada" tvg-logo="http://fomo.re:80/images/_dPfLuGUDAi0_8XEWWgXfP2O61LH78AQteTt-lY_Ow4qW0-gcWZI7SSB2OhsEOswILAnIVuLTkZBO2Naz8fZog.png" group-title="Canada/US",CNBC Canada | 🌟 FREE IPTV WORLD 🌟
+http://fomo.re:80/play/INqRI1BSwwQ4bRlJzMZLSedOdz9HfMTwgs-yX9UJRfI/ts
+#EXTINF:-1 xui-id="200396" tvg-id="CPAC" tvg-name="CPAC English" tvg-logo="http://fomo.re:80/images/_dPfLuGUDAi0_8XEWWgXfMV5V35qMpzVd8bQDPN0Q0PofmvBwyGJ5Puqsxptl_jHMaMZS9DqADD9anj3bvxTsQ.png" group-title="Canada/US",CPAC English | 🌟 FREE IPTV WORLD 🌟
+http://fomo.re:80/play/INqRI1BSwwQ4bRlJzMZLSRijd4O-EwdNCcozZD--AGA/ts
+#EXTINF:-1 xui-id="200397" tvg-id="CPACF" tvg-name="CPAC French" tvg-logo="http://fomo.re:80/images/_dPfLuGUDAi0_8XEWWgXfC0Gb2-PO26VPrE9PKxwEZGrpwF_Q83RXkJnBCgKbx3RB9aczKrrBoMz8oev1IKcSg.png" group-title="Canada/US",CPAC French | 🌟 FREE IPTV WORLD 🌟
+http://fomo.re:80/play/INqRI1BSwwQ4bRlJzMZLSTu0cLHkARktMTz-LhYcsS8/ts
+#EXTINF:-1 xui-id="200399" tvg-id="CTV2AHD" tvg-name="CTV2 Alberta" tvg-logo="http://fomo.re:80/images/_dPfLuGUDAi0_8XEWWgXfP2O61LH78AQteTt-lY_Ow5te1Ns5UWflkzadf64Fe51gkzSXJiIN_gIF6HjJY52Eg.png" group-title="Canada/US",CTV2 Alberta | 🌟 FREE IPTV WORLD 🌟
+http://fomo.re:80/play/INqRI1BSwwQ4bRlJzMZLSR6jBwvM6ol7glIEOriYpHU/ts
+#EXTINF:-1 xui-id="200401" tvg-id="DISCA" tvg-name="Disney Channel Canada" tvg-logo="http://fomo.re:80/images/_dPfLuGUDAi0_8XEWWgXfIf_JH1ZxRyZm5xz9p4Hyc8flinVXeLoaH5HtXM46HJr5v2YxBb45POjy27XComXUg.png" group-title="Canada/US",Disney Channel Canada | 🌟 FREE IPTV WORLD 🌟
+http://fomo.re:80/play/INqRI1BSwwQ4bRlJzMZLSeDbhL171yWgjtwYPmywQqQ/ts
+#EXTINF:-1 xui-id="200402" tvg-id="DISJRC" tvg-name="Disney Jr" tvg-logo="http://fomo.re:80/images/_dPfLuGUDAi0_8XEWWgXfIUY1BSRbOy9OFfIByEBn_BPUGWixQw8glGcyVXJj2e449ahuBfyx7XsXE98AG8bWQ.png" group-title="Canada/US",Disney Jr | 🌟 FREE IPTV WORLD 🌟
+http://fomo.re:80/play/INqRI1BSwwQ4bRlJzMZLSWSp4XSAbE3hMyIHhjg0Bg4/ts
+#EXTINF:-1 xui-id="200403" tvg-id="DTOUR" tvg-name="DTour" tvg-logo="http://fomo.re:80/images/_dPfLuGUDAi0_8XEWWgXfMV5V35qMpzVd8bQDPN0Q0OyNSuay-IByFwL6TtbUUQO7sSglEyiA9iK_NyAfpcBlg.png" group-title="Canada/US",DTour | 🌟 FREE IPTV WORLD 🌟
+http://fomo.re:80/play/INqRI1BSwwQ4bRlJzMZLSVPayYy6UBBU87axJq9y1n8/ts
+#EXTINF:-1 xui-id="200404" tvg-id="ECAN" tvg-name="E! Canada" tvg-logo="http://fomo.re:80/images/_dPfLuGUDAi0_8XEWWgXfMmMmmQA--knrMtz3Appi53rbmTMtUx4dBSe_lLx3M5qs3lNTpkQe6NTX4jwl1RBPA.png" group-title="Canada/US",E! Canada | 🌟 FREE IPTV WORLD 🌟
+http://fomo.re:80/play/INqRI1BSwwQ4bRlJzMZLSTeZOrclg-2AuDlGqkcGXC0/ts
+#EXTINF:-1 xui-id="200405" tvg-id="TFCHD" tvg-name="Family Channel East" tvg-logo="http://fomo.re:80/images/_dPfLuGUDAi0_8XEWWgXfI4DaEgi8s855J4MrGBr6GqnipTbHAgfxKCg9WQ_kEPFMp1kHJoHbFDnvJxdpMrA_w.png" group-title="Canada/US",Family Channel East | 🌟 FREE IPTV WORLD 🌟
+http://fomo.re:80/play/INqRI1BSwwQ4bRlJzMZLSTrDCsi_ES8mhawG4M2oolE/ts
+#EXTINF:-1 xui-id="200407" tvg-id="FXNCHME" tvg-name="FOX News" tvg-logo="http://fomo.re:80/images/_dPfLuGUDAi0_8XEWWgXfP2O61LH78AQteTt-lY_Ow5Qu_fpI6wSUm3NKL9odgan.png" group-title="Canada/US",FOX News | 🌟 FREE IPTV WORLD 🌟
+http://fomo.re:80/play/INqRI1BSwwQ4bRlJzMZLSdINjoCOyR_3XyB4DKP1m1k/ts
+#EXTINF:-1 xui-id="200410" tvg-id="GSN" tvg-name="Game Show Network" tvg-logo="http://fomo.re:80/images/_dPfLuGUDAi0_8XEWWgXfKzkJtxg9QlE9HKluWzuu4jE8QfL_mXe3KmJtXREa-LCyAbaIw2o8RaaXrkI6zXCMA.png" group-title="Canada/US",Game Show Network | 🌟 FREE IPTV WORLD 🌟
+http://fomo.re:80/play/INqRI1BSwwQ4bRlJzMZLSUnuXqjzoWHCLe-gzV87RYw/ts
+#EXTINF:-1 xui-id="200411" tvg-id="LIFES" tvg-name="CTV LIFE CHANNEL" tvg-logo="http://fomo.re:80/images/_dPfLuGUDAi0_8XEWWgXfOgTU6HY6X-3v059Qv9CdKEbDwpoUWXxDBQvx7UF35yWNORPTo3-m7XYCEtTrV8w0A.png" group-title="Canada/US",CTV LIFE CHANNEL | 🌟 FREE IPTV WORLD 🌟
+http://fomo.re:80/play/INqRI1BSwwQ4bRlJzMZLSQKAWy1ofHfX9ZLNVq-Wnr8/ts
+#EXTINF:-1 xui-id="200412" tvg-id="HBO1" tvg-name="HBO Canada 1" tvg-logo="http://fomo.re:80/images/_dPfLuGUDAi0_8XEWWgXfOHyNJ_eaRI4HX-KItXF05KwDpRgKlkRu6uqTBPuFBNI4oWLiGeOP5Lm9GSaE84OJA.png" group-title="Canada/US",HBO Canada 1 | 🌟 FREE IPTV WORLD 🌟
+http://fomo.re:80/play/INqRI1BSwwQ4bRlJzMZLSYyR_N3R3_oddHRktye-B5M/ts
+#EXTINF:-1 xui-id="200413" tvg-id="GHB2DLY" tvg-name="HBO 2" tvg-logo="http://fomo.re:80/images/hukCtGld7XHJyVONEThcsHvpAsvS4DP2nqVnf5i7-UqIuYcvFhMYnydRgLY8ugox5_sCCT4dFgHzKeB2TsZzKxmlwclzF95BZ5AY27n9WkMu1U-VoJdTqa5jPlW_R6iTzuZVhTKW2a-5GMzSQiIE8A.png" group-title="Canada/US",HBO 2 | 🌟 FREE IPTV WORLD 🌟
+http://fomo.re:80/play/INqRI1BSwwQ4bRlJzMZLSU13smYSMGHsCKKvOvlsJ90/ts
+#EXTINF:-1 xui-id="200417" tvg-id="" tvg-name="Home Networkl" tvg-logo="https://yt3.googleusercontent.com/evoJpnyjF6KlXN4frS7MRE8_BNq1dxuo60hXAEogFMQrrpZBqUHrL-0-D4_9diWTqVtSaLUOzQ=s900-c-k-c0x00ffffff-no-rj" group-title="Canada/US",Home Networkl | 🌟 FREE IPTV WORLD 🌟
+http://fomo.re:80/play/INqRI1BSwwQ4bRlJzMZLSdc0K6b8moVimyK2xrONH5o/ts
+#EXTINF:-1 xui-id="200418" tvg-id="NATUR" tvg-name="Love Nature" tvg-logo="http://fomo.re:80/images/_dPfLuGUDAi0_8XEWWgXfLbSlrUCoabGLkO1x9nYm43NxEY_eFpiX0eMT9bZclpLjav4E3iGaZI5wKKID3kmrA.png" group-title="Canada/US",Love Nature | 🌟 FREE IPTV WORLD 🌟
+http://fomo.re:80/play/INqRI1BSwwQ4bRlJzMZLSUwn-eCorhIo7DkEl4zpMrY/ts
+#EXTINF:-1 xui-id="200419" tvg-id="NICKLMC" tvg-name="Nickelodeon" tvg-logo="http://fomo.re:80/images/_dPfLuGUDAi0_8XEWWgXfP2O61LH78AQteTt-lY_Ow6_YBQiXxNMMyWh795Kgn0_.png" group-title="Canada/US",Nickelodeon | 🌟 FREE IPTV WORLD 🌟
+http://fomo.re:80/play/INqRI1BSwwQ4bRlJzMZLSTqGa2V-IkxVrJXOf57BfXE/ts
+#EXTINF:-1 xui-id="200420" tvg-id="SHCSCHD" tvg-name="Showcase Canada HD" tvg-logo="http://fomo.re:80/images/_dPfLuGUDAi0_8XEWWgXfJTPZrlTy9Dr7wp-VJp7GnuTIysWO9JGCEtPY7ZEpEOZHkZ88lc_zWaUzD2zxWiyAQ.png" group-title="Canada/US",Showcase Canada HD | 🌟 FREE IPTV WORLD 🌟
+http://fomo.re:80/play/INqRI1BSwwQ4bRlJzMZLSeEMIy28ljGAAXj3-D9l2L4/ts
+#EXTINF:-1 xui-id="200425" tvg-id="CN" tvg-name="Cartoon Network Canada" tvg-logo="http://fomo.re:80/images/_dPfLuGUDAi0_8XEWWgXfFxigrpSPPMwQUQTW8_vxXQpkPE5xpwE7202xrANkUns-VcQSfhJBIhB6xz2P893zQ.png" group-title="Canada/US",Cartoon Network Canada | 🌟 FREE IPTV WORLD 🌟
+http://fomo.re:80/play/INqRI1BSwwQ4bRlJzMZLSY5VmhvlOkklULZI7iw-1pA/ts
+#EXTINF:-1 xui-id="230072" tvg-id="" tvg-name="Supersport Golf HD ZA" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcShAA7ZSjbWDtRvucdHm8Ee70JOcXjWinrwkQmciNcRNcKv1FApLqDBhfKHpTQ2whfKiyo&usqp=CAU" group-title="Norway Sport",Supersport Golf HD ZA | 🌟 FREE IPTV WORLD 🌟
+http://fomo.re:80/play/INqRI1BSwwQ4bRlJzMZLSXEtdlyX4qTfVECCTPDGGwI/ts
+#EXTINF:-1 xui-id="93298" tvg-id="" tvg-name="Наука UA" tvg-logo="http://fomo.re:80/images/UKR_nauka.png" group-title="Ukraine",Наука UA | 🌟 FREE IPTV WORLD 🌟
+http://fomo.re:80/play/INqRI1BSwwQ4bRlJzMZLSZNbx0HzsO16X0ZlS3uwY1w/ts
+#EXTINF:-1 xui-id="93307" tvg-id="" tvg-name="Music Box UA" tvg-logo="http://fomo.re:80/images/UKR_music_box.png" group-title="Ukraine",Music Box UA | 🌟 FREE IPTV WORLD 🌟
+http://fomo.re:80/play/INqRI1BSwwQ4bRlJzMZLSds_KL-Ku1ftGjAKcUbRDRY/ts
+#EXTINF:-1 xui-id="507" tvg-id="NOW80UK" tvg-name="Now 80's" tvg-logo="http://fomo.re:80/images/UK_now_80.png" group-title="Music",Now 80's | 🌟 FREE IPTV WORLD 🌟
+http://fomo.re:80/play/INqRI1BSwwQ4bRlJzMZLSQlnMvgaVwA1c-bad4zTy2w/ts
+#EXTINF:-1 xui-id="506" tvg-id="NOW70UK" tvg-name="Now 70's" tvg-logo="http://fomo.re:80/images/now_70.png" group-title="Music",Now 70's | 🌟 FREE IPTV WORLD 🌟
+http://fomo.re:80/play/INqRI1BSwwQ4bRlJzMZLSVRqVIpL7emZRzMkOVvvq1Q/ts
+#EXTINF:-1 xui-id="42" tvg-id="156434" tvg-name="MTV 00s" tvg-logo="http://fomo.re:80/images/ALL_mtv_00.png" group-title="Music",MTV 00s | 🌟 FREE IPTV WORLD 🌟
+http://fomo.re:80/play/INqRI1BSwwQ4bRlJzMZLSXuoOGJAtSpLlk2xEhDAq1o/ts
+#EXTINF:-1 xui-id="43" tvg-id="156418" tvg-name="MTV 80s" tvg-logo="http://fomo.re:80/images/ALL_mtv_80.png" group-title="Music",MTV 80s | 🌟 FREE IPTV WORLD 🌟
+http://fomo.re:80/play/INqRI1BSwwQ4bRlJzMZLSQPcVKGo_rJUY8WwpqvjKaA/ts
+#EXTINF:-1 xui-id="505" tvg-id="BOX" tvg-name="The Box" tvg-logo="http://fomo.re:80/images/UK_the_box_tv_v2.png" group-title="Music",The Box | 🌟 FREE IPTV WORLD 🌟
+http://fomo.re:80/play/INqRI1BSwwQ4bRlJzMZLSTmrAn4IOLK50ckiHOrjwPo/ts
+#EXTINF:-1 xui-id="504" tvg-id="" tvg-name="Magic" tvg-logo="http://fomo.re:80/images/UK_magic_tv.png" group-title="Music",Magic | 🌟 FREE IPTV WORLD 🌟
+http://fomo.re:80/play/INqRI1BSwwQ4bRlJzMZLSfDwiuowKENUu8doKj-PYYo/ts
+#EXTINF:-1 xui-id="500" tvg-id="4MUSIC" tvg-name="4Music" tvg-logo="http://fomo.re:80/images/UK_4music.png" group-title="Music",4Music | 🌟 FREE IPTV WORLD 🌟
+http://fomo.re:80/play/INqRI1BSwwQ4bRlJzMZLSV_ImzIGHDCctnNod0hUNxM/ts
+#EXTINF:-1 xui-id="502" tvg-id="" tvg-name="Kiss TV" tvg-logo="http://fomo.re:80/images/UK_kiss_tv.png" group-title="Music",Kiss TV | 🌟 FREE IPTV WORLD 🌟
+http://fomo.re:80/play/INqRI1BSwwQ4bRlJzMZLSTdAwgRvRJH9NATj-5qWnWM/ts
+#EXTINF:-1 xui-id="501" tvg-id="BOXHTUK" tvg-name="Box Hits" tvg-logo="http://fomo.re:80/images/UK_the_box_plus.png" group-title="Music",Box Hits | 🌟 FREE IPTV WORLD 🌟
+http://fomo.re:80/play/INqRI1BSwwQ4bRlJzMZLSQB7Xm0tmBzsfRuLAMy_XLo/ts
+#EXTINF:-1 xui-id="4366" tvg-id="KRANG" tvg-name="Kerrang!" tvg-logo="http://fomo.re:80/images/UK_keerang.png" group-title="Music",Kerrang! | 🌟 FREE IPTV WORLD 🌟
+http://fomo.re:80/play/INqRI1BSwwQ4bRlJzMZLSZxgivB0ohO33XsCZIXZ5xM/ts
