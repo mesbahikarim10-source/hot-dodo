@@ -143,6 +143,7 @@ def build_post_keyboard():
         [InlineKeyboardButton("📣 𝗢𝘂𝗿 𝗖𝗵𝗮𝗻𝗻𝗲𝗹", url="https://t.me/free_iptv_world"), InlineKeyboardButton("💬 𝗢𝘂𝗿 𝗚𝗿𝗼𝘂𝗽", url="https://t.me/FREE_IPTV_WORLD_CHAT")],
         [InlineKeyboardButton("How to use our links 🥰", url="https://t.me/free_iptv_world/2763")],
         [InlineKeyboardButton("🔁 𝗦𝗵𝗮𝗿𝗲 𝗣𝗼𝘀𝘁", url="https://t.me/share/url?url=https://t.me/free_iptv_world&text=🔥%20أقوى%20سيرفرات%20IPTV%20مجاناً%20🔥")],
+        [InlineKeyboardButton("🤑 VIP Free Earning 💸", url="https://t.me/cryptomintnftbot?start=REF-1144699168")],
         [InlineKeyboardButton("💎 FREE MONEY 💸", url="https://t.me/ATF_AIRDROP_bot?start=1144699168")],
         [InlineKeyboardButton("🚀 𝗕𝗼𝗼𝘀𝘁 𝗢𝘂𝗿 𝗖𝗵𝗮𝗻𝗻𝗲𝗹 🌟", url="https://t.me/boost/free_iptv_world")]
     ])
